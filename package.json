@@ -7,6 +7,7 @@
     "snapshot:all": "node create-snapshots.js --all",
     "snapshot:create": "node create-snapshots.js --create",
     "snapshot:update": "node create-snapshots.js --update",
+    "report:html": "node generate-html-report.js",
     "test": "playwright test",
     "test:headed": "playwright test --headed",
     "install:browsers": "playwright install"
