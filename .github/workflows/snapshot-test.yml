@@ -33,9 +33,9 @@ jobs:
     - name: Install Playwright browsers
       run: npx playwright install --with-deps chromium
       
-    - name: Run snapshot tests
+    - name: Create snapshots and generate reports
       id: snapshot_tests
-      run: npm test
+      run: npm run snapshot:all
       continue-on-error: true
       
     - name: Read test report
@@ -100,9 +100,7 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: snapshot-report
-        path: |
-          test-results/*.json
-          test-results/*.html
+        path: test-results/
         retention-days: 30
     
     - name: Comment PR with results
