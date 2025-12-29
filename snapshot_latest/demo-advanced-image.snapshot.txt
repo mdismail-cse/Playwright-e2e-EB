@@ -1,4 +1,4 @@
-- text: 07 Days 00 Hours 58 Mins 53 Secs
+- text: 07 Days 00 Hours 58 Mins 57 Secs
 - figure
 - figure
 - paragraph: Season’s Best Deals
@@ -235,7 +235,7 @@
 - paragraph: Giulio C just purchased
 - paragraph: Essential Blocks Pro — Starter
 - paragraph:
-  - text: 17 hours ago
+  - text: 18 hours ago
   - img
   - text: by
   - link "NotificationX":
@@ -244,16 +244,4 @@
 - img
 - link:
   - /url: https://essential-blocks.com/#pricing
-- img "Gutenberg Essential Blocks – Page Builder for Gutenberg Blocks &amp; Patterns"
-- paragraph: 200K+ people are actively using
-- paragraph: Essential Blocks
-- paragraph:
-  - img
-  - text: by
-  - link "NotificationX":
-    - /url: https://notificationx.com?utm_source=https://essential-blocks.com&utm_medium=notificationx
-    - img "NotificationX"
-- img
-- link:
-  - /url: https://wordpress.org/plugins/essential-blocks
 - status

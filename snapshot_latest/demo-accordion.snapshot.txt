@@ -1,4 +1,4 @@
-- text: 07 Days 00 Hours 57 Mins 38 Secs
+- text: 07 Days 00 Hours 57 Mins 41 Secs
 - figure
 - figure
 - paragraph: Season’s Best Deals
@@ -276,20 +276,4 @@
 - link "xCloud-logo":
   - /url: https://xcloud.host/
   - img "xCloud-logo"
-- img "Gutenberg Essential Blocks – Page Builder for Gutenberg Blocks &amp; Patterns"
-- paragraph:
-  - paragraph:
-    - strong: Essential Blocks
-- paragraph:
-  - paragraph: has been downloaded 6.7M+ times
-- paragraph:
-  - paragraph: Why Don't You?
-  - img
-  - text: by
-  - link "NotificationX":
-    - /url: https://notificationx.com?utm_source=https://essential-blocks.com&utm_medium=notificationx
-    - img "NotificationX"
-- img
-- link:
-  - /url: https://wordpress.org/plugins/essential-blocks
 - status

@@ -1,4 +1,4 @@
-- text: 07 Days 00 Hours 57 Mins 41 Secs
+- text: 07 Days 00 Hours 57 Mins 43 Secs
 - figure
 - figure
 - paragraph: Season’s Best Deals

@@ -190,11 +190,11 @@
 - link "xCloud-logo":
   - /url: https://xcloud.host/
   - img "xCloud-logo"
-- img "Giulio C"
-- paragraph: Giulio C just purchased
+- img "Bruno A"
+- paragraph: Bruno A just purchased
 - paragraph: Essential Blocks Pro — Starter
 - paragraph:
-  - text: 17 hours ago
+  - text: 15 hours ago
   - img
   - text: by
   - link "NotificationX":
