@@ -1,0 +1,53 @@
+- main:
+  - heading "Conditional Display" [level=2]
+  - heading "Control What Can Be Viewed With Advanced Conditional Display" [level=1]:
+    - text: Control What Can Be Viewed With Advanced
+    - mark: Conditional Display
+  - paragraph: Choose which content to showcase to your users based on your preferred conditional logic. This extension helps you hide or display any content on your page by allowing you to add multiple custom conditional logics, each with a specific function.
+  - link "Get Started ":
+    - /url: https://essential-blocks.com/#pricing
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/essential-blocks-conditional-display
+  - figure:
+    - img "Conditional Display"
+  - heading "Restrict Content Viewing Based On Logged-In Status" [level=2]
+  - paragraph: Apply visibility conditions on your content created with Essential Blocks based on logged-in or logged-out status on the website. Add visibility rules, logic types, etc. accordingly.
+  - figure:
+    - img "Conditional Display"
+  - heading "Control Visibility Depending On WordPress User Roles" [level=2]
+  - paragraph: Set and select custom conditional logic to only allow a certain group of your website users to view or hide content on your website, based on user roles and statuses.
+  - figure:
+    - img "Conditional Display"
+  - heading "Adapt Content Display To Different Browsers" [level=2]
+  - paragraph: Control the web browsers that users can view content from, such as Mozilla Firefox, Google Chrome, etc. You can apply conditions on one or multiple browsers.
+  - figure:
+    - img "Conditional Display"
+  - heading "Keep Content Visible For Specific Date & Time" [level=2]
+  - paragraph: Create pages ahead of time and keep them private until you are ready to make them public to your users during various promotional or seasonal sales periods.
+  - figure:
+    - img "Conditional Display"
+  - heading "Manage Previewing From Certain Query Strings" [level=2]
+  - paragraph: You can set conditions on who sees or not your site specific section based on the platform they are on. Add the value of the query string for the locations from which your content will not be shown directly.
+  - figure:
+    - img "Conditional Display"
+  - heading "Control Content Display Based On URL Parameters" [level=2]
+  - paragraph: You can control who can see certain sections of your site based on URL parameters. This allows for the delivery of personalized content by tailoring the information that is displayed based on the parameters specified in the URL.
+  - figure:
+    - img "Conditional Display"
+  - heading "Limit Content Viewing Depending on the Archive Types" [level=2]
+  - paragraph: By placing limitations on archive types, you can reduce the visibility of any global content that has been added to all site templates. You can choose whether to view or hide from any kind of archive, media, search, or post.
+  - figure:
+    - img "Conditional Display"
+  - heading "Apply Dynamic Conditions On Visibility With Exclusive Features" [level=3]
+  - heading "Multiple Display Conditions" [level=5]
+  - paragraph: There are 8 exclusive conditions for controlling your website content visibility. You can apply one or multiple conditions at a time.
+  - figure:
+    - img "Conditional Display"
+  - heading "Set Visibility Rules" [level=5]
+  - paragraph: 3+ visibility rules are added in Essential Blocks. Apply ‘Hide or Show’ if conditions are met or keep it hidden always.
+  - figure:
+    - img "Conditional Display"
+  - figure:
+    - img "Conditional Display"
+  - heading "Select Logic Types" [level=5]
+  - paragraph: "When multiple conditions will be applied, one can make a decision based on these logics: If one condition is true or all conditions are true."

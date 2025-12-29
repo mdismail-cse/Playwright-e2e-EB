@@ -1,0 +1,36 @@
+- main:
+  - heading "Woo Product Details" [level=2]
+  - heading "Refine Product Description To Influence Conversions Using Woo Product Details" [level=1]:
+    - text: Refine Product Description To Influence Conversions Using
+    - mark: Woo Product Details
+  - paragraph: Create an engaging and appealing product description section. You can alter the detail tabs, advanced layout, typography, and responsive design of this WooCommerce block to boost sales.
+  - link "Get Started ":
+    - /url: https://essential-blocks.com/#pricing
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/eb-woo-product-details/
+  - figure:
+    - img "Woo Product Details"
+  - figure:
+    - img "Woo Product Details"
+  - heading "Effortlessly Display Product Information With Custom And Advanced Styling" [level=2]
+  - figure:
+    - img "Woo Product Details"
+  - figure:
+    - img "Woo Product Details"
+  - heading "Design And Customize Product Description Pages With Essential Information" [level=2]
+  - figure:
+    - img "Woo Product Details"
+  - figure:
+    - img "Woo Product Details"
+  - heading "Engage Customers With Rich WooCommerce Product Information" [level=2]
+  - figure:
+    - img "Woo Product Details"
+  - figure:
+    - img "Woo Product Details"
+  - heading "Create Mobile-Friendly Customized Product Description" [level=2]
+  - figure:
+    - img "Woo Product Details"
+  - figure:
+    - img "Woo Product Details"
+  - figure:
+    - img "Woo Product Details"

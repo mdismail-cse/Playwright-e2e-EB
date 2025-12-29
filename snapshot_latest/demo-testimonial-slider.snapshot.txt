@@ -1,0 +1,12 @@
+- main:
+  - heading "Testimonial Slider" [level=2]
+  - heading "Display Reviews To Gain Customer Trust With EB Testimonial Slider" [level=1]:
+    - text: Display Reviews To Gain Customer Trust With EB
+    - mark: Testimonial Slider
+  - paragraph: Create an interactive testimonials board with a dynamic slider in an organized manner. With this block, you can add credibility to your business & influence potential buyers to complete the purchase
+  - link "Get Started ":
+    - /url: https://essential-blocks.com/#pricing
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/eb-testimonial-slider
+  - figure:
+    - img "Testimonial Slider"

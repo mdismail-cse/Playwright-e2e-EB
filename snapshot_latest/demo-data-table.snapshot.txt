@@ -1,0 +1,35 @@
+- main:
+  - img "Data Table"
+  - heading "Data Table" [level=1]
+  - paragraph: With the EB Data Table block, you can present a large set of important data elegantly and in a user-friendly manner on your website. This super useful block offers seamless customization options to create visually stunning tables.
+  - link "Get Started Now ":
+    - /url: https://essential-blocks.com/pricing/
+  - figure:
+    - img "Data Table"
+  - figure:
+    - img "Data Table"
+  - img "Data Table"
+  - heading "Limitless Content Customization" [level=3]
+  - paragraph
+  - img "Data Table"
+  - heading "Responsive Preview Controls" [level=3]
+  - paragraph
+  - img "Data Table"
+  - heading "Infinite Styling Possibilities" [level=3]
+  - paragraph
+  - img "Data Table"
+  - heading "45+ Advanced Gutenberg Blocks" [level=3]
+  - paragraph
+  - heading "Quick Tutorial To Learn How To Use EB Data Table" [level=2]
+  - figure:
+    - iframe
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/eb-data-table
+  - heading "Data Table With A Highlighted Even Column" [level=2]
+  - paragraph: Effortlessly showcase important data in a beautifully structured and customizable format with the EB Data Table and highlight all even column.
+  - heading "Data Table With Highlighted Even Row & Pagination" [level=2]
+  - paragraph: Add pagination and highlight even rows to allow visitors easily navigate through the table and transform raw data into visually appealing insights.
+  - heading "Effective Search Bar With Data Table" [level=2]
+  - paragraph: Deliver an immersive data browsing experience with an advanced search bar and present data in a way that improves user experience.
+  - heading "Customized Data Table" [level=2]
+  - paragraph: Take control of your data presentation and customize the design with the feature-rich block to add details as needed stunningly.

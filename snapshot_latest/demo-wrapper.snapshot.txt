@@ -1,0 +1,128 @@
+- main:
+  - img "Wrapper"
+  - heading "Wrapper" [level=1]
+  - paragraph: Show your brand information in an intriguing way with the Wrapper Block and decorate the wrapper any way you see fit. With background options & width control, persuade customers to visit your website for more content.
+  - link "Get Started FREE ":
+    - /url: https://wordpress.org/plugins/essential-blocks
+  - figure:
+    - img "Wrapper"
+  - figure:
+    - img "Wrapper"
+  - img "macbook"
+  - heading "Limitless Content Customization" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Responsive Preview Controls" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Infinite Styling Possibilities" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "45+ Advanced Gutenberg Blocks" [level=3]
+  - paragraph
+  - heading "Guide To Create A Block Wrapper" [level=2]
+  - figure:
+    - iframe
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/block-wrapper
+  - heading "Block Wrapper With Background Image" [level=2]
+  - paragraph: Add an interactive background image to design your content in an outstanding manner to make it more appealing. Pick your blend mode among 10 available options.
+  - img "Wrapper"
+  - heading "0.2M+" [level=4]
+  - heading "Active Users" [level=3]
+  - img "Wrapper"
+  - heading "0K+" [level=4]
+  - heading "Product Reviews" [level=3]
+  - img "Wrapper"
+  - heading "0+" [level=4]
+  - heading "Total Products" [level=3]
+  - img "Wrapper"
+  - heading "0+" [level=4]
+  - heading "Awards Won" [level=3]
+  - heading "EB Wrapper Background Shape" [level=2]
+  - paragraph: Pick any background color and versatile shapes with interactive images to make your Wrapper look fascinating. Apply proper content width and margin.
+  - heading "EB Wrapper Background Image" [level=2]
+  - paragraph: Add icon links to your social media profiles and grow your audience with animated social icons Add icon links to your social media profiles and grow Add icon links to your social media profiles and grow your audience with animated social icons Add icon links to your social media profiles and grow Add icon links to your social media profiles and grow your audience with animated social Add icon links to your social media profiles and grow Add icon links to your social media profiles and grow your audience with animated social icons Add icon links to your social media profiles and grow Add icon links to your social media profiles and grow your audience with animated social icons Add icon links to your social media profiles and grow
+  - heading "EB Wrapper Background Gradient" [level=2]
+  - paragraph: Pick any background color and versatile shapes with interactive images to make your Wrapper look fascinating. Apply proper content width and margin.
+  - heading "Add Multiple EB Blocks" [level=2]
+  - paragraph: Add icon links to your social media profiles and grow your audience with animated social icons Add icon links to your social media profiles and grow, Add icon links to your social media profiles and grow your audience with animated social icons Add icon links
+  - list:
+    - listitem:
+      - link "social link":
+        - /url: ""
+        - text: 
+    - listitem:
+      - link "social link":
+        - /url: ""
+        - text: 
+    - listitem:
+      - link "social link":
+        - /url: ""
+        - text: 
+    - listitem:
+      - link "social link":
+        - /url: ""
+        - text: 
+  - figure:
+    - img "Wrapper"
+  - heading "EB Wrapper Background Image" [level=2]
+  - paragraph: Pick any background color and versatile shapes with interactive images to make your Wrapper look fascinating. Apply proper content width and margin.
+  - heading "Beautiful Versatile Shapes" [level=2]
+  - paragraph: Add icon links to your social media profiles and grow your audience with animated social icons Add icon links to your social media profiles and grow Add icon links to your social media profiles and grow your audience with animated social icons Add icon links to your social media profiles and grow Add icon links to your social media profiles and grow your audience with animated social Add icon links to your social media profiles and grow Add icon links to your social media profiles and grow your audience
+  - list:
+    - listitem:
+      - link "social link":
+        - /url: ""
+        - text: 
+    - listitem:
+      - link "social link":
+        - /url: ""
+        - text: 
+    - listitem:
+      - link "social link":
+        - /url: ""
+        - text: 
+    - listitem:
+      - link "social link":
+        - /url: ""
+        - text: 
+    - listitem:
+      - link "social link":
+        - /url: ""
+        - text: 
+  - heading "Block Wrapper Overlay" [level=2]
+  - paragraph: Apply an overlay effect on your background images and give our website a stunning look and appearance
+  - list:
+    - listitem:
+      - link "":
+        - /url: "#"
+    - listitem:
+      - link "":
+        - /url: "#"
+    - listitem:
+      - link "":
+        - /url: "#"
+    - listitem:
+      - link "":
+        - /url: "#"
+  - figure:
+    - img "Wrapper"
+  - heading "Block Wrapper Gradient Overlay" [level=2]
+  - paragraph: Choose between radial or gradient color on your overlay effect and make it more amusing to your users
+  - link "Wrapper":
+    - /url: javascript:void(0)
+    - img "Wrapper"
+  - link "Wrapper":
+    - /url: javascript:void(0)
+    - img "Wrapper"
+  - heading "Add HTML Anchor For Easy Navigation" [level=2]
+  - paragraph: Easily set HTML Anchor tags for each Wrapper for easy navigation, hyperlink to other blocks, menus, etc. Long-form content can be navigated easier with anchor links, which can improve the user experience.
+  - link "Background Image":
+    - /url: "#backgroundImage"
+  - link "Background Shape":
+    - /url: "#backgroundShape"
+  - link "Gradient Overlay":
+    - /url: "#gradientOverlay"
+  - link "Wrapper Overlay":
+    - /url: "#wrapperOverlay"

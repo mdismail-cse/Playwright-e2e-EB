@@ -1,0 +1,12 @@
+- main:
+  - heading "Woo Product Image" [level=2]
+  - heading "Boost Product Conversions Using Visually Appealing Woo Product Images" [level=1]:
+    - text: Boost Product Conversions Using Visually Appealing
+    - mark: Woo Product Images
+  - paragraph: Enhance your WooCommerce store’s appeal with visually stunning product images. Customize their placement, style, and more to captivate customers and boost sales.
+  - link "Get Started ":
+    - /url: https://essential-blocks.com/#pricing
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/eb-woo-product-images/
+  - figure:
+    - img "Woo Product Image"

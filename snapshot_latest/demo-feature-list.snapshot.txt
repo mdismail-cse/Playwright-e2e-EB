@@ -1,0 +1,182 @@
+- main:
+  - img "Feature List"
+  - heading "Featured List" [level=1]
+  - paragraph: Display product features, information and any details beautifully with a stunning Feature List Block in Gutenberg. This useful block comes up with everything you will need to highlight features.
+  - link "Get Started FREE ":
+    - /url: https://wordpress.org/plugins/essential-blocks
+  - figure:
+    - img "Feature List"
+  - figure:
+    - img "Feature List"
+  - img "macbook"
+  - heading "Limitless Content Customization" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Responsive Preview Controls" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Infinite Styling Possibilities" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "45+ Advanced Gutenberg Blocks" [level=3]
+  - paragraph
+  - heading "Quick Tutorial To Create Feature List" [level=2]
+  - figure:
+    - iframe
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/eb-feature-list/
+  - heading "Square Shaped Stylish Feature List" [level=2]
+  - paragraph: Style the Feature List in different shapes and highlight features in the best possible way to grab the attention right away
+  - list:
+    - listitem:
+      - img "Feature List"
+      - heading "Expert Teachers" [level=3]
+      - paragraph: 50+ highly skilled teachers from renowned universities
+    - listitem:
+      - img "Feature List"
+      - heading "Huge Resources" [level=3]
+      - paragraph: Abundant study resources for our students
+    - listitem:
+      - img "Feature List"
+      - heading "Video Tutorials" [level=3]
+      - paragraph: Visual learning tutorials for better learning experience
+  - figure:
+    - img "Feature List"
+  - list:
+    - listitem:
+      - img "Feature List"
+      - heading "Free Courses" [level=3]
+      - paragraph: Free courses for the existing students and more
+    - listitem:
+      - img "Feature List"
+      - heading "Low Expense" [level=3]
+      - paragraph: Best learning experience at the lowest possible expense
+    - listitem:
+      - img "Feature List"
+      - heading "Friendly Environment" [level=3]
+      - paragraph: Friendly environment with recreational facilities
+  - heading "Style Up The Feature List With Connectors" [level=2]
+  - paragraph: Make the feature list more vibrant with dotted, dashed, or solid connectors, and customize the colors of the connector as needed
+  - list:
+    - listitem:
+      - img "Feature List"
+      - heading "Non Sticky" [level=3]
+      - paragraph: A non greasy formula is used to make this body mist that makes you feel fresh without leaving any stain.
+    - listitem:
+      - img "Feature List"
+      - heading "Super Light" [level=3]
+      - paragraph: This lightweight mist easily gets absorbed in your skin and gets dry instantly for a more comfortable feeling.
+    - listitem:
+      - img "Feature List"
+      - heading "Sweet Fragrance" [level=3]
+      - paragraph: The mild fragnance of this vanilla flavoured body mist is enough to make your day with a fresh splash.
+  - figure:
+    - img "Feature List"
+  - heading "Feature List With Customized Icons" [level=2]
+  - paragraph: Change the icon color, shape view , icon shapes and give the Feature List a beautiful outlook that best matches your website
+  - list:
+    - listitem:
+      - img "Feature List"
+      - heading "Lightweight & Flexible" [level=3]
+      - paragraph: A very lightweight, flexible and handy gadget.
+  - list:
+    - listitem:
+      - img "Feature List"
+      - heading "Internet Connection" [level=3]
+      - paragraph: Connect with the internet and download any game.
+  - list:
+    - listitem:
+      - img "Feature List"
+      - heading "Multiplayer Supported" [level=3]
+      - paragraph: Involve multiple players without any interruption.
+  - figure:
+    - img "Feature List"
+  - heading "Display Information With Full Customization" [level=2]
+  - paragraph: This super useful block gives you full freedom to customize the borders, margin, padding and make your product features standout
+  - list:
+    - listitem:
+      - img "Feature List"
+      - heading "Touch-screen" [level=3]
+      - paragraph: High-end touch screen which is super swift and responsive.
+  - list:
+    - listitem:
+      - img "Feature List"
+      - heading "Wired Headphones" [level=3]
+      - paragraph: Wireless headphones with best sound quality and performance.
+  - list:
+    - listitem:
+      - img "Feature List"
+      - heading "Security Camera" [level=3]
+      - paragraph: Good resolution security camera and best quality interface.
+  - list:
+    - listitem:
+      - img "Feature List"
+      - heading "Wireless Charging" [level=3]
+      - paragraph: Wireless fast charging facility to charge it anywhere.
+  - heading "Present Features With Custom Images" [level=2]
+  - list:
+    - listitem:
+      - img "Feature List"
+      - heading "Eco Friendly" [level=3]
+      - paragraph: Made from completely eco friendly elements & ingredients that do not harm the environment and are recyclable. So you won’t have to be concerned about it anymore.
+    - listitem:
+      - img "Feature List"
+      - heading "Recyclable" [level=3]
+      - paragraph: Made from completely eco friendly elements & ingredients that do not harm the environment and are recyclable. So you won’t have to be concerned about it anymore.
+    - listitem:
+      - img "Feature List"
+      - heading "Lightweight & Handy" [level=3]
+      - paragraph: Made from completely eco friendly elements & ingredients that do not harm the environment and are recyclable. So you won’t have to be concerned about it anymore.
+  - heading "Showcase Features With Flexible Alignments" [level=2]
+  - paragraph: Showcase products with features and information in a beautiful way with full creativity and innovation to drive your viewers right away
+  - list:
+    - listitem:
+      - img "Feature List"
+      - heading "Lightweight & Flexible" [level=3]
+      - paragraph: A very lightweight, flexible and handy gadget which is very easy to use.
+  - list:
+    - listitem:
+      - img "Feature List"
+      - heading "Internet Connection" [level=3]
+      - paragraph: Connect with the internet and download any game you want to play.
+  - list:
+    - listitem:
+      - img "Feature List"
+      - heading "Multiplayer Supported" [level=3]
+      - paragraph: Involve multiple players without any interruption and obstacles
+  - list:
+    - listitem:
+      - img "Feature List"
+      - heading "Lightweight & Flexible" [level=3]
+      - paragraph: A very lightweight, flexible and handy gadget which is very easy to use.
+  - list:
+    - listitem:
+      - img "Feature List"
+      - heading "Internet Connection" [level=3]
+      - paragraph: Connect with the internet and download any game you want to play.
+  - list:
+    - listitem:
+      - img "Feature List"
+      - heading "Multiplayer Supported" [level=3]
+      - paragraph: Involve multiple players without any interruption and obstacles
+  - heading "Highlight Features With Rhombus Shaped List" [level=2]
+  - paragraph: Display the feature lists with a rhombus shape to make them more stylish and customize them with different colors, icons, and much more.
+  - figure:
+    - img "Feature List"
+  - list:
+    - listitem:
+      - img "Feature List"
+      - heading "No Added Preservatives" [level=3]
+      - paragraph: No preservatives have been added to this sauce. It contains no harmful preservatives rather completely natural ingredients
+    - listitem:
+      - img "Feature List"
+      - heading "No Artificial Coloring" [level=3]
+      - paragraph: No colors have been added to this sauce. It has no harmful preservatives, rather completely natural ingredients are used.
+    - listitem:
+      - img "Feature List"
+      - heading "No Added Sugar" [level=3]
+      - paragraph: No preservatives have been added to this sauce. It contains no harmful preservatives rather completely natural ingredients
+    - listitem:
+      - img "Feature List"
+      - heading "No Artificial Flavors" [level=3]
+      - paragraph: EB Advanced Accordion will let you add beautiful accordions in your page posts, and anywhere. It also supports.

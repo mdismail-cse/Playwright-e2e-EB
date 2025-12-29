@@ -1,0 +1,87 @@
+- main:
+  - img "Number Counter"
+  - heading "Number Counter" [level=1]
+  - paragraph: Highlight your milestones with the Number Counter Block from Essential Blocks. You can easily showcase your important numbers with eye-catchy animation effects and make your website lively with the ultimate customizing options.
+  - link "Get Started FREE ":
+    - /url: https://wordpress.org/plugins/essential-blocks
+  - figure:
+    - img "Number Counter"
+  - figure:
+    - img "Number Counter"
+  - img "macbook"
+  - heading "Limitless Content Customization" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Responsive Preview Controls" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Infinite Styling Possibilities" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "45+ Advanced Gutenberg Blocks" [level=3]
+  - paragraph
+  - heading "Follow This Tutorial To Create Number Counter" [level=2]
+  - figure:
+    - iframe
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/eb-number-counter/
+  - figure:
+    - img "Number Counter"
+  - heading "Number Counter Layout Preset 1" [level=2]
+  - paragraph: Showcase your important stats with stunning animation effects and super flexible customizing options to grab your visitors attention. With The Number Counter block, you can easily design an awesome section on your website for presenting your milestones and important data interactively
+  - img "Number Counter"
+  - heading "0.2M+" [level=4]
+  - heading "Active Users" [level=3]
+  - img "Number Counter"
+  - heading "0K+" [level=4]
+  - heading "Product Reviews" [level=3]
+  - img "Number Counter"
+  - heading "0+" [level=4]
+  - heading "Total Products" [level=3]
+  - img "Number Counter"
+  - heading "0+" [level=4]
+  - heading "Awards Won" [level=3]
+  - heading "Number Counter Layout Preset 2" [level=2]
+  - paragraph: Present your numeric data with artistic images or icons with the Number Counter block from Essential Blocks to increase your website engagement
+  - img "Number Counter"
+  - heading "0.2M+" [level=4]
+  - heading "Active Users" [level=3]
+  - img "Number Counter"
+  - heading "0K+" [level=4]
+  - heading "Product Reviews" [level=3]
+  - img "Number Counter"
+  - heading "0+" [level=4]
+  - heading "Total Products" [level=3]
+  - img "Number Counter"
+  - heading "0+" [level=4]
+  - heading "Awards Won" [level=3]
+  - figure:
+    - img "Number Counter"
+  - heading "Number Counter Layout Preset 3" [level=2]
+  - paragraph: Add a Thousand Separators, Suffixes, Prefixes, etc on your milestones and key-informations to display your data in a way that will instantly catch your reader’s attention. Style up your important numbers and get noticed by the visitors at ease
+  - text: 
+  - heading "0.2M+" [level=4]
+  - heading "likes" [level=3]
+  - text: 
+  - heading "0K" [level=4]
+  - heading "Subscribers" [level=3]
+  - text: 
+  - heading "0+" [level=4]
+  - heading "Followers" [level=3]
+  - text: 
+  - heading "0+" [level=4]
+  - heading "Connections" [level=3]
+  - heading "Number Counter Layout Preset 4" [level=2]
+  - paragraph: Display your important numbers interactively on your website & customize just the way you want with the Number Counter block from Essential Blocks
+  - text: 
+  - heading "0+" [level=4]
+  - heading "Projects Completed" [level=3]
+  - text: 
+  - heading "0.2M+" [level=4]
+  - heading "Happy Customer" [level=3]
+  - text: 
+  - heading "0+" [level=4]
+  - heading "Total Employees" [level=3]
+  - text: 
+  - heading "0+" [level=4]
+  - heading "Awards Won" [level=3]

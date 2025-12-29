@@ -1,0 +1,31 @@
+- main:
+  - heading "Fancy Chart" [level=2]
+  - heading "Visualize Your Data With Fancy Chart" [level=1]:
+    - text: Visualize Your Data With
+    - mark: Fancy Chart
+  - paragraph: Effortlessly bring important data and graphs to life in a visually captivating manner on Gutenberg editor with the help of the Fancy Chart block. Embark eye-catchy visualizations right away.
+  - link "Get Started ":
+    - /url: https://essential-blocks.com/#pricing
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/eb-fancy-chart/
+  - figure:
+    - img "Fancy Chart"
+  - list:
+    - listitem:
+      - img "Fancy Chart"
+      - heading "Show All" [level=6]
+    - listitem:
+      - img "Fancy Chart"
+      - heading "Bar Chart" [level=6]
+    - listitem:
+      - img "Fancy Chart"
+      - heading "Line Chart" [level=6]
+    - listitem:
+      - img "Fancy Chart"
+      - heading "Area Chart" [level=6]
+    - listitem:
+      - img "Fancy Chart"
+      - heading "Pie chart" [level=6]
+    - listitem:
+      - img "Fancy Chart"
+      - heading "Donut Chart" [level=6]

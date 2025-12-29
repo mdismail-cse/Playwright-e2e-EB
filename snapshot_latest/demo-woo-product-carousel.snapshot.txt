@@ -1,0 +1,167 @@
+- main:
+  - img "Woo Product Carousel"
+  - heading "Woo Product Carousel" [level=1]
+  - paragraph: Elevate your WooCommerce page with Woo Product Carousel. Choose from four captivating layouts & customize image sizes, effortlessly enhancing the visual appeal of your products for an engaging shopping experience.
+  - link "Get Started Now ":
+    - /url: https://essential-blocks.com/pricing/
+  - figure:
+    - img "Woo Product Carousel"
+  - figure:
+    - img "Woo Product Carousel"
+  - img "macbook"
+  - heading "Limitless Content Customization" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Responsive Preview Controls" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Infinite Styling Possibilities" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "45+ Advanced Gutenberg Blocks" [level=3]
+  - paragraph
+  - heading "Easy Guide To Configure Woo Product Carousel" [level=2]
+  - figure:
+    - iframe
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/eb-woo-product-carousel
+  - heading "Preset 1 With Overlay Effect" [level=2]
+  - paragraph: Unleash the allure of your products with Preset 1 and its captivating overlay effect, enhancing the visual impact of your Woo product slider
+  - tabpanel:
+    - link "Golden Rings":
+      - /url: https://essential-blocks.com/product/golden-rings/
+      - img "Golden Rings"
+    - heading "Golden Rings" [level=3]:
+      - link "Golden Rings":
+        - /url: https://essential-blocks.com/product/golden-rings/
+    - paragraph: "Original price was: $22.00. Current price is: $19.00."
+    - link " View Product":
+      - /url: https://essential-blocks.com/product/golden-rings/
+    - 'button "Add to cart: “Golden Rings”"': Add to cart
+  - tabpanel:
+    - link "Rings":
+      - /url: https://essential-blocks.com/product/rings/
+      - img "Rings"
+    - heading "Rings" [level=3]:
+      - link "Rings":
+        - /url: https://essential-blocks.com/product/rings/
+    - paragraph: "Original price was: $19.00. Current price is: $17.00."
+    - link " View Product":
+      - /url: https://essential-blocks.com/product/rings/
+    - 'button "Add to cart: “Rings”"': Add to cart
+  - tabpanel:
+    - link "Long Necklace":
+      - /url: https://essential-blocks.com/product/long-necklace/
+      - img "Long Necklace"
+    - heading "Long Necklace" [level=3]:
+      - link "Long Necklace":
+        - /url: https://essential-blocks.com/product/long-necklace/
+    - paragraph: "Original price was: $19.00. Current price is: $13.00."
+    - link " View Product":
+      - /url: https://essential-blocks.com/product/long-necklace/
+    - 'button "Add to cart: “Long Necklace”"': Add to cart
+  - link "Green Ear Rings":
+    - /url: https://essential-blocks.com/product/green-ear-rings/
+    - img "Green Ear Rings"
+  - heading "Green Ear Rings" [level=3]:
+    - link "Green Ear Rings":
+      - /url: https://essential-blocks.com/product/green-ear-rings/
+  - paragraph: "Original price was: $25.00. Current price is: $22.00."
+  - link " View Product":
+    - /url: https://essential-blocks.com/product/green-ear-rings/
+  - 'button "Add to cart: “Green Ear Rings”"': Add to cart
+  - tablist:
+    - tab "1 of 2": "1"
+    - tab "2 of 2": "2"
+    - tab "3 of 2": "3"
+    - tab "4 of 2" [selected]: "4"
+    - tab "5 of 2": "5"
+    - tab "6 of 2": "6"
+  - heading "Preset 2 With Carousel Effect" [level=2]
+  - paragraph: Experience the dynamic charm of mesmerizing carousel effect in the slider. Enjoy seamless animations, autoplay, & adjustable animation speeds for a captivating shopping journey
+  - button "Previous":  Previous
+  - link "Advanced Gaming Pod":
+    - /url: https://essential-blocks.com/product/advanced-gaming-pod/
+    - img "Advanced Gaming Pod"
+  - 'button "Add to cart: “Advanced Gaming Pod”"': Add to cart
+  - paragraph: "Original price was: $30.00. Current price is: $20.00."
+  - text:     
+  - heading "Logitech mx Master 3" [level=3]:
+    - link "Logitech mx Master 3":
+      - /url: https://essential-blocks.com/product/logitech-mx-master-3/
+  - link "Logitech mx Master 3":
+    - /url: https://essential-blocks.com/product/logitech-mx-master-3/
+    - img "Logitech mx Master 3"
+  - 'button "Add to cart: “Logitech mx Master 3”"': Add to cart
+  - link "Wireless Bluetooth Speaker":
+    - /url: https://essential-blocks.com/product/wireless-bluetooth-speaker-3/
+    - img "Wireless Bluetooth Speaker"
+  - 'button "Add to cart: “Wireless Bluetooth Speaker”"': Add to cart
+  - button "Next":  Next
+  - heading "Preset 3 Showing Product Details" [level=2]
+  - paragraph: Unveil the essence of your products by showcasing enticing product details such as ratings, prices, and sales badges, & engaging customers with valuable information
+  - button "Previous":  Previous
+  - tabpanel:
+    - link "Blue Vintage Cap":
+      - /url: https://essential-blocks.com/product/blue-vintage-cap/
+      - img "Blue Vintage Cap"
+    - text: sale
+    - heading "Blue Vintage Cap" [level=3]:
+      - link "Blue Vintage Cap":
+        - /url: https://essential-blocks.com/product/blue-vintage-cap/
+    - paragraph: "Original price was: $20.00. Current price is: $19.00."
+    - text:     
+    - 'button "Add to cart: “Blue Vintage Cap”"': Add to cart
+  - tabpanel:
+    - link "Fitted Hoodie":
+      - /url: https://essential-blocks.com/product/fitted-hoodie/
+      - img "Fitted Hoodie"
+    - text: sale
+    - heading "Fitted Hoodie" [level=3]:
+      - link "Fitted Hoodie":
+        - /url: https://essential-blocks.com/product/fitted-hoodie/
+    - paragraph: "Original price was: $20.00. Current price is: $19.00."
+    - text:     
+    - 'button "Add to cart: “Fitted Hoodie”"': Add to cart
+  - tabpanel:
+    - link "Yellow Vintage Cap":
+      - /url: https://essential-blocks.com/product/yellow-vintage-cap/
+      - img "Yellow Vintage Cap"
+    - text: sale
+    - heading "Yellow Vintage Cap" [level=3]:
+      - link "Yellow Vintage Cap":
+        - /url: https://essential-blocks.com/product/yellow-vintage-cap/
+    - paragraph: "Original price was: $20.00. Current price is: $19.00."
+    - text:     
+    - 'button "Add to cart: “Yellow Vintage Cap”"': Add to cart
+  - button "Next":  Next
+  - tablist:
+    - tab "1 of 2": "1"
+    - tab "2 of 2": "2"
+    - tab "3 of 2": "3"
+    - tab "4 of 2" [selected]: "4"
+    - tab "5 of 2": "5"
+    - tab "6 of 2": "6"
+  - heading "Showcasing Popular Products With Preset 4" [level=2]
+  - paragraph: Highlight your top products by showcasing popular items in Woo product slider, ensuring maximum visibility & driving customer engagement to boost sales
+  - link "Logitech Master Mx3":
+    - /url: https://essential-blocks.com/product/logitech-master-mx3/
+    - img "Logitech Master Mx3"
+  - text: sale
+  - heading "Logitech Master Mx3" [level=3]:
+    - link "Logitech Master Mx3":
+      - /url: https://essential-blocks.com/product/logitech-master-mx3/
+  - paragraph: "Original price was: $20.00. Current price is: $15.00."
+  - 'button "Add to cart: “Logitech Master Mx3”"': Add to cart
+  - heading "Popular Products" [level=2]
+  - button "Previous":  Previous
+  - link "Canon Digital Camera":
+    - /url: https://essential-blocks.com/product/canon-digital-camera/
+    - img "Canon Digital Camera"
+  - text: sale
+  - heading "Canon Digital Camera" [level=3]:
+    - link "Canon Digital Camera":
+      - /url: https://essential-blocks.com/product/canon-digital-camera/
+  - paragraph: "Original price was: $20.00. Current price is: $19.00."
+  - 'button "Add to cart: “Canon Digital Camera”"': Add to cart
+  - button "Next":  Next

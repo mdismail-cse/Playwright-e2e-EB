@@ -1,0 +1,139 @@
+- main:
+  - img "Instagram Feed"
+  - heading "Instagram Feed" [level=1]
+  - paragraph: Connect your visitors socially with Instagram Feed block from Essential Blocks and convert your visitors into customers. With an advanced sorting process and versatile overlay, increase your sales with credibility and trust with social proof.
+  - link "Get Started FREE ":
+    - /url: https://wordpress.org/plugins/essential-blocks
+  - figure:
+    - img "Instagram Feed"
+  - figure:
+    - img "Instagram Feed"
+  - img "macbook"
+  - heading "Limitless Content Customization" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Responsive Preview Controls" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Infinite Styling Possibilities" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "45+ Advanced Gutenberg Blocks" [level=3]
+  - paragraph
+  - heading "Add Instagram Feed On Gutenberg" [level=2]
+  - figure:
+    - iframe
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/instagram-feed/
+  - heading "Instagram Feed Sort (Least Recent)" [level=2]
+  - paragraph: Sort your news feed as per your preference to keep your potential customers updated about your upcoming offers and sales
+  - 'link "Breathtaking #nature"':
+    - /url: https://www.instagram.com/p/CA9cVqsJHZY/
+    - 'img "Breathtaking #nature"'
+  - link "Where the earth rises to meet the sky":
+    - /url: https://www.instagram.com/p/CA9cgcfJW7U/
+    - img "Where the earth rises to meet the sky"
+  - link "Cause I am a sunflower, a little funny. If I was a rose, maybe you'd pick me.":
+    - /url: https://www.instagram.com/p/CA9cdEJp6hT/
+    - img "Cause I am a sunflower, a little funny. If I was a rose, maybe you'd pick me."
+  - link "Little beauty":
+    - /url: https://www.instagram.com/p/CA9cl7dpdiT/
+    - img "Little beauty"
+  - link "Tranquility":
+    - /url: https://www.instagram.com/p/CA9ciPep8J6/
+    - img "Tranquility"
+  - 'link "#mountainscape #nature #mountainlife"':
+    - /url: https://www.instagram.com/p/CA9dPl_pjUd/
+    - 'img "#mountainscape #nature #mountainlife"'
+  - link "Silver lining":
+    - /url: https://www.instagram.com/p/CA9cn2bJpxr/
+    - img "Silver lining"
+  - link "Peaceful":
+    - /url: https://www.instagram.com/p/CA9cu5EpaCm/
+    - img "Peaceful"
+  - heading "Instagram Feed Sort (Most Recent)" [level=2]
+  - paragraph: Add as many images you want with a responsive and customizable square thumbnail to give your Instagram feed a charming look
+  - 'link "A breathtaking mountainview #nature #mountainscape"':
+    - /url: https://www.instagram.com/p/CA928D8JsCc/
+    - 'img "A breathtaking mountainview #nature #mountainscape"'
+  - 'link "#mountainscape #nature #mountainlife"':
+    - /url: https://www.instagram.com/p/CA9dPl_pjUd/
+    - 'img "#mountainscape #nature #mountainlife"'
+  - 'link "Can never get tired of watching the sunset #beautifulsunsetview"':
+    - /url: https://www.instagram.com/p/CA9dNI7Jfqp/
+    - 'img "Can never get tired of watching the sunset #beautifulsunsetview"'
+  - heading "Instagram Overlay Layout" [level=2]
+  - paragraph: Provide your Instagram content in a beautiful overlay layout with stunning and versatile border style with Instagram Feed and increase engagement
+  - 'link "A breathtaking mountainview #nature #mountainscape"':
+    - /url: https://www.instagram.com/p/CA928D8JsCc/
+    - 'img "A breathtaking mountainview #nature #mountainscape"'
+  - 'link "#mountainscape #nature #mountainlife"':
+    - /url: https://www.instagram.com/p/CA9dPl_pjUd/
+    - 'img "#mountainscape #nature #mountainlife"'
+  - 'link "Can never get tired of watching the sunset #beautifulsunsetview"':
+    - /url: https://www.instagram.com/p/CA9dNI7Jfqp/
+    - 'img "Can never get tired of watching the sunset #beautifulsunsetview"'
+  - link "Instagram Feed":
+    - /url: https://www.instagram.com/p/CA9c11vp9na/
+    - img "Instagram Feed"
+  - link "Instagram Feed":
+    - /url: https://www.instagram.com/p/CA9c0KhpUKy/
+    - img "Instagram Feed"
+  - link "Instagram Feed":
+    - /url: https://www.instagram.com/p/CA9cy01J9Zh/
+    - img "Instagram Feed"
+  - link "Majestic":
+    - /url: https://www.instagram.com/p/CA9cwy_J-OP/
+    - img "Majestic"
+  - link "Peaceful":
+    - /url: https://www.instagram.com/p/CA9cu5EpaCm/
+    - img "Peaceful"
+  - heading "Instagram Card Layout" [level=2]
+  - paragraph: Change your caption, meta & header to gain you a boost in the local search engines. Choose any stylish typography or background image you want
+  - link "eademo2020":
+    - /url: //www.instagram.com/eademo2020
+    - img "eademo2020"
+  - heading "eademo2020" [level=5]:
+    - link "eademo2020":
+      - /url: //www.instagram.com/eademo2020
+  - 'link "Breathtaking #nature Breathtaking #nature"':
+    - /url: https://www.instagram.com/p/CA9cVqsJHZY/
+    - 'img "Breathtaking #nature"'
+    - paragraph: "Breathtaking #nature"
+  - text: 
+  - link "eademo2020":
+    - /url: //www.instagram.com/eademo2020
+    - img "eademo2020"
+  - heading "eademo2020" [level=5]:
+    - link "eademo2020":
+      - /url: //www.instagram.com/eademo2020
+  - link "Where the earth rises to meet the sky Where the earth rises to meet the sky":
+    - /url: https://www.instagram.com/p/CA9cgcfJW7U/
+    - img "Where the earth rises to meet the sky"
+    - paragraph: Where the earth rises to meet the sky
+  - text: 
+  - link "eademo2020":
+    - /url: //www.instagram.com/eademo2020
+    - img "eademo2020"
+  - heading "eademo2020" [level=5]:
+    - link "eademo2020":
+      - /url: //www.instagram.com/eademo2020
+  - link "Cause I am a sunflower, a little funny. If I was a rose, maybe you'd pick me. Cause I am a sunflower, a little funny. If I was a rose, maybe you'd pick me.":
+    - /url: https://www.instagram.com/p/CA9cdEJp6hT/
+    - img "Cause I am a sunflower, a little funny. If I was a rose, maybe you'd pick me."
+    - paragraph: Cause I am a sunflower, a little funny. If I was a rose, maybe you'd pick me.
+  - text: 
+  - heading "Instagram With Feed Styling" [level=2]
+  - paragraph: Style your feed with proper margin & hover border style to give your customers an outstanding look as well as increase content readability
+  - 'link "Breathtaking #nature"':
+    - /url: https://www.instagram.com/p/CA9cVqsJHZY/
+    - 'img "Breathtaking #nature"'
+  - link "Where the earth rises to meet the sky":
+    - /url: https://www.instagram.com/p/CA9cgcfJW7U/
+    - img "Where the earth rises to meet the sky"
+  - link "Cause I am a sunflower, a little funny. If I was a rose, maybe you'd pick me.":
+    - /url: https://www.instagram.com/p/CA9cdEJp6hT/
+    - img "Cause I am a sunflower, a little funny. If I was a rose, maybe you'd pick me."
+  - link "Little beauty":
+    - /url: https://www.instagram.com/p/CA9cl7dpdiT/
+    - img "Little beauty"

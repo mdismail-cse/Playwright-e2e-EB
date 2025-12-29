@@ -1,0 +1,123 @@
+- main:
+  - img "Dual Button"
+  - heading "Dual Button" [level=1]
+  - paragraph: Create an attractive call to action through the Essential Blocks Dual Button in Gutenberg and make your site look outstanding. Add two separate links to each interactive button and redirect your visitors to any specific destination.
+  - link "Get Started FREE ":
+    - /url: https://wordpress.org/plugins/essential-blocks
+  - figure:
+    - img "Dual Button"
+  - figure:
+    - img "Dual Button"
+  - img "macbook"
+  - heading "Limitless Content Customization" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Responsive Preview Controls" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Infinite Styling Possibilities" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "45+ Advanced Gutenberg Blocks" [level=3]
+  - paragraph
+  - heading "Create Dual Button By Following Easy Tutorial" [level=2]
+  - figure:
+    - iframe
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/dual-button
+  - heading "Showcase Stunning Dual Button Using Preset 1" [level=2]
+  - paragraph: Use Essential Blocks Dual Button Presets to create two separate call-to-action on your site so that visitors can easily get their destination with one click.
+  - link "Example 1":
+    - /url: javascript:void(0)
+  - text: Or
+  - link "Example 2":
+    - /url: javascript:void(0)
+  - figure:
+    - img "Dual Button"
+  - heading "Configure Dual Button With Preset 2" [level=2]
+  - paragraph: Try out Essential Blocks Dual Button and customize it by exploring all the exclusive features & make your website more engaging
+  - link "Get Started":
+    - /url: javascript:void(0)
+  - link "Explore More":
+    - /url: javascript:void(0)
+  - img "macbook"
+  - heading "Use Ready Presets" [level=4]
+  - paragraph: The Dual Button of Essential blocks contains ready presets to create interactive content for site visitors.
+  - img "macbook"
+  - heading "Configure Buttons" [level=4]
+  - paragraph: The Dual Button of Essential blocks allows to configure the buttons to create a unique website easily.
+  - img "macbook"
+  - heading "Add Connector" [level=4]
+  - paragraph: The Dual Button of Essential blocks has options for adding connectors to connect both of the buttons.
+  - img "macbook"
+  - heading "Style Text" [level=4]
+  - paragraph: The Dual Button of Essential blocks allows customization of typography to create interesting texts with style.
+  - img "macbook"
+  - heading "Customize Color" [level=4]
+  - paragraph: The Dual Button of Essential blocks allows to add solid or gradient color to make the content more attractive.
+  - img "macbook"
+  - heading "Attach Button Border" [level=4]
+  - paragraph: The Dual Button of Essential blocks contains different styles of borders to make the buttons more beautiful.
+  - heading "Get Stylish Dual Button Using Preset 3" [level=2]
+  - paragraph: Style your website with Dual Button, make it attractive by customizing button alignment, width, etc so that visitors’ can get the CTA faster
+  - link "Shop Now":
+    - /url: javascript:void(0)
+  - link "Quick View":
+    - /url: javascript:void(0)
+  - figure:
+    - img "Dual Button"
+  - heading "Explore Dual Button Preset 4" [level=2]
+  - paragraph: Check out the Essential Blocks Dual Button, customize background & typography to create your site more engaging so that visitors can easily be attracted to click on the buttons
+  - link "Get Started Now":
+    - /url: javascript:void(0)
+  - link "Want To Explore More?":
+    - /url: javascript:void(0)
+  - img "macbook"
+  - heading "Automated AI Chatbots" [level=4]
+  - paragraph: We create AI chatbots for any kind of website to help you streamline your communication process.
+  - img "macbook"
+  - heading "Automated AI Chatbots" [level=4]
+  - paragraph: We create AI chatbots for any kind of website to help you streamline your communication process.
+  - img "macbook"
+  - heading "Automated AI Chatbots" [level=4]
+  - paragraph: We create AI chatbots for any kind of website to help you streamline your communication process.
+  - heading "Customize Button With Unlimited Flexibility" [level=2]
+  - paragraph: Configure the button border radius and padding from the style tab to create buttons with unique shapes that can bring a different outlook of your website
+  - link "Get Started":
+    - /url: javascript:void(0)
+  - link "Learn More":
+    - /url: javascript:void(0)
+  - heading "Change Color Of Buttons For Uniqueness" [level=2]
+  - paragraph: Pick solid colors from the wide color palette or try our gradient color to give a vibrant look to the buttons and make your site more gorgeous
+  - link "Watch Now":
+    - /url: javascript:void(0)
+  - link "Subscribe":
+    - /url: javascript:void(0)
+  - link "Watch Now":
+    - /url: javascript:void(0)
+  - link "Subscribe":
+    - /url: javascript:void(0)
+  - link "Watch Now":
+    - /url: javascript:void(0)
+  - link "Subscribe":
+    - /url: javascript:void(0)
+  - link "Watch Now":
+    - /url: javascript:void(0)
+  - link "Subscribe":
+    - /url: javascript:void(0)
+  - link "Apply Now":
+    - /url: javascript:void(0)
+  - link "Learn More":
+    - /url: javascript:void(0)
+  - link "Apply Now":
+    - /url: javascript:void(0)
+  - link "Learn More":
+    - /url: javascript:void(0)
+  - link "Apply Now":
+    - /url: javascript:void(0)
+  - link "Learn More":
+    - /url: javascript:void(0)
+  - link "Apply Now":
+    - /url: javascript:void(0)
+  - link "Learn More":
+    - /url: javascript:void(0)

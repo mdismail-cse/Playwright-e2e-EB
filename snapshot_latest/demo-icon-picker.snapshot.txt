@@ -1,0 +1,34 @@
+- main:
+  - heading "icon Picker" [level=2]
+  - heading "Effortlessly Include Diverse Icons With Icon Picker" [level=1]:
+    - text: Effortlessly Include Diverse Icons With
+    - mark: Icon Picker
+  - paragraph: Empower your Gutenberg website’s pages with icons that resonate with your audience, convey your messages with precision, and maximize your brand value with the help of Icon Picker block.
+  - link "Get Started":
+    - /url: https://essential-blocks.com/#pricing
+  - link "Read Documentation":
+    - /url: "#"
+  - figure:
+    - img "Icon Picker"
+  - heading "Choose Icons From Thousands Of Options" [level=2]
+  - paragraph: Gain access to a vast library of icons, spanning various categories and styles with Icon Picker Gutenberg block
+  - figure:
+    - img "Icon Picker"
+  - figure:
+    - img "Icon Picker"
+  - figure:
+    - img "Icon Picker"
+  - heading "Shape Icons As It Align With Brand Value" [level=2]
+  - paragraph: Icon Picker block offers a range of shapes in a user-friendly way with a modern look that stands out
+  - heading "Customize Icons View Design That Attracts Most" [level=2]
+  - paragraph: Alter your icon previews and watch your designs come to life. Time to turn your design into reality with just a few clicks
+  - figure:
+    - img "Icon Picker"
+  - heading "Splash Your Icons With Vibrant Color" [level=2]
+  - paragraph: Get a wide range of color variations at your fingerprint & easily grab customers’ attention seamlessly
+  - figure:
+    - img "Icon Picker"
+  - heading "Craft Unique Visuals With Icon Library Block" [level=2]
+  - paragraph: Wide range of icons, from stock to personalized, with options for both filled & unfilled styles
+  - figure:
+    - img "Icon Picker"

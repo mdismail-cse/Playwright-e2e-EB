@@ -1,0 +1,327 @@
+- main:
+  - heading "Filterable Gallery" [level=2]
+  - heading "Transform Media Gallery Into an Aesthetic Showcase With Filterable Gallery" [level=1]:
+    - text: Transform Media Gallery Into an Aesthetic Showcase With
+    - mark: Filterable Gallery
+  - paragraph: Get outstanding design layouts to highlight the product prices better on your WooCommerce single product page. With this block, you can easily draw customers’ attention with customized pricing styles & boost sales.
+  - link "Get Started ":
+    - /url: https://essential-blocks.com/#pricing
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/eb-image-gallery/
+  - figure:
+    - img "Filterable Gallery"
+  - heading "Filter Gallery Images With Categories, Tags And Showcase Organizedly" [level=2]
+  - list:
+    - listitem: All Images
+    - listitem: Wearables
+    - listitem: Audio Gadgets
+    - listitem: Accessories
+  - img "Filterable Gallery"
+  - text: SonicPods Pro
+  - img "Filterable Gallery"
+  - text: SnapPix One
+  - img "Filterable Gallery"
+  - text: Ivory Pulse
+  - img "Filterable Gallery"
+  - text: EchoMax Pro
+  - img "Filterable Gallery"
+  - text: Obsidian Edge
+  - img "Filterable Gallery"
+  - text: SonicWave 360
+  - img "Filterable Gallery"
+  - text: AeroVision X1
+  - img "Filterable Gallery"
+  - text: ClearTone Ultra
+  - img "Filterable Gallery"
+  - text: AeroVision X1
+  - img
+  - paragraph: Image Not Found! Try Again
+  - heading "Turn Your Image Gallery Into A Flipbook & Display Details Altogether" [level=2]
+  - list:
+    - listitem: All
+    - listitem: Mountains
+    - listitem: Tropical
+    - listitem: Heritage
+  - img "Filterable Gallery"
+  - link "+":
+    - /url: https://essential-blocks.com/wp-content/uploads/2024/12/make-an-travel-image-in-maladies-villa-_resort.jpg
+  - link "":
+    - /url: "#"
+  - text: Island Escape Relax on pristine beaches with stunning views.
+  - img "Filterable Gallery"
+  - link "+":
+    - /url: https://essential-blocks.com/wp-content/uploads/2024/12/Frame-1618873065.png
+  - link "":
+    - /url: "#"
+  - text: Explore lush jungles and vibrant coastal areas.
+  - img "Filterable Gallery"
+  - link "+":
+    - /url: https://essential-blocks.com/wp-content/uploads/2024/12/Frame-1618873057.png
+  - link "":
+    - /url: "#"
+  - text: Relax amidst tranquil mountain landscapes.
+  - img "Filterable Gallery"
+  - link "+":
+    - /url: https://essential-blocks.com/wp-content/uploads/2024/12/Frame-1618873058.png
+  - link "":
+    - /url: "#"
+  - text: Discover UNESCO sites and rich heritage tours.
+  - img "Filterable Gallery"
+  - link "+":
+    - /url: https://essential-blocks.com/wp-content/uploads/2024/12/Frame-1618873059.png
+  - link "":
+    - /url: "#"
+  - text: Adventure-packed journey to breathtaking peaks.
+  - img "Filterable Gallery"
+  - link "+":
+    - /url: https://essential-blocks.com/wp-content/uploads/2024/12/Frame-1618873060.png
+  - link "":
+    - /url: "#"
+  - text: Discover ancient fortresses and breathtaking views.
+  - img "Filterable Gallery"
+  - link "+":
+    - /url: https://essential-blocks.com/wp-content/uploads/2024/12/Frame-1618873061-1.png
+  - link "":
+    - /url: "#"
+  - text: Adventure-packed journey to breathtaking peaks.
+  - img "Filterable Gallery"
+  - link "+":
+    - /url: https://essential-blocks.com/wp-content/uploads/2024/12/Frame-1618873062.png
+  - link "":
+    - /url: "#"
+  - text: Discover ancient fortresses and breathtaking views.
+  - img "Filterable Gallery"
+  - link "+":
+    - /url: https://essential-blocks.com/wp-content/uploads/2024/12/Frame-1618873063-1.png
+  - link "":
+    - /url: "#"
+  - text: Discover UNESCO sites and rich heritage tours.
+  - img
+  - paragraph: Image Not Found! Try Again
+  - heading "Provide Easy Navigation To Your Gallery Block With A Search & Filter" [level=2]
+  - img
+  - searchbox "Search Here..."
+  - button "All":
+    - img
+    - text: All
+    - img
+  - img "Filterable Gallery"
+  - link "+":
+    - /url: https://essential-blocks.com/wp-content/uploads/2024/12/Frame-67.jpg
+  - link "":
+    - /url: "#"
+  - text: Savory Feast Loaded with peanut butter, apple jam, freshly baked bread.
+  - img "Filterable Gallery"
+  - link "+":
+    - /url: https://essential-blocks.com/wp-content/uploads/2024/12/Frame-1618872977-1.jpg
+  - link "":
+    - /url: "#"
+  - text: Spinach Pasta Healthy, flavorful pasta with spinach goodness.
+  - img "Filterable Gallery"
+  - link "+":
+    - /url: https://essential-blocks.com/wp-content/uploads/2024/12/Frame-69.jpg
+  - link "":
+    - /url: "#"
+  - text: Spaghetti Marinara Classic pasta with rich white sauce.
+  - img "Filterable Gallery"
+  - link "+":
+    - /url: https://essential-blocks.com/wp-content/uploads/2024/12/Frame-70.jpg
+  - link "":
+    - /url: "#"
+  - text: Herb Saslik Juicy skewered meat with aromatic garlic seasoning.
+  - img "Filterable Gallery"
+  - link "+":
+    - /url: https://essential-blocks.com/wp-content/uploads/2024/12/Frame-71.jpg
+  - link "":
+    - /url: "#"
+  - text: Delight Pizza Fresh tomatoes, basil, and mozzarella perfection.
+  - img "Filterable Gallery"
+  - link "+":
+    - /url: https://essential-blocks.com/wp-content/uploads/2024/12/Frame-72.jpg
+  - link "":
+    - /url: "#"
+  - text: Beast Burger Stacked with juicy patties, melted cheese.
+  - img
+  - paragraph: Image Not Found! Try Again
+  - heading "Make A Harmonious Rhythm Using The Advanced Grid View Gallery" [level=2]
+  - img "Filterable Gallery"
+  - img "Filterable Gallery"
+  - img "Filterable Gallery"
+  - img "Filterable Gallery"
+  - img "Filterable Gallery"
+  - img "Filterable Gallery"
+  - img "Filterable Gallery"
+  - img "Filterable Gallery"
+  - img "Filterable Gallery"
+  - button:
+    - img
+  - heading "Golden Hour Portrait" [level=3]
+  - paragraph: A half-body portrait capturing the subject’s radiant smile under the warm hues of the setting sun, highlighting natural beauty and soft, golden lighting for a timeless portrait.
+  - heading "Mystic Gaze" [level=3]
+  - paragraph: A headshot featuring piercing eyes and a traditional scarf, creating a mystery with soft, dramatic shadows and a minimalist, monochromatic backdrop for added depth and intrigue.
+  - heading "Eclipsed Gaze" [level=3]
+  - paragraph: A captivating headshot of a man glaring at you upfront a black backdrop, highlighting sharp features and a confident pose with dramatic lighting accents.
+  - heading "Adventurer’s Essence" [level=3]
+  - paragraph: A captivating outdoor shot featuring a wanderer amidst a scenic backdrop, blending human emotion with nature’s raw beauty, emphasizing the thrill of exploration and connection with the environment.
+  - heading "Through the Window" [level=3]
+  - paragraph: A captivating shot taken from outside the train, capturing the engine driver holding a walkie-talkie through the window, framed by the train’s body, evoking a sense of movement and purpose.
+  - heading "Abstract Focus" [level=3]
+  - paragraph: A creative close-up capturing half the subject’s face with bold eyeliner and a unique hairstyle, blending artistic flair with high-fashion editorial aesthetics for a standout portfolio piece.
+  - heading "Whispered Grace" [level=3]
+  - paragraph: A captivating shot of a girl wearing a hat, her head tilted slightly, exuding elegance with soft lighting and a serene expression.
+  - heading "Urban Elegance" [level=3]
+  - paragraph: A stunning close-up featuring the subject in a stylish urban setting, showcasing their confident pose, complementing attire, and the dynamic interplay of light and shadows in the background.
+  - heading "Bold Vision" [level=3]
+  - paragraph: A striking headshot featuring a woman confidently gazing through a monocular pointed at the camera, exuding mystery and elegance with a perfectly composed backdrop and sharp focus.
+  - navigation:
+    - img "Filterable Gallery"
+    - img "Filterable Gallery"
+    - img "Filterable Gallery"
+    - img "Filterable Gallery"
+    - img "Filterable Gallery"
+    - img "Filterable Gallery"
+    - img "Filterable Gallery"
+    - img "Filterable Gallery"
+    - img "Filterable Gallery"
+  - heading "Bring Out The Retro Appearance To Photo Gallery With New Presets" [level=2]
+  - text: Pop
+  - img "Filterable Gallery"
+  - text: Catchy melodies and mainstream appeal. Rock
+  - img "Filterable Gallery"
+  - text: Energetic rhythms with powerful guitar riffs. Jazz
+  - img "Filterable Gallery"
+  - text: Improvised tunes with smooth instrumentals. Classical
+  - img "Filterable Gallery"
+  - text: A city is more than a place in space, it is a drama in time. Electronic
+  - img "Filterable Gallery"
+  - text: Synthesized beats for modern, upbeat tracks. Classical
+  - img "Filterable Gallery"
+  - text: Orchestral music with timeless compositions. Reggae
+  - img "Filterable Gallery"
+  - text: Relaxed rhythms with Jamaican influences. Blues
+  - img "Filterable Gallery"
+  - text: Soulful music expressing deep emotions.
+  - button:
+    - img
+  - img "Filterable Gallery"
+  - heading "Pop" [level=3]
+  - paragraph: Catchy melodies and mainstream appeal.
+  - img "Filterable Gallery"
+  - heading "Rock" [level=3]
+  - paragraph: Energetic rhythms with powerful guitar riffs.
+  - img "Filterable Gallery"
+  - heading "Jazz" [level=3]
+  - paragraph: Improvised tunes with smooth instrumentals.
+  - img "Filterable Gallery"
+  - heading "Classical" [level=3]
+  - paragraph: A city is more than a place in space, it is a drama in time.
+  - img "Filterable Gallery"
+  - heading "Electronic" [level=3]
+  - paragraph: Synthesized beats for modern, upbeat tracks.
+  - img "Filterable Gallery"
+  - heading "Classical" [level=3]
+  - paragraph: Orchestral music with timeless compositions.
+  - img "Filterable Gallery"
+  - heading "Reggae" [level=3]
+  - paragraph: Relaxed rhythms with Jamaican influences.
+  - img "Filterable Gallery"
+  - heading "Blues" [level=3]
+  - paragraph: Soulful music expressing deep emotions.
+  - img "Filterable Gallery"
+  - heading "R&B" [level=3]
+  - paragraph: Smooth vocals with rhythmic grooves.
+  - img "Filterable Gallery"
+  - heading "Folk" [level=3]
+  - paragraph: Traditional tunes with cultural roots.
+  - img "Filterable Gallery"
+  - heading "Metal" [level=3]
+  - paragraph: Intense music with heavy guitar sounds.
+  - img "Filterable Gallery"
+  - heading "Country" [level=3]
+  - paragraph: Storytelling songs with acoustic vibes.
+  - button "Load More"
+  - heading "Bring Out The Retro Appearance To Photo Gallery With New Presets" [level=2]:
+    - strong: Bring Out The Retro Appearance To Photo Gallery With New Presets
+  - list:
+    - listitem: All
+    - listitem: Moisturizers
+    - listitem: Serums
+    - listitem: Exfoliators
+  - img "Filterable Gallery"
+  - link "+":
+    - /url: https://essential-blocks.com/wp-content/uploads/2024/12/Frame-1618872941.jpg
+  - link "":
+    - /url: "#"
+  - text: GlowRadiance Serum Brightens skin and reduces dark spots.
+  - img "Filterable Gallery"
+  - link "+":
+    - /url: https://essential-blocks.com/wp-content/uploads/2024/12/Frame-1618872942-1.jpg
+  - link "":
+    - /url: "#"
+  - text: Body wash Set Lightweight formula for smooth, nourished skin.
+  - img "Filterable Gallery"
+  - link "+":
+    - /url: https://essential-blocks.com/wp-content/uploads/2024/12/Frame-1618872943.jpg
+  - link "":
+    - /url: "#"
+  - text: PureGlow Scrub Gently removes dead skin for radiance.
+  - img "Filterable Gallery"
+  - link "+":
+    - /url: https://essential-blocks.com/wp-content/uploads/2024/12/Frame-1618872944.jpg
+  - link "":
+    - /url: "#"
+  - text: SmoothEssence Exfoliator Refines texture and brightens dull skin.
+  - img "Filterable Gallery"
+  - link "+":
+    - /url: https://essential-blocks.com/wp-content/uploads/2024/12/Frame-1618872945.jpg
+  - link "":
+    - /url: "#"
+  - text: HydraGlow Cream Deep hydration for soft, radiant skin.
+  - img "Filterable Gallery"
+  - link "+":
+    - /url: https://essential-blocks.com/wp-content/uploads/2024/12/Frame-1618872946.jpg
+  - link "":
+    - /url: "#"
+  - text: RevivaMoist Balm Restores moisture and rejuvenates dry skin.
+  - img "Filterable Gallery"
+  - link "+":
+    - /url: https://essential-blocks.com/wp-content/uploads/2024/12/Frame-1618872947.jpg
+  - link "":
+    - /url: "#"
+  - text: AgeDefy Serum Firms and smooths fine lines effectively.
+  - img "Filterable Gallery"
+  - link "+":
+    - /url: https://essential-blocks.com/wp-content/uploads/2024/12/Frame-1618872948-1.jpg
+  - link "":
+    - /url: "#"
+  - text: FreshSkin Polish Exfoliates deeply, leaving skin refreshed and smooth.
+  - img "Filterable Gallery"
+  - link "+":
+    - /url: https://essential-blocks.com/wp-content/uploads/2024/12/Frame-1618872949.jpg
+  - link "":
+    - /url: "#"
+  - text: HydraBoost Serum Deeply nourishes and locks in moisture.
+  - img
+  - paragraph: Image Not Found! Try Again
+  - heading "Create A Clean And Sleek Filterable Gallery With Exclusive Features" [level=2]:
+    - strong: Create A Clean And Sleek Filterable Gallery With Exclusive Features
+  - heading "Search Within Gallery" [level=2]:
+    - strong: Search Within Gallery
+  - paragraph: Use search and filter functionality within the gallery, to quickly locate specific images by names, tags, or categories. Ensuring efficient navigation and enhancing content discoverability.
+  - figure:
+    - img "Filterable Gallery"
+  - heading "Images Lightbox Preview" [level=2]:
+    - strong: Images Lightbox Preview
+  - paragraph: Enable an interactive lightbox feature to display images in a full-screen mode. This allows you to view high-resolution images without leaving the page.
+  - figure:
+    - img "Filterable Gallery"
+  - figure:
+    - img "Filterable Gallery"
+  - heading "Drag & Rearrange Items" [level=2]:
+    - strong: Drag & Rearrange Items
+  - paragraph: Organize your WordPress gallery block effortlessly by dragging and rearranging gallery items.
+  - figure:
+    - img "Filterable Gallery"
+  - heading "Load More, Captions, Hover Effects And Links" [level=2]:
+    - strong: Load More, Captions, Hover Effects And Links
+  - paragraph: Display images in gallery with captions, hover effects links and load more options, letting them be right in fingertip distance.

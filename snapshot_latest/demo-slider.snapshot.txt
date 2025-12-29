@@ -1,0 +1,120 @@
+- main:
+  - img "Slider"
+  - heading "Slider" [level=1]
+  - paragraph: Display all your beautiful images with eye-catching motion effects and dazzle your audiences instantly using Essential Blocks Slider. This amazing block will help you showcase images stunningly without compromising the style.
+  - link "Get Started FREE ":
+    - /url: https://wordpress.org/plugins/essential-blocks
+  - figure:
+    - img "Slider"
+  - figure:
+    - img "Slider"
+  - img "Slider"
+  - heading "Limitless Content Customization" [level=3]
+  - paragraph
+  - img "Slider"
+  - heading "Responsive Preview Controls" [level=3]
+  - paragraph
+  - img "Slider"
+  - heading "Infinite Styling Possibilities" [level=3]
+  - paragraph
+  - img "Slider"
+  - heading "45+ Advanced Gutenberg Blocks" [level=3]
+  - paragraph
+  - heading "Follow This Tutorial To Create Slider" [level=2]
+  - figure:
+    - iframe
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/slider
+  - heading "Image Slider In Fade Style" [level=2]
+  - paragraph: With Testimonials block from Essential Blocks, you will get the options to design an elegant customers feedback section and become reliable to your visitors
+  - text: 
+  - img
+  - text: 
+  - heading "Dual Slideshow With Auto-Play" [level=2]
+  - paragraph: With EB Slider, you can show dual sliders to show multiple images with auto play facility and add more images as well.
+  - tabpanel:
+    - img
+  - tabpanel:
+    - img
+  - tablist:
+    - tab "1 of 2": • 1
+    - tab "2 of 2" [selected]: • 2
+    - tab "3 of 2": • 3
+  - tabpanel:
+    - img
+    - heading "Slideshow Having Left Content" [level=2]
+    - paragraph: Showcase beautiful images along with descriptions on the left side to impress your audiences spontaneously.
+    - link "See More":
+      - /url: ""
+  - tablist:
+    - tab "1 of 3": • 1
+    - tab "2 of 3" [selected]: • 2
+    - tab "3 of 3": • 3
+  - tabpanel:
+    - img
+    - heading "Rightside Content Slideshow" [level=2]
+    - paragraph: Present impressive images along with descriptions on the right side to make it more appealing for the viewers.
+  - tablist:
+    - tab "1 of 2" [selected]: • 1
+    - tab "2 of 2": • 2
+  - heading "Slideshow Having Contents Within" [level=2]
+  - paragraph: Display impressive sliders along with descriptions within it to make the slider more effective, impressive and attractive for the viewers.
+  - tabpanel:
+    - img
+    - heading "Daily Life Shopping" [level=2]
+    - paragraph: Made of expensive & best quality wood
+    - link "See More":
+      - /url: ""
+  - tablist:
+    - tab "1 of 2" [selected]: • 1
+    - tab "2 of 2": • 2
+  - tabpanel:
+    - img
+    - heading "Latest Releases" [level=2]
+    - paragraph: All our latest updates and released are here
+    - link "See More":
+      - /url: ""
+  - tablist:
+    - tab "1 of 2": • 1
+    - tab "2 of 2" [selected]: • 2
+  - tabpanel:
+    - img
+    - heading "3D Art Portrait" [level=2]
+    - paragraph: Indulge in the dazzling art we created
+    - link "See More":
+      - /url: ""
+  - tablist:
+    - tab "1 of 2": • 1
+    - tab "2 of 2" [selected]: • 2
+  - heading "Showcase Multiple Sliders" [level=2]
+  - paragraph: Multiple sliders to showcase multiple images with contents to display all your beautiful images in front of the visitors and engage them more.
+  - tabpanel:
+    - img
+    - heading "Cookbook" [level=2]
+    - paragraph: Tasty, yummy and delicious
+  - tabpanel:
+    - img
+    - heading "Home Decor" [level=2]
+    - paragraph: Essential Blocks Slider Subtitle Goes Here
+  - tabpanel:
+    - img
+    - heading "Art & Crafts" [level=2]
+    - paragraph: Essential Blocks Slider Subtitle Goes Here
+  - tabpanel:
+    - img
+    - heading "Paintings" [level=2]
+    - paragraph: Essential Blocks Slider Subtitle Goes Here
+  - tablist:
+    - tab "1 of 2" [selected]: • 1
+    - tab "2 of 2": • 2
+    - tab "3 of 2": • 3
+    - tab "4 of 2": • 4
+    - tab "5 of 2": • 5
+  - heading "Display Vertical Slideshow" [level=2]
+  - paragraph: Besides horizontal slideshow, you can display a vertical slideshow for your beautiful images with stunning style and color combination.
+  - tabpanel:
+    - img
+  - tablist:
+    - tab "1 of 3": • 1
+    - tab "2 of 3" [selected]: • 2
+    - tab "3 of 3": • 3

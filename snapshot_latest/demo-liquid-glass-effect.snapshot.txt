@@ -1,0 +1,115 @@
+- main:
+  - heading "Liquid Glass Effects" [level=2]
+  - heading "Redefine Website Appearance With Futuristic Liquid Glass Effect" [level=1]:
+    - text: Redefine Website Appearance With Futuristic
+    - mark: Liquid Glass Effect
+  - paragraph: Add smooth, glossy liquid effects to your WordPress site; no coding is needed. Instantly bring modern UI to Gutenberg designs. Get this effect for all layouts and blocks with Essential Blocks.
+  - link "Get Started ":
+    - /url: https://essential-blocks.com/#pricing
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/eb-liquid-glass-effect/
+  - heading "LIQUID GLASS EFFECT FOR WordPress" [level=2]
+  - paragraph: Enter a new era of glassmorphism; bring the smoothest liquid flow to your website with Gutenberg.
+  - heading "Choose From Versatile Liquid Effect Presets" [level=2]
+  - paragraph: Add a winter frosty vibe or rainy day strains; select aesthetic preset that will elevate your website design.
+  - heading "Grain Frost" [level=2]
+  - heading "Fine Frost" [level=2]
+  - heading "Soft Mist" [level=2]
+  - heading "Heavy Frost" [level=2]
+  - heading "Light Frost" [level=2]
+  - heading "Build Interfaces That Glow, Blur, and Captivate Welcome To Modern Glass Effect" [level=2]
+  - paragraph: Craft immersive UI layers with Liquid Glass Effect that combine elegance with clarity and depth.
+  - img "Floyd Miles"
+  - heading "Floyd Miles" [level=3]
+  - heading "Product Designer" [level=4]
+  - img "Ralph Edwards"
+  - heading "Ralph Edwards" [level=3]
+  - heading "President of Sales" [level=4]
+  - img "Eleanor Pena"
+  - heading "Eleanor Pena" [level=3]
+  - heading "Web Designer" [level=4]
+  - link " See All Member":
+    - /url: "#"
+  - figure:
+    - img "Liquid Glass Effect"
+  - navigation:
+    - list:
+      - listitem:
+        - link "Contact":
+          - /url: https://wpdeveloper.com/contact/
+      - listitem:
+        - link "About Us":
+          - /url: https://wpdeveloper.com/about/
+      - listitem:
+        - link "Community":
+          - /url: https://www.facebook.com/groups/wpdeveloper.net/
+  - link "Login":
+    - /url: "#"
+  - heading "Represent Creativity With Liquid Clarity" [level=2]
+  - figure:
+    - img "Liquid Glass Effect"
+  - heading "Turn Ordinary Website Layouts into Unimaginable Experiences" [level=2]
+  - paragraph: Design like a pro with all the stunning glass effects and bring innovation to WordPress design with a few clicks.
+  - list:
+    - listitem:
+      - img "Rectangle 79-1"
+      - heading "Leslie Alexander" [level=3]
+      - paragraph: Web Designer
+  - paragraph: Interactive Animation has revolutionized my web design process. The ease of adding dynamic elements without coding has truly unlocked my creativity.
+  - figure:
+    - img "Liquid Glass Effect"
+  - list:
+    - listitem:
+      - img "Rectangle 79-3"
+      - heading "Ronald Richards" [level=3]
+      - paragraph: Web Designer
+  - paragraph: Interactive Animation has revolutionized my web design process. The ease of adding dynamic elements without coding has truly unlocked my creativity.
+  - figure:
+    - img "Liquid Glass Effect"
+  - list:
+    - listitem:
+      - img "Rectangle 79"
+      - heading "Savannah Nguyen" [level=3]
+      - paragraph: Web Designer
+  - paragraph: Interactive Animation has revolutionized my web design process. The ease of adding dynamic elements without coding has truly unlocked my creativity.
+  - figure:
+    - img "Liquid Glass Effect"
+  - list:
+    - listitem:
+      - img "Rectangle 78"
+      - heading "Kathryn Murphy" [level=3]
+      - paragraph: Web Designer
+  - paragraph: Interactive Animation has revolutionized my web design process. The ease of adding dynamic elements without coding has truly unlocked my creativity.
+  - figure:
+    - img "Liquid Glass Effect"
+  - heading "Turn Simple Blocks Into Stunning, Liquid-Like Designs" [level=2]
+  - paragraph: Add a glassy feel to buttons, layouts and block backgrounds; use liquid glass effects to update each section.
+  - img "Liquid Glass Effect"
+  - heading "Lightweight & Flexible" [level=2]
+  - paragraph: A very lightweight, flexible and handy gadget which is very easy to use.
+  - link "Learn More":
+    - /url: ""
+  - img "Liquid Glass Effect"
+  - heading "Internet Connection" [level=2]
+  - paragraph: A very lightweight, flexible and handy gadget which is very easy to use.
+  - link "Learn More":
+    - /url: ""
+  - img "Liquid Glass Effect"
+  - heading "Communications" [level=2]
+  - paragraph: A very lightweight, flexible and handy gadget which is very easy to use.
+  - link "Learn More":
+    - /url: ""
+  - heading "Explore Advanced Customization Controls For Pixel-Perfect Liquid Glass Design" [level=2]
+  - heading "Enable Liquid Glass Effect" [level=2]:
+    - strong: Enable Liquid Glass Effect
+  - paragraph: Enable the toggle to apply the glassmorphism effect on any block you want, design limitless.
+  - figure:
+    - img "Liquid Glass Effect"
+  - figure:
+    - img "Liquid Glass Effect"
+  - heading "Create Liquid Glass On Your Term" [level=2]
+  - paragraph: Adjust glass depth, change background colors, and filters to make key elements stand out.
+  - figure:
+    - img "Liquid Glass Effect"
+  - heading "Apply Shadow Effects" [level=2]
+  - paragraph: Find more Images with captions, hover effects links and load more options, letting them right in fingertip distance.

@@ -1,0 +1,66 @@
+- main:
+  - heading "Form Block" [level=2]
+  - heading "Streamline Data Gathering & Formulate Insights With The Form Block" [level=1]:
+    - text: Streamline Data Gathering & Formulate Insights With The
+    - mark: Form Block
+  - paragraph: Transform data collection into an art form with Essential Blocks’ Form Block! Encourage effortless submissions and subscriptions, while wielding limitless customization options to master every pixel. Gather data with style & ease!
+  - link "Get Started ":
+    - /url: https://essential-blocks.com/#pricing
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/eb-form-block/
+  - figure:
+    - img "Form Block"
+  - list:
+    - listitem:
+      - img "Form Block"
+      - heading "Contact Form" [level=6]
+    - listitem:
+      - img "Form Block"
+      - heading "RSVP Form" [level=6]
+    - listitem:
+      - img "Form Block"
+      - heading "Subscription FormForm Block" [level=6]:
+        - text: Subscription Form
+        - img "Form Block"
+    - listitem:
+      - img "Form Block"
+      - heading "Multi-Step FormForm Block" [level=6]:
+        - text: Multi-Step Form
+        - img "Form Block"
+  - heading "Contact Form (Classic)" [level=2]
+  - heading "Contact Form With A Modern Impact" [level=2]:
+    - mark: Contact Form
+    - text: With A Modern Impact
+  - paragraph: Timeless elegance meets contemporary functionality in our contact form classic layout with endless customization
+  - text: First Name * 
+  - textbox "First Name *":
+    - /placeholder: Your First Name
+  - text: Last Name * 
+  - textbox "Last Name *":
+    - /placeholder: Your Last Name
+  - text: Subject * 
+  - textbox "Subject *":
+    - /placeholder: "Your Email Subject "
+  - text: Email * 
+  - textbox "Email * Email Address * Email Address *":
+    - /placeholder: Write Message here
+  - text: Message 
+  - textbox "Message":
+    - /placeholder: Write Message here
+  - button "Submit"
+  - heading "Exploring The Rich Diversity Of More Additional Blocks" [level=2]
+  - paragraph: Dive into a world of endless possibilities with our expanding variety of 9 inner blocks to make your Gutenberg experience more interactive!
+  - figure:
+    - img "Form Block"
+  - heading "Unlock Valuable Insights From Responses" [level=2]
+  - paragraph: Connect directly with your audience by accessing valuable Form Responses effortlessly from your WordPress dashboard, in real time!
+  - figure:
+    - img "Form Block"
+  - heading "Optimize Security & Engagement with Google reCAPTCHA & MailChimp" [level=2]:
+    - text: Optimize Security & Engagement with Google
+    - mark: reCAPTCHA
+    - text: "&"
+    - mark: MailChimp
+  - paragraph: Unlock Premium Power with Form Block, Google reCAPTCHA & Mailchimp for enhanced security and engagement
+  - figure:
+    - img "Form Block"

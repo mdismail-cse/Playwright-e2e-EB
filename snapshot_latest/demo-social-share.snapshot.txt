@@ -1,0 +1,143 @@
+- main:
+  - img "Social Share"
+  - heading "Social Share" [level=1]
+  - paragraph: Let your audience share your post content instantly on popular social platforms with the Social Share block. You can easily customize your social share icon appearances and increase engagements instantly.
+  - link "Get Started FREE ":
+    - /url: https://wordpress.org/plugins/essential-blocks
+  - figure:
+    - img "Social Share"
+  - figure:
+    - img "Social Share"
+  - img "Social Share"
+  - heading "Limitless Content Customization" [level=3]
+  - paragraph
+  - img "Social Share"
+  - heading "Responsive Preview Controls" [level=3]
+  - paragraph
+  - img "Social Share"
+  - heading "Infinite Styling Possibilities" [level=3]
+  - paragraph
+  - img "Social Share"
+  - heading "45+ Advanced Gutenberg Blocks" [level=3]
+  - paragraph
+  - heading "How To Use The Social Share Block In Gutenberg?" [level=2]
+  - figure:
+    - iframe
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/eb-social-share/
+  - heading "Fade In, Slide Out, Zoom In" [level=6]
+  - heading "Add Social Share Icons With Names" [level=2]
+  - paragraph: Showcase your social shares with the platform names & icons with custom typography and provide the smoothest user experience for your visitors. You can easily get more social shares for your website simply by adding the Social Share block from Essential Bocks on your website.
+  - list:
+    - listitem:
+      - link " Facebook":
+        - /url: https://www.facebook.com/sharer/sharer.php?u=https://essential-blocks.com/demo/social-share/
+    - listitem:
+      - link " Twitter":
+        - /url: https://twitter.com/share?text=Social%20Share&url=https://essential-blocks.com/demo/social-share/
+    - listitem:
+      - link " Linkedin":
+        - /url: https://www.linkedin.com/shareArticle?title=Social%20Share&url=https://essential-blocks.com/demo/social-share/&mini=true
+  - figure:
+    - img "Social Share"
+  - heading "Keep Social Share Icons In Floating Style" [level=2]
+  - paragraph: Add sticky social share icons on the right side of your website and enhance your user experience with scrolling effects at ease
+  - figure:
+    - img "Social Share"
+  - heading "Bounce In, Pulse Grow, Float" [level=6]
+  - heading "Display Social Shares In Circle Style With Animation Effects" [level=2]
+  - paragraph: Present your social share icons in a circle style with custom height and margin and customize the background just the way you want. You will find ultimate styling options to make the Social Share block appealing to your visitors.
+  - list:
+    - listitem:
+      - link "":
+        - /url: https://www.facebook.com/sharer/sharer.php?u=https://essential-blocks.com/demo/social-share/
+    - listitem:
+      - link "":
+        - /url: https://twitter.com/share?text=Social%20Share&url=https://essential-blocks.com/demo/social-share/
+    - listitem:
+      - link "":
+        - /url: https://www.linkedin.com/shareArticle?title=Social%20Share&url=https://essential-blocks.com/demo/social-share/&mini=true
+    - listitem:
+      - link "":
+        - /url: https://api.whatsapp.com/send?text=Social%20Share%20https://essential-blocks.com/demo/social-share/
+    - listitem:
+      - link "":
+        - /url: https://pinterest.com/pin/create/button/?url=https://essential-blocks.com/demo/social-share/
+  - heading "Display Social Share Buttons In Round Style" [level=2]
+  - paragraph: Show social share buttons by customizing the height and width to get more engagement for your posts and increase visibility on the social platforms
+  - figure:
+    - img "Social Share"
+  - heading "$ 29" [level=1]
+  - heading "Enriched Hand & Body Wash" [level=2]
+  - img "Social Share"
+  - heading "(5 Customer Review)" [level=2]
+  - paragraph: Affordable pearly-white, silky smooth body and hand wash, made from the goodness of natural elements to cleanse your skin thoroughly. Get rid of the daily dirt and germs and stay safe and healthy.
+  - link " Add to Cart":
+    - /url: "#"
+  - link "1":
+    - /url: "#"
+  - list:
+    - listitem:
+      - 'heading "SKU: Cosmetic4434" [level=3]'
+      - paragraph
+    - listitem:
+      - 'heading "Category: Bodycare" [level=3]'
+      - paragraph
+    - listitem:
+      - 'heading "Tags: Health, Skin care" [level=3]'
+      - paragraph
+  - heading "Share Now:" [level=2]
+  - list:
+    - listitem:
+      - link "":
+        - /url: https://www.facebook.com/sharer/sharer.php?u=https://essential-blocks.com/demo/social-share/
+    - listitem:
+      - link "":
+        - /url: https://twitter.com/share?text=Social%20Share&url=https://essential-blocks.com/demo/social-share/
+    - listitem:
+      - link "":
+        - /url: https://www.linkedin.com/shareArticle?title=Social%20Share&url=https://essential-blocks.com/demo/social-share/&mini=true
+    - listitem:
+      - link "":
+        - /url: https://api.whatsapp.com/send?text=Social%20Share%20https://essential-blocks.com/demo/social-share/
+  - figure:
+    - img "Social Share"
+  - heading "Display Social Share Buttons In Round Style" [level=2]
+  - paragraph: Show social share buttons by customizing the height and width to get more engagement for your posts and increase visibility on the social platforms
+  - heading "Bounce In, Pulse Grow, Float" [level=6]
+  - heading "Upto 70% Discount" [level=2]
+  - paragraph: Get the best JBL speaker and find the smoothest hearing experience to change the mode of your small parties.
+  - list:
+    - listitem:
+      - link "":
+        - /url: https://www.facebook.com/sharer/sharer.php?u=https://essential-blocks.com/demo/social-share/
+    - listitem:
+      - link "":
+        - /url: https://twitter.com/share?text=Social%20Share&url=https://essential-blocks.com/demo/social-share/
+    - listitem:
+      - link "":
+        - /url: https://www.linkedin.com/shareArticle?title=Social%20Share&url=https://essential-blocks.com/demo/social-share/&mini=true
+    - listitem:
+      - link "":
+        - /url: https://api.whatsapp.com/send?text=Social%20Share%20https://essential-blocks.com/demo/social-share/
+  - figure:
+    - img "Social Share"
+  - figure:
+    - img "Social Share"
+  - heading "Flip Animation, Bobble" [level=6]
+  - heading "Get Engaging Hover Effects For Social Share Icons" [level=2]
+  - paragraph: Apply hover effects on your social share icons from thousands of options and make the share buttons more interactive so that it attracts your visitors instantly
+  - heading "Share:" [level=2]
+  - list:
+    - listitem:
+      - link "":
+        - /url: https://www.facebook.com/sharer/sharer.php?u=https://essential-blocks.com/demo/social-share/
+    - listitem:
+      - link "":
+        - /url: https://twitter.com/share?text=Social%20Share&url=https://essential-blocks.com/demo/social-share/
+    - listitem:
+      - link "":
+        - /url: https://www.linkedin.com/shareArticle?title=Social%20Share&url=https://essential-blocks.com/demo/social-share/&mini=true
+    - listitem:
+      - link "":
+        - /url: https://api.whatsapp.com/send?text=Social%20Share%20https://essential-blocks.com/demo/social-share/

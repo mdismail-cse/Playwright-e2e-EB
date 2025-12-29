@@ -1,0 +1,60 @@
+- main:
+  - heading "Multicolumn Pricing" [level=2]
+  - heading "Maximize Your Profit With Multicolumn Pricing Table" [level=1]:
+    - text: Maximize Your Profit With
+    - mark: Multicolumn Pricing Table
+  - paragraph: Unlock the power of pricing section versatility on Gutenberg editor with the help of the Multicolumn Pricing Table block’s stunning design possibilities. Embrace & supercharge your revenue right away.
+  - link "Get Started ":
+    - /url: https://essential-blocks.com/#pricing
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/multicolumn-pricing-table/
+  - figure:
+    - img "Multicolumn Pricing Table"
+  - list:
+    - listitem:
+      - img "Multicolumn Pricing Table"
+      - heading "Style 1" [level=6]
+    - listitem:
+      - img "Multicolumn Pricing Table"
+      - heading "Style 2" [level=6]
+    - listitem:
+      - img "Multicolumn Pricing Table"
+      - heading "Style 3" [level=6]
+    - listitem:
+      - img "Multicolumn Pricing Table"
+      - heading "Style 4" [level=6]
+    - listitem:
+      - img "Multicolumn Pricing Table"
+      - heading "Style 5" [level=6]
+    - listitem:
+      - img "Multicolumn Pricing Table"
+      - heading "Style 6" [level=6]
+  - paragraph
+  - heading "Real-Time Analytics" [level=3]
+  - heading "Customizable Templates" [level=3]
+  - heading "Multi-Platform Compatibility" [level=3]
+  - heading "Advanced Security" [level=3]
+  - heading "Auto-Sync Capability" [level=3]
+  - heading "AI-Powered Suggestions" [level=3]
+  - paragraph: 24/7 Customer Support
+  - heading "Basic" [level=2]
+  - heading "$100" [level=3]
+  - heading "$120" [level=3]
+  - link "Get Started":
+    - /url: "#"
+  - heading "Unlimited" [level=4]
+  - text:      
+  - heading "Standard" [level=2]
+  - heading "$240" [level=3]
+  - heading "$260" [level=3]
+  - link "Get Started":
+    - /url: "#"
+  - heading "Unlimited" [level=4]
+  - text:      
+  - heading "Premium" [level=2]
+  - heading "$350" [level=3]
+  - heading "$380" [level=3]
+  - link "Get Started":
+    - /url: "#"
+  - heading "Unlimited" [level=4]
+  - text:      

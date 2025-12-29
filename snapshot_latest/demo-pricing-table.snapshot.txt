@@ -1,0 +1,144 @@
+- main:
+  - img "Pricing Table"
+  - heading "Pricing Table" [level=1]
+  - paragraph: Showcase the product & service pricing with a responsive Pricing Table block and skyrocket your sales. With gorgeous pricing presets & customizable buttons, maximize your overall profit in the long run.
+  - link "Get Started FREE ":
+    - /url: https://wordpress.org/plugins/essential-blocks
+  - figure:
+    - img "Pricing Table"
+  - figure:
+    - img "Pricing Table"
+  - img "macbook"
+  - heading "Limitless Content Customization" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Responsive Preview Controls" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Infinite Styling Possibilities" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "45+ Advanced Gutenberg Blocks" [level=3]
+  - paragraph
+  - heading "Guide To Easily Create Pricing Table" [level=2]
+  - figure:
+    - iframe
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/pricing-table/
+  - heading "Pricing Table Style 1" [level=2]
+  - paragraph: The pricing table block will let you create an effective product pricing table with perfect styling to get more sales from your prospective buyers
+  - text: 
+  - heading "Basic Access" [level=2]
+  - text: $29.99 / month
+  - list:
+    - listitem:  Unlimited Calls
+    - listitem:  Free Hosting
+    - listitem:  500MB Free Storage
+    - listitem:  24/7 Support
+  - link "Select Plan":
+    - /url: ""
+  - text: featured 
+  - heading "Full Access" [level=2]
+  - text: $39.99 / month
+  - list:
+    - listitem:  Unlimited Calls
+    - listitem:  Free Hosting
+    - listitem:  500MB Free Storage
+    - listitem:  24/7 Support
+    - listitem:  Free SSL
+  - link "Select Plan":
+    - /url: ""
+  - text: 
+  - heading "Developer Access" [level=2]
+  - text: $49.99 / month
+  - list:
+    - listitem:  Unlimited Calls
+    - listitem:  Free Hosting
+    - listitem:  500MB Free Storage
+    - listitem:  24/7 Support
+  - link "Select Plan":
+    - /url: ""
+  - heading "Pricing Table Style 2" [level=2]
+  - paragraph: The pricing table block will let you create an effective product pricing table with perfect styling to get more sales from your prospective buyers.
+  - text: 
+  - heading "Monthly" [level=2]
+  - text: Your Best Plan $29.99 / month
+  - list:
+    - listitem:  Unlimited Calls
+    - listitem:  Free Hosting
+    - listitem:  500MB Free Storage
+    - listitem:  24/7 Support
+  - link " Select Plan":
+    - /url: ""
+  - text: featured 
+  - heading "Quaterly" [level=2]
+  - text: Your Best Plan $49.99 / month
+  - list:
+    - listitem:  Unlimited Calls
+    - listitem:  Free Hosting
+    - listitem:  500MB Free Storage
+    - listitem:  24/7 Support
+  - link " Select Plan":
+    - /url: ""
+  - text: 
+  - heading "Yearly" [level=2]
+  - text: Your Best Plan $69.99 / month
+  - list:
+    - listitem:  Unlimited Calls
+    - listitem:  Free Hosting
+    - listitem:  500MB Free Storage
+    - listitem:  24/7 Support
+  - link " Select Plan":
+    - /url: ""
+  - heading "Pricing Table Left Hover Image" [level=2]
+  - paragraph: The pricing table block will let you create an effective product pricing table with perfect styling to get more sales from your prospective buyers.
+  - text: 
+  - heading "Monthly" [level=2]
+  - text: Your Best Plan $29.99 / month
+  - list:
+    - listitem:  Unlimited Calls
+    - listitem:  Free Hosting
+    - listitem:  500MB Free Storage
+    - listitem:  24/7 Support
+  - link " Select Plan":
+    - /url: ""
+  - text: 
+  - heading "Quaterly" [level=2]
+  - text: Your Best Plan $39.99 / month
+  - list:
+    - listitem:  Unlimited Calls
+    - listitem:  Free Hosting
+    - listitem:  500MB Free Storage
+    - listitem:  24/7 Support
+  - link " Select Plan":
+    - /url: ""
+  - text: 
+  - heading "Yearly" [level=2]
+  - text: Your Best Plan $49.99 / month
+  - list:
+    - listitem:  Unlimited Calls
+    - listitem:  Free Hosting
+    - listitem:  500MB Free Storage
+    - listitem:  24/7 Support
+  - link " Select Plan":
+    - /url: ""
+  - heading "Pricing Table Style 3" [level=2]
+  - paragraph: The pricing table block will let you create an effective product pricing table
+  - heading "Monthly" [level=2]
+  - list:
+    - listitem:  Unlimited Calls
+    - listitem:  Free Hosting
+    - listitem:  500MB Free Storage
+    - listitem:  24/7 Support
+  - text: $29.99 / month
+  - link " Select Plan":
+    - /url: ""
+  - heading "Yearly" [level=2]
+  - list:
+    - listitem:  Unlimited Calls
+    - listitem:  Free Hosting
+    - listitem:  500MB Free Storage
+    - listitem:  24/7 Support
+  - text: $69.99 / month
+  - link " Select Plan":
+    - /url: ""

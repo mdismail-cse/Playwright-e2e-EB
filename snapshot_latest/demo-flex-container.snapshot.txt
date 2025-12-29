@@ -1,0 +1,60 @@
+- main:
+  - paragraph: Flex Container
+  - heading "Design Pixel-Perfect Layouts In Gutenberg With Flex Container" [level=1]
+  - paragraph: Create any design you can imagine in Gutenberg editor with Flexbox block and easily handle even the trickiest, responsive layouts without coding.
+  - link "Get Started ":
+    - /url: https://essential-blocks.com/#pricing
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/eb-flex-container
+  - figure:
+    - img "Flex Container block of Essential Blocks"
+  - heading "Presenting The New Building Block That Empowers Efficient Layouts, Alignments & Distributed Items" [level=2]
+  - heading "Control The Content Flow By Adding Your Layout Blocks to Flex Container" [level=2]
+  - paragraph: Get freedom to shape your content layouts by dragging blocks into the Flexbox Container and positioning them exactly how you want.
+  - figure:
+    - img "Flex Container"
+  - heading "Add Column Blocks To Your Flexbox And Create Items At Your Own Pace" [level=2]
+  - paragraph: Place your layout blocks into the Flexbox container and manage the appearance of all items centrally; no need to tweak each block separately.
+  - figure:
+    - img "Flex Container"
+  - heading "Justify Block’s Alignment Position According To Design Needs" [level=2]
+  - paragraph: Easily align and position every container item without custom code. No matter how many blocks you use, your design stays perfectly structured.
+  - figure:
+    - img "Flex Container"
+  - heading "Control Content Flow By Adding Layout Blocks to Flex Container" [level=2]
+  - paragraph: Enable Flexbox Container content wrapping to ensure every designed layout stays fully responsive and adapts smoothly to any device.
+  - figure:
+    - img "Flex Container"
+  - heading "Create Endless Content Structures From Basic to Complex" [level=2]
+  - list:
+    - listitem:
+      - img "Flex Container"
+      - text: Flex Start
+    - listitem:
+      - img "Flex Container"
+      - text: Center
+    - listitem:
+      - img "Flex Container"
+      - text: Flex End
+    - listitem:
+      - img "Flex Container"
+      - text: Stretch
+  - img "Flex Container"
+  - heading "Perfect T-Shirt Mockup" [level=5]
+  - paragraph: Get freedom to shape your content layouts by dragging blocks into the Flexbox Container and positioning them exactly how you want. Get freedom to shape your content layouts
+  - link "View Projects ":
+    - /url: ""
+  - img "Flex Container"
+  - heading "Product Mockup" [level=5]
+  - paragraph: Get freedom to shape your content layouts by dragging blocks into the Flexbox Container and positioning them exactly how you want.
+  - link "View Projects ":
+    - /url: ""
+  - img "Flex Container"
+  - heading "Premium Box Mockups" [level=5]
+  - paragraph: Get freedom to shape your content layouts by dragging blocks into the Flexbox Container and positioning them exactly how you want. Get freedom to shape your content layouts by dragging blocks into the Flexbox Container and positioning them exactly how you want.
+  - link "View Projects ":
+    - /url: ""
+  - heading "Explore Numerous Configuration Options To Customize Flexbox Container Based On Your Needs" [level=2]
+  - paragraph: Style each container item in the flexbox with hierarchy, custom control, spacing, alignments, positions, etc., to give it a contemporary, flexible appearance.
+  - figure:
+    - img "Flex Container"

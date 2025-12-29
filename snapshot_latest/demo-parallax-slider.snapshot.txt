@@ -1,0 +1,88 @@
+- main:
+  - img "Parallax Slider"
+  - heading "Parallax Slider" [level=1]
+  - paragraph: Add motion effects to your website with the Parallax Slider block from Essential Blocks & make your website lively. Using this interactive block, you can easily keep your visitors engaged with your website and reduce bounce rates at ease.
+  - link "Get Started FREE ":
+    - /url: https://wordpress.org/plugins/essential-blocks
+  - figure:
+    - img "Parallax Slider"
+  - figure:
+    - img "Parallax Slider"
+  - img "macbook"
+  - heading "Limitless Content Customization" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Responsive Preview Controls" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Infinite Styling Possibilities" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "45+ Advanced Gutenberg Blocks" [level=3]
+  - paragraph
+  - heading "Follow This Tutorial To Create Parallax Slider" [level=2]
+  - figure:
+    - iframe
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/parallax-slider
+  - heading "Parallax Slider With Ultimate Styles" [level=2]
+  - paragraph: Engage your audiences with dynamic content and lead them to your call to action buttons to boost up your conversions using Parallax Slider Block in Gutenberg
+  - list:
+    - listitem:
+      - img "Parallax Slider"
+    - listitem:
+      - img "Parallax Slider"
+      - article:
+        - heading "Sneaker Max 2216 – On Sale" [level=2]
+        - button "Get Now"
+    - listitem:
+      - img "Parallax Slider"
+  - heading "Numerous Customizing Options" [level=2]
+  - paragraph: Grab instant attention of your visitors with Parallax Slider block from Essential Block and drive them to your CTA buttons by adding powerful copies
+  - list:
+    - listitem:
+      - img "Parallax Slider"
+    - listitem:
+      - img "Parallax Slider"
+      - article:
+        - heading [level=2]
+        - button "Buy Now"
+    - listitem:
+      - img "Parallax Slider"
+  - heading "Parallax Border Customization" [level=2]:
+    - strong: Parallax Border Customization
+  - paragraph: Showcase your image just the way you want while adding motion effects to your website and make your visitors interested to click your CTA buttons
+  - list:
+    - listitem:
+      - img "Parallax Slider"
+    - listitem:
+      - img "Parallax Slider"
+      - article:
+        - heading "Slider 2" [level=2]
+        - button "Grab Now"
+    - listitem:
+      - img "Parallax Slider"
+  - heading "Stunning Custom Background" [level=2]
+  - paragraph: Design customized backgrounds with unlimited coloring options and highlight your content easily with Parallax Slider block from Essential Blocks
+  - list:
+    - listitem:
+      - img "Parallax Slider"
+    - listitem:
+      - img "Parallax Slider"
+      - article:
+        - heading "Slider 2" [level=2]
+        - button "Buy Now"
+    - listitem:
+      - img "Parallax Slider"
+  - heading "Amazing Custom Background Overlay" [level=2]
+  - paragraph: Add stunning background overly on your images using Parallax Slider from Essential Blocks and attract your visitors instantly with motion effects
+  - list:
+    - listitem:
+      - img "Parallax Slider"
+    - listitem:
+      - img "Parallax Slider"
+      - article:
+        - heading "Slider 2" [level=2]
+        - button "Button"
+    - listitem:
+      - img "Parallax Slider"

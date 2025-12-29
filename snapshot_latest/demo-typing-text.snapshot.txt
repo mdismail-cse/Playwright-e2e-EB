@@ -1,0 +1,47 @@
+- main:
+  - img "Typing Text"
+  - heading "Typing Text" [level=1]
+  - paragraph: Lighten up your ordinary text to bring pleasure to your customer with Typing Text block. With interactive looping, fading & other animations, make a spectacular impression for your customers.
+  - link "Get Started FREE ":
+    - /url: https://wordpress.org/plugins/essential-blocks
+  - figure:
+    - img "Typing Text"
+  - figure:
+    - img "Typing Text"
+  - img "macbook"
+  - heading "Limitless Content Customization" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Responsive Preview Controls" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Infinite Styling Possibilities" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "45+ Advanced Gutenberg Blocks" [level=3]
+  - paragraph
+  - heading "Guide To Create A Typing Text" [level=2]
+  - figure:
+    - iframe
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/typing-text/
+  - heading "Create Animated Colored Texts" [level=2]
+  - heading "Animate your website titles with versatile designs and customizations. Control proper type speed, add delay, back speed & back delay on your text" [level=3]
+  - text: Improve Your Concentration Skills
+  - heading "Change Text Position & Typography" [level=2]
+  - heading "Apply interactive color pallets on the prefix, typed text & suffix. Choose any typography that suits your style" [level=3]
+  - text: Give Your Interior Modern and
+  - heading "Create Looped Typing Text" [level=2]
+  - heading "Choose between 8+ interactive border styles. Articulate your box shadow with engaging color combinations with normal & hover effect" [level=3]
+  - text: Start Your Day With Soothi Music
+  - heading "Display Animated Text With Smart Backspace" [level=2]
+  - heading "Text Animation Without Cursor attractive promo effects by creating amazing content for the audience and make your site outstanding" [level=3]
+  - heading "Kickstart Your Own Startup" [level=4]
+  - heading "Reach To Niche Customers" [level=2]
+  - text: With Marketing Promotions
+  - heading "Skyrocket Sales" [level=2]
+  - figure:
+    - img "Typing Text"
+  - heading "Animate Suffix & Prefix Text" [level=2]
+  - heading "Apply proper margin and padding on typing text for correct alignment. Maintain proper border radius for more perfection" [level=3]
+  - text: Design Innovation

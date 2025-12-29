@@ -1,0 +1,41 @@
+- main:
+  - heading "Image Hotspots" [level=2]
+  - heading "Pin Items & Products Creatively With Image Hotspot Block" [level=2]:
+    - text: Pin Items & Products Creatively With
+    - mark: Image Hotspot
+    - text: Block
+  - paragraph: Guide users through images using hotspots & tooltips that explain features, pricing, or points of interest on demand.
+  - link "Get Started ":
+    - /url: https://essential-blocks.com/#pricing
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/eb-image-hotspots
+  - figure:
+    - img "Image Hotspot"
+  - heading "Create Interactive Image Annotations With Trigger" [level=2]
+  - paragraph: Image Hotspot block lets you make the image area hotspots with custom tooltips so that the user can click or hover on the hotspots to reveal name, details, and prices, links, etc.
+  - img "Image Hotspot"
+  - link "+":
+    - /url: "#"
+  - link "+":
+    - /url: "#"
+  - link "+":
+    - /url: "#"
+  - text: +
+  - heading "Display Images Stylishly With Animated Hotspots" [level=2]
+  - paragraph: Make image tooltips animated with stunning effects. Without requiring any custom WordPress coding, it helps to immediately capture visitors’ attention, boost engagement, and more.
+  - img "Image Hotspot"
+  - heading "Guide Website Visitors With Points Of Interest" [level=2]
+  - paragraph: Display all pertinent information in one location by adding image hotspot tooltips and offering contextual and visual explanations of details when needed without requiring more scrolling.
+  - img "Image Hotspot"
+  - text: + + + + +
+  - heading "Turn Static Images Into Clickable Navigation" [level=2]
+  - paragraph: Use the Image Hotspot block in Gutenberg to annotate your eCommerce visuals with tooltips for details, offers, and links, giving shoppers an engaging interactive experience.
+  - img "Image Hotspot"
+  - text: "1"
+  - link "2":
+    - /url: "#"
+  - text: "3"
+  - heading "Highlight Details In Image Using Multiple Tooltips" [level=2]
+  - paragraph: Guide your visitors through images using hotspot tooltips that explain features, improvements, and so on. Try out versatilely designed pins that match with your aesthetic.
+  - img "Image Hotspot"
+  - text: Chain Box Seat Frame Alloy Disc Break

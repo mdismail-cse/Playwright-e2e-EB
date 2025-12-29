@@ -1,0 +1,33 @@
+- main:
+  - heading "Woo Product Price" [level=2]
+  - heading "Display Product Pricing In A Way That Drives Sales Using Woo Product Price Block" [level=1]:
+    - text: Display Product Pricing In A Way That Drives Sales Using
+    - mark: Woo Product Price
+    - text: Block
+  - paragraph: Get outstanding design layouts to highlight the product prices better on your WooCommerce single product page. With this block, you can easily draw customers’ attention with customized pricing styles & boost sales.
+  - link "Get Started ":
+    - /url: https://essential-blocks.com/#pricing
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/eb-woo-product-price/
+  - figure:
+    - img "Woo Product Price"
+  - heading "Transform WooCommerce Pricing Appearance That Converts" [level=2]
+  - figure:
+    - img "Woo Product Price"
+  - figure:
+    - img "Woo Product Price"
+  - heading "Display Every Ongoing Discounts With Sale Badges" [level=2]
+  - figure:
+    - img "Woo Product Price"
+  - figure:
+    - img "Woo Product Price"
+  - heading "Let Your Customers Act Immediately With Limited Time Offers" [level=2]
+  - figure:
+    - img "Woo Product Price"
+  - figure:
+    - img "Woo Product Price"
+  - heading "Customize Product Pricing That Grabs Instant Attention" [level=2]
+  - figure:
+    - img "Woo Product Price"
+  - figure:
+    - img "Woo Product Price"

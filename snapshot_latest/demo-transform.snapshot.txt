@@ -1,0 +1,144 @@
+- main:
+  - heading "Transform" [level=2]
+  - heading "Bring Motion & Magic To Every Block With Transform Effects" [level=2]:
+    - text: Bring Motion & Magic To Every Block With
+    - mark: Transform Effects
+  - paragraph: Effortlessly rotate, scale, skew, translate, and create dynamic 3D effects in Gutenberg without any custom CSS code.
+  - link "Get Started ":
+    - /url: https://essential-blocks.com/#pricing
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/transform/
+  - figure:
+    - img "Transform effects of Essential Blocks"
+  - heading "Make Your Gutenberg Blocks Rotate, Tilt & Come Alive" [level=2]
+  - paragraph: Get access to tons of amazing transform effects inside block editor and enhance web design.
+  - img "Transform"
+  - heading "Rotate By Degree" [level=2]
+  - paragraph: Craft subtle spins with angle accuracy that elevate your visual style.
+  - link "Learn More ":
+    - /url: "#"
+  - img "Transform"
+  - heading "Rotate In 3D" [level=2]
+  - paragraph: Add depth, dimension and motion with 3D rotation
+  - link "Learn More ":
+    - /url: "#"
+  - img "Transform"
+  - heading "Rotate On Hover" [level=2]
+  - paragraph: Add playful rotation activities that initiate user hover interaction instantly.
+  - link "Learn More ":
+    - /url: "#"
+  - heading "Scale Up Or Down Content With Perfect Balance" [level=2]
+  - paragraph: Create a clean visual flow without distortion by elegantly resizing elements position-wise using scales from transform.
+  - figure:
+    - img "Transform"
+  - heading "Add Stylish Angles and Dynamic Distortion with Skew" [level=2]
+  - paragraph: Elevate your layout with creative slants & directional shifts, bringing modern flair and subtle motion
+  - img "Transform"
+  - heading "Depth and Dimension Skew" [level=2]
+  - paragraph: Bend and tilt the content exactly how you want for a polished, dynamic look.
+  - link "Learn More ":
+    - /url: "#"
+  - img "Transform"
+  - heading "Layered Transform Skew Effects" [level=2]
+  - paragraph: Create a layered, multidimensional 3D skew that brings motion to design.
+  - link "Learn More ":
+    - /url: "#"
+  - img "Transform"
+  - heading "Interactive Slant on Hover" [level=2]
+  - paragraph: Make your elements respond with interactive curves that engage users.
+  - link "Learn More ":
+    - /url: "#"
+  - heading "Nudge, Shift, And Reposition Elements To Add Creative Flair" [level=2]
+  - paragraph: Adjust spacing, position with precision, producing visually appealing, interactive designs.
+  - heading "Starter" [level=2]
+  - heading "$30 Per month" [level=2]
+  - heading "What we for you" [level=2]
+  - list:
+    - listitem:
+      - text: 
+      - heading "Shared resources" [level=3]
+      - paragraph
+    - listitem:
+      - text: 
+      - heading "Basic UI/UX design" [level=3]
+      - paragraph
+    - listitem:
+      - text: 
+      - heading "2 rounds of revisions" [level=3]
+      - paragraph
+    - listitem:
+      - text: 
+      - heading "Delivery in 1–2 weeks" [level=3]
+      - paragraph
+  - link "Let’s work together ":
+    - /url: "#"
+  - heading "Compact" [level=2]
+  - heading "$300 Per month" [level=2]
+  - heading "What we for you" [level=2]
+  - list:
+    - listitem:
+      - text: 
+      - heading "Dedicated resources" [level=3]
+      - paragraph
+    - listitem:
+      - text: 
+      - heading "Premium UI/UX design" [level=3]
+      - paragraph
+    - listitem:
+      - text: 
+      - heading "10 rounds of revisions" [level=3]
+      - paragraph
+    - listitem:
+      - text: 
+      - heading "Delivery is urgent." [level=3]
+      - paragraph
+  - link "Let’s work together ":
+    - /url: "#"
+  - heading "Enterprise" [level=2]
+  - heading "$3000 Per month" [level=2]
+  - heading "What we for you" [level=2]
+  - list:
+    - listitem:
+      - text: 
+      - heading "Priority resources" [level=3]
+      - paragraph
+    - listitem:
+      - text: 
+      - heading "Premium UI/UX design" [level=3]
+      - paragraph
+    - listitem:
+      - text: 
+      - heading "Unlimited revisions" [level=3]
+      - paragraph
+    - listitem:
+      - text: 
+      - heading "Delivery is urgent & support." [level=3]
+      - paragraph
+  - link "Let’s work together ":
+    - /url: "#"
+  - heading "Mix & Match Effects Allow You To Transform From Any Point" [level=2]
+  - paragraph: Define custom origins for stunning pivot-based animations with smooth transformation effects.
+  - paragraph: “The expertise and hands-on support provided by this agency exceeded our expectations. Their guidance on organic farming techniques has been invaluable.”
+  - img "Transform"
+  - heading "Sarah L." [level=5]
+  - heading "Sr. Content Writer" [level=6]
+  - paragraph: “They helped us revamp our irrigation planning and crop management strategies. The results were noticeable within weeks, and our yields have improved significantly.”
+  - img "Transform"
+  - heading "Jerome Bell" [level=5]
+  - heading "Product Manager" [level=6]
+  - paragraph: “We appreciate their dedication and insight into modern farming practices. Their recommendations have increased productivity while keeping sustainability in focus.”
+  - img "Transform"
+  - heading "Wade Warren" [level=5]
+  - heading "Director, AgroVista Farms" [level=6]
+  - paragraph: “Working with this agency has been a pleasure. Their team understands modern farming challenges and delivers solutions that truly boost efficiency and sustainability.”
+  - img "Transform"
+  - heading "Darrell Steward" [level=5]
+  - heading "Manager, GreenHarvest Co." [level=6]
+  - paragraph: “From soil analysis to crop rotation planning, their team is knowledgeable, approachable, and professional. We’ve seen tangible improvements in our farm operations.”
+  - img "Transform"
+  - heading "Jenny Wilson" [level=5]
+  - heading "CEO of BrightLeaf Solutions" [level=6]
+  - paragraph: “The agency helped streamline our supply chain and farm logistics. Their solutions are practical, innovative, and tailored to our specific needs.”
+  - img "Transform"
+  - heading "Leslie Alexander" [level=5]
+  - heading "CEO, HarvestPro Farms" [level=6]

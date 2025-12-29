@@ -1,0 +1,144 @@
+- main:
+  - img "Social Icons"
+  - heading "Social Icons" [level=1]
+  - paragraph: Generate new leads displaying social media platforms vibrantly with Social Icons block. With versatile icon styles, shapes, and alignments, you can easily reach out to a wide range of audiences and engage them accordingly.
+  - link "Get Started FREE ":
+    - /url: https://wordpress.org/plugins/essential-blocks
+  - figure:
+    - img "Social Icons"
+  - figure:
+    - img "Social Icons"
+  - img "macbook"
+  - heading "Limitless Content Customization" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Responsive Preview Controls" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Infinite Styling Possibilities" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "45+ Advanced Gutenberg Blocks" [level=3]
+  - paragraph
+  - heading "Create Social Icons By Following This Tutorial" [level=2]
+  - figure:
+    - iframe
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/social/
+  - heading "Social Share Circle Demo" [level=2]
+  - paragraph: Customize social icons alignments and icons divider to place them in the proper section of your website to keep your content organized.
+  - list:
+    - listitem:
+      - link "social link":
+        - /url: https://www.facebook.com/WPDeveloperNet
+        - text: 
+    - listitem:
+      - link "social link":
+        - /url: https://twitter.com/wpdevteam
+        - text: 
+    - listitem:
+      - link "social link":
+        - /url: https://www.instagram.com/wpdevelopernet/?hl=en
+        - text: 
+    - listitem:
+      - link "social link":
+        - /url: https://www.youtube.com/c/WPDeveloperNet
+        - text: 
+    - listitem:
+      - link "social link":
+        - /url: https://www.linkedin.com/company/wpdeveloperdotnet/mycompany/
+        - text: 
+  - heading "Social Share Square Demo" [level=2]
+  - paragraph: Attract your customer interest with interactive square-shaped social icons to boost your global fame as well as provide a sleek outlook
+  - list:
+    - listitem:
+      - link "social link":
+        - /url: https://www.facebook.com/WPDeveloperNet
+        - text: 
+    - listitem:
+      - link "social link":
+        - /url: https://twitter.com/wpdevteam
+        - text: 
+    - listitem:
+      - link "social link":
+        - /url: https://www.instagram.com/wpdevelopernet/?hl=en
+        - text: 
+    - listitem:
+      - link "social link":
+        - /url: https://www.youtube.com/c/WPDeveloperNet
+        - text: 
+    - listitem:
+      - link "social link":
+        - /url: https://www.linkedin.com/company/wpdeveloperdotnet/mycompany/
+        - text: 
+  - heading "Social Share Square With Hover Demo" [level=2]
+  - paragraph: Generate new leads globally with an exciting hovering effect and various coloring options on your social icons
+  - list:
+    - listitem:
+      - link "social link":
+        - /url: https://www.facebook.com/WPDeveloperNet
+        - text: 
+    - listitem:
+      - link "social link":
+        - /url: https://twitter.com/wpdevteam
+        - text: 
+    - listitem:
+      - link "social link":
+        - /url: https://www.instagram.com/wpdevelopernet/?hl=en
+        - text: 
+    - listitem:
+      - link "social link":
+        - /url: https://www.youtube.com/c/WPDeveloperNet
+        - text: 
+    - listitem:
+      - link "social link":
+        - /url: https://www.linkedin.com/company/wpdeveloperdotnet/mycompany/
+        - text: 
+  - figure:
+    - img "Social Icons"
+  - heading "Social Share Black Circle Demo" [level=2]
+  - paragraph: With versatile styling, responsive layouts, and sleek black design make your social icons beautiful on any website you want
+  - list:
+    - listitem:
+      - link "social link":
+        - /url: https://www.facebook.com/WPDeveloperNet
+        - text: 
+    - listitem:
+      - link "social link":
+        - /url: https://twitter.com/wpdevteam
+        - text: 
+    - listitem:
+      - link "social link":
+        - /url: https://www.instagram.com/wpdevelopernet/?hl=en
+        - text: 
+    - listitem:
+      - link "social link":
+        - /url: https://www.youtube.com/c/WPDeveloperNet
+        - text: 
+    - listitem:
+      - link "social link":
+        - /url: https://www.linkedin.com/company/wpdeveloperdotnet/mycompany/
+        - text: 
+  - heading "Social Share With Shadow Effect" [level=2]
+  - paragraph: Improve your site aesthetics in a trendy way with a wonderful shadow effect on your social icons and provide your users with a stunning experience
+  - list:
+    - listitem:
+      - link "social link":
+        - /url: https://www.facebook.com/WPDeveloperNet
+        - text: 
+    - listitem:
+      - link "social link":
+        - /url: https://twitter.com/wpdevteam
+        - text: 
+    - listitem:
+      - link "social link":
+        - /url: https://www.instagram.com/wpdevelopernet/?hl=en
+        - text: 
+    - listitem:
+      - link "social link":
+        - /url: https://www.youtube.com/c/WPDeveloperNet
+        - text: 
+    - listitem:
+      - link "social link":
+        - /url: https://www.linkedin.com/company/wpdeveloperdotnet/mycompany/
+        - text: 

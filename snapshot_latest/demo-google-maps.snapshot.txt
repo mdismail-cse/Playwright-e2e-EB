@@ -1,0 +1,62 @@
+- main:
+  - img "Google Maps"
+  - heading "Google Maps" [level=1]
+  - paragraph: Display preferred location using Google Maps, pin any location with marker, and so on to provide easy navigation for site customers. Enhance the credibility of your business and boost engagement of your website by showcasing the location.
+  - link "Get Started FREE ":
+    - /url: https://wordpress.org/plugins/essential-blocks
+  - figure:
+    - img "Google Maps"
+  - figure:
+    - img "Google Maps"
+  - img "macbook"
+  - heading "Limitless Content Customization" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Responsive Preview Controls" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Infinite Styling Possibilities" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "45+ Advanced Gutenberg Blocks" [level=3]
+  - paragraph
+  - heading "Showcase Google Maps By Following Easy Tutorial" [level=2]
+  - figure:
+    - iframe
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/eb-google-maps
+  - heading "Google Maps Road Map Layout" [level=2]
+  - paragraph: Showcase Google Maps with versatile layout types and let your visitors find you at the exact location easily and effortlessly
+  - button "Keyboard shortcuts"
+  - region "Map"
+  - button "New York, NY, USA"
+  - dialog:
+    - button "Close"
+    - heading "New York, NY, USA" [level=6]
+  - menubar:
+    - menuitemradio "Show street map" [checked]: Map
+    - menuitemradio "Show satellite imagery": Satellite
+  - button "Toggle fullscreen view"
+  - button "Map camera controls"
+  - button "Drag Pegman onto the map to open Street View":
+    - img "Street View Pegman Control"
+  - button "Zoom in"
+  - button "Zoom out"
+  - link "Open this area in Google Maps (opens a new window)":
+    - /url: https://maps.google.com/maps?ll=40.712775,-74.005973&z=10&t=m&hl=en-US&gl=US&mapclient=apiv3
+    - img "Google"
+  - button "Keyboard shortcuts"
+  - text: Map data ©2025 Google
+  - link "Terms (opens in new tab)":
+    - /url: https://www.google.com/intl/en-US_US/help/terms_maps.html
+    - text: Terms
+  - link "Report a map error":
+    - /url: https://www.google.com/maps/@40.7127753,-74.0059728,10z/data=!10m1!1e1!12b1?source=apiv3&rapsrc=apiv3
+  - heading "Satellite View Layout" [level=2]
+  - paragraph: Display Google Maps on your website pointing to the Latitude & Longitude and let your visitors reach you effortlessly in your location
+  - heading "Google Maps Hybrid Layout" [level=2]
+  - paragraph: Adjust the map zoom level and map height to perfectly fit the Google Maps on your company website while showing it to your visitors
+  - heading "Google Maps Terrain Layout" [level=2]
+  - paragraph: Style Google Maps according to your choice to match the color and style theme with your website so that it looks good to the visitors
+  - heading "Marker To Pin Location" [level=2]
+  - paragraph: Mark the location where you want to pin it on Google Maps with exclusive styling features. Add as many markers as you want to provide your desired location to visitors

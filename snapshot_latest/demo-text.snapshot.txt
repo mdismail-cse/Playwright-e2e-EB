@@ -1,0 +1,18 @@
+- main:
+  - heading "Text" [level=2]
+  - heading "Easily Place, Edit, and Style Paragraphs On Gutenberg Website With Text Block" [level=1]:
+    - text: Easily Place, Edit, and Style Paragraphs On Gutenberg Website With
+    - mark: Text Block
+  - paragraph: Make your ordinary text content stand out with the maximum possible controls. Organize and customize your content with column gaps, column count, custom typography, color, etc to grab instant attention.
+  - link "Get Started ":
+    - /url: https://essential-blocks.com/#pricing
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/eb-text/
+  - figure:
+    - img "Text"
+  - figure:
+    - img "Text"
+  - figure:
+    - img "Text"
+  - figure:
+    - img "Text"

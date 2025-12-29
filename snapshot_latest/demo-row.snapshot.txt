@@ -1,0 +1,215 @@
+- main:
+  - img "Row"
+  - heading "Row" [level=1]
+  - paragraph: Make responsive rows in Gutenberg using the Row block from Essential Blocks. With this amazing block, you can easily build advanced sections, multiple columns & more on your WordPress website and customize just the way you want.
+  - link "Get Started FREE ":
+    - /url: https://wordpress.org/plugins/essential-blocks
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - img "macbook"
+  - heading "Limitless Content Customization" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Responsive Preview Controls" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Infinite Styling Possibilities" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "45+ Advanced Gutenberg Blocks" [level=3]
+  - paragraph
+  - heading "Follow This Tutorial To Create Row" [level=2]
+  - figure:
+    - iframe
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/eb-row
+  - heading "Row With Single Column" [level=2]
+  - paragraph: Create a single column with the Row block from Essential Blocks and adjust the width to build a customized section on your website
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - heading "Row With Double Columns" [level=2]
+  - paragraph: Build sections with multiple columns on your website and make your page building experience with Gutenberg editor even better
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - heading "Row With Triple Columns" [level=2]
+  - paragraph: Design your web page with 3 columns and adjust the columns gap just the way you want to create complex layouts at ease
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - heading "Marketing Course" [level=3]
+  - paragraph: Enhance your marketing skills with our marketing courses and shine on your career immediately. We have designed our course plan with everything that you need to become successful.
+  - link "Get Started":
+    - /url: "#"
+  - heading "Language Course" [level=3]:
+    - strong: Language Course
+  - paragraph: Start learning multiple languages from our dedicated instructors to enhance your communication skills to easily connect with people from all around the world without having any difficulties.
+  - link "Get Started":
+    - /url: "#"
+  - heading "UI UX Design" [level=3]:
+    - strong: UI UX Design
+  - paragraph: Supercharge your design skills and become a successful UI UX Designer by taking our premium course. You will get all the resources that you need to kickstart your career from the scratch.
+  - link "Get Started":
+    - /url: "#"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - heading "Original Classic Sunglass" [level=3]:
+    - strong: Original
+    - strong: Classic
+    - strong: Sunglass
+  - link "Shop Now":
+    - /url: "#"
+  - heading "Fashionable Sunglass For Man" [level=3]:
+    - strong: Fashionable Sunglass For Man
+  - heading "Get 20% Off Now" [level=3]
+  - link "Shop Now":
+    - /url: "#"
+  - heading "Round Shape Sunglass" [level=3]:
+    - strong: Round
+    - strong: Shape
+    - strong: Sunglass
+  - link "Shop Now":
+    - /url: "#"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - heading "Most Stylish Accessories" [level=3]
+  - link "Shop Now":
+    - /url: "#"
+  - heading "Best Essential Gadgets" [level=3]
+  - link "Shop Now":
+    - /url: "#"
+  - heading "Wireless Headphone" [level=3]
+  - heading "Get 25% Off Now" [level=3]
+  - link "Shop Now":
+    - /url: "#"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - heading "Aesthetic T-Shirts For Man" [level=3]:
+    - strong: Aesthetic T-Shirts For Man
+  - heading "Get 15% Off Now" [level=3]
+  - link "Shop Now":
+    - /url: "#"
+  - heading "Women Beautiful Tops" [level=3]
+  - link "Shop Now":
+    - /url: "#"
+  - heading "Simple Ash Color T-Shirt" [level=3]
+  - link "Shop Now":
+    - /url: "#"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - heading "Row With Quadruple Columns" [level=2]
+  - paragraph: Add a complex four columns layout on your website using Row block and stunningly present your content without any code
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - heading "Row With Quintuple Columns" [level=2]
+  - paragraph: Design your web pages according to your imagination by adding 5 columns on a single row with Row block from Essential Block
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - heading "Row With Sextuple Columns" [level=2]
+  - paragraph: Unlock your web building capabilities using the Row block and build super complex layout on your web page without a single line of code
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"
+  - figure:
+    - img "Row"

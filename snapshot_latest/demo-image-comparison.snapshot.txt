@@ -1,0 +1,40 @@
+- main:
+  - img "Image Comparison"
+  - heading "Image Comparison" [level=1]
+  - paragraph: Let your potential customers compare easily between multiple product images to influence the decision in a positive way with Essential Blocks Image Comparison. It’s an amazing block to visualize major changes.
+  - link "Get Started FREE ":
+    - /url: https://wordpress.org/plugins/essential-blocks
+  - figure:
+    - img "Image Comparison"
+  - figure:
+    - img "Image Comparison"
+  - img "Image Comparison"
+  - heading "Limitless Content Customization" [level=3]
+  - paragraph
+  - img "Image Comparison"
+  - heading "Responsive Preview Controls" [level=3]
+  - paragraph
+  - img "Image Comparison"
+  - heading "Infinite Styling Possibilities" [level=3]
+  - paragraph
+  - img "Image Comparison"
+  - heading "45+ Advanced Gutenberg Blocks" [level=3]
+  - paragraph
+  - heading "Quick Tutorial To Create Image Comparison" [level=2]
+  - figure:
+    - iframe
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/image-comparison
+  - heading "Full Width Style" [level=2]
+  - paragraph: Create a stunning image comparison with full-width style and adjust slider position to make your web page more stunning
+  - heading "Animated Hover Effect" [level=2]
+  - paragraph: Image comparison with an amazing hover effect to compare between images, to add more credibility and to make it more impressive.
+  - heading "Vertical Image Comparison" [level=2]
+  - paragraph: You can put up an Image comparison vertically with a move on hover effect and compare between two images beautifully
+  - heading "Unique Style And Effect" [level=2]
+  - paragraph: You can try out the swap effect, add a handle to the Image Comparison block and make your comparison more appealing
+  - heading "No Handle Effect" [level=2]
+  - heading "Swap Effect" [level=2]
+  - heading "Show Before – After Labels" [level=2]
+  - paragraph: Style the Image Comparison block, add before-after labels to make the comparison even better and understandable for your audiences
+  - text: Before After

@@ -1,0 +1,142 @@
+- main:
+  - img "Table Of Contents"
+  - heading "Table Of Contents" [level=1]
+  - paragraph: Showcase blogs headings, titles & subtitles on the top of the article with Table Of Contents block. This block comes with exclusive styles to make blog posts easy to navigate & redirect readers to their desired sections at a glance.
+  - link "Get Started FREE ":
+    - /url: https://wordpress.org/plugins/essential-blocks
+  - figure:
+    - img "Table Of Contents"
+  - figure:
+    - img "Table Of Contents"
+  - img "macbook"
+  - heading "Limitless Content Customization" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Responsive Preview Controls" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Infinite Styling Possibilities" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "45+ Advanced Gutenberg Blocks" [level=3]
+  - paragraph
+  - heading "Create Table Of Contents By Following Tutorial" [level=2]
+  - figure:
+    - iframe
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/eb-table-of-contents
+  - heading "Customize Table Of Contents With Versatile Styles" [level=2]:
+    - strong: Customize Table Of Contents With Versatile Styles
+  - paragraph: Showcase an attractive Table Of Contents to make blog posts more user-friendly on your site and grab the attention of your audience
+  - heading "Table of Contents" [level=2]
+  - list:
+    - listitem:
+      - 'link "Gutenberg: Essential Things You Need To Know"':
+        - /url: "#gutenberg-essential-things-you-need-to-know"
+    - listitem:
+      - link "How To Create Reusable Blocks In Gutenberg Block Editor?":
+        - /url: "#how-to-create-reusable-blocks-in-gutenberg-block-editor"
+    - listitem:
+      - link "How To Create Block Groups Inside Of Your Block Editor?":
+        - /url: "#how-to-create-block-groups-inside-of-your-block-editor"
+  - paragraph: Sticky Table Of Contents
+  - heading "Table of Contents" [level=2]
+  - list:
+    - listitem:
+      - 'link "Gutenberg: Essential Things You Need To Know"':
+        - /url: "#gutenberg-essential-things-you-need-to-know"
+    - listitem:
+      - link "How To Create Reusable Blocks In Gutenberg Block Editor?":
+        - /url: "#how-to-create-reusable-blocks-in-gutenberg-block-editor"
+    - listitem:
+      - link "How To Create Block Groups Inside Of Your Block Editor?":
+        - /url: "#how-to-create-block-groups-inside-of-your-block-editor"
+  - paragraph: Customize With Title Separator
+  - heading "Table of Contents" [level=2]
+  - list:
+    - listitem:
+      - 'link "Gutenberg: Essential Things You Need To Know"':
+        - /url: "#gutenberg-essential-things-you-need-to-know"
+    - listitem:
+      - link "How To Create Reusable Blocks In Gutenberg Block Editor?":
+        - /url: "#how-to-create-reusable-blocks-in-gutenberg-block-editor"
+    - listitem:
+      - link "How To Create Block Groups Inside Of Your Block Editor?":
+        - /url: "#how-to-create-block-groups-inside-of-your-block-editor"
+  - paragraph: Add Smooth Scroll & Underline
+  - heading "Table of Contents" [level=2]
+  - list:
+    - listitem:
+      - 'link "Gutenberg: Essential Things You Need To Know"':
+        - /url: "#gutenberg-essential-things-you-need-to-know"
+    - listitem:
+      - link "How To Create Reusable Blocks In Gutenberg Block Editor?":
+        - /url: "#how-to-create-reusable-blocks-in-gutenberg-block-editor"
+    - listitem:
+      - link "How To Create Block Groups Inside Of Your Block Editor?":
+        - /url: "#how-to-create-block-groups-inside-of-your-block-editor"
+  - paragraph: Multiple Color Customization
+  - heading "Table of Contents" [level=2]
+  - list:
+    - listitem:
+      - 'link "Gutenberg: Essential Things You Need To Know"':
+        - /url: "#gutenberg-essential-things-you-need-to-know"
+    - listitem:
+      - link "How To Create Reusable Blocks In Gutenberg Block Editor?":
+        - /url: "#how-to-create-reusable-blocks-in-gutenberg-block-editor"
+    - listitem:
+      - link "How To Create Block Groups Inside Of Your Block Editor?":
+        - /url: "#how-to-create-block-groups-inside-of-your-block-editor"
+  - paragraph: Fetch Every Heading Tag
+  - heading "Table of Contents" [level=2]
+  - list:
+    - listitem:
+      - 'link "Gutenberg: Essential Things You Need To Know"':
+        - /url: "#gutenberg-essential-things-you-need-to-know"
+    - listitem:
+      - link "How To Create Reusable Blocks In Gutenberg Block Editor?":
+        - /url: "#how-to-create-reusable-blocks-in-gutenberg-block-editor"
+    - listitem:
+      - link "How To Create Block Groups Inside Of Your Block Editor?":
+        - /url: "#how-to-create-block-groups-inside-of-your-block-editor"
+  - paragraph: Exclude Or Include Headings
+  - heading "Content Roadmap" [level=2]
+  - list:
+    - listitem:
+      - 'link "Gutenberg: Essential Things You Need To Know"':
+        - /url: "#gutenberg-essential-things-you-need-to-know"
+    - listitem:
+      - link "How To Create Reusable Blocks In Gutenberg Block Editor?":
+        - /url: "#how-to-create-reusable-blocks-in-gutenberg-block-editor"
+    - listitem:
+      - link "How To Create Block Groups Inside Of Your Block Editor?":
+        - /url: "#how-to-create-block-groups-inside-of-your-block-editor"
+  - paragraph: Customize Table Of Content Title
+  - link "macbook Want More Features? Contact Us!":
+    - /url: https://wordpress.org/support/plugin/essential-blocks/
+    - img "macbook"
+    - heading "Want More Features? Contact Us!" [level=6]
+  - heading "Sample Copy" [level=6]
+  - heading "How To Use the WordPress Block Editor Gutenberg" [level=2]:
+    - strong: How To Use the WordPress Block Editor Gutenberg
+  - paragraph: If you are familiar with WordPress, you would know that Gutenberg has replaced Classic Editor as the default WordPress block editor. If you’re new to Gutenberg and need help understanding how it works, you’ve come to the right place. This blog will guide you through the detailed steps of using WordPress default editor. The new WordPress editor is built around “blocks,” which have become a standard feature of the popular.
+  - 'heading "Gutenberg: Essential Things You Need To Know" [level=2]'
+  - paragraph: Gutenberg substitutes the Classic editor and simply allows you to add text, photos, and other media to your posts and web pages using content blocks. That’s why it is called Gutenberg block editor. The old editor was text-based, which limited new users who did not know how to code. Even in Classic Editor, you needed to go to the HTML view to make customized changes. But HTML skill was not necessary at all. To add simple features to your websites, such as tables or image galleries, you’d have to install a separate plugin. In that case,
+  - heading "A Thorough Gutenberg Tutorial For WordPress User" [level=3]
+  - paragraph: Lorem ipsum, or lipsum as it is sometimes known, is dummy text used inying out print, graphic or web designs. The passage is attributed to and unknown typesetter in the 15th century who is thought
+  - figure:
+    - img "Table Of Contents"
+  - heading "How To Create Reusable Blocks In Gutenberg Block Editor?" [level=2]
+  - paragraph: Gutenberg gives you an outstanding feature with which you can create your own blocks easily. Creating your own blocks will help you reuse them whenever you need them. For instance, you regularly write food review blogs and you want to show a certain section of your website ranking that you do not want to change. Instead of creating the same content all over again, you can turn it into a reusable block and use it in your blogs.
+  - figure:
+    - img "Table Of Contents"
+  - heading "How To Create Block Groups Inside Of Your Block Editor?" [level=2]
+  - paragraph: "You might be wondering how grouping some blocks during content creation can benefit you. Consider the following scenario: you need to include a call to action section in each of your blog posts. A signup form, a call-to-action button, and a support link are commonly included in your call-to-action section. You can use this set as a single unit of the group if you can combine these form, link, and button blocks together. As a result, you will save time and effort by not having to create the same part many times for each blog post. To create block groups, you need to select all the blocks you want to make a group of and you will see an overlay icon. From the new menu, from the ‘Transform to’ inscription you can choose ‘Group’. Your block is ready to go. You can now change the chronology and adjust it as per your preference."
+  - heading "A Thorough Gutenberg Tutorial For Any WordPress User" [level=6]
+  - paragraph: Let’s go into the details of the WordPress block editor now that we’ve covered the fundamentals. When you first open the Gutenberg editor for a page or a post, it appears to be quite blank. The first step is to place some blocks on the table.
+  - 'heading "Step 1: Include Gutenberg Blocks To Your Post" [level=6]'
+  - paragraph: As you have already created a post in WordPress, now from the blank page, you need to click on the ‘+’ sign from the editor and lots of blocks will appear. To explore all the blocks, click on the ‘Browse All’ button below and all the blocks will appear.
+  - 'heading "Step 2: Change The Order Of Your Gutenberg Blocks" [level=6]'
+  - paragraph: You can change Gutenberg block positions just by clicking and dragging them where you want them to appear, or by tapping the dots in between the directions and dragging and dropping the Gutenberg blocks.
+  - figure:
+    - img "Table Of Contents"

@@ -1,0 +1,131 @@
+- main:
+  - img "Flipbox"
+  - heading "Flipbox" [level=1]
+  - paragraph: Showcase an interactive Flipbox with Essential Blocks for Gutenberg and bring life to monotonous content. Make your site look outstanding and more interesting with an animated box that flips over when you hover over it.
+  - link "Get Started FREE ":
+    - /url: https://wordpress.org/plugins/essential-blocks
+  - link "Learn More ":
+    - /url: https://essential-blocks.com/interactive-flipbox-in-gutenberg
+  - figure:
+    - img "Flipbox"
+  - figure:
+    - img "Flipbox"
+  - img "Flipbox"
+  - heading "Limitless Content Customization" [level=3]
+  - paragraph
+  - img "Flipbox"
+  - heading "Responsive Preview Controls" [level=3]
+  - paragraph
+  - img "Flipbox"
+  - heading "Infinite Styling Possibilities" [level=3]
+  - paragraph
+  - img "Flipbox"
+  - heading "45+ Advanced Gutenberg Blocks" [level=3]
+  - paragraph
+  - heading "Create Flipbox By Following This Tutorial" [level=2]
+  - figure:
+    - iframe
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/flipbox
+  - heading "Configure Flipbox With Fade Style" [level=2]
+  - paragraph: Showcase an interactive Flipbox with ‘Fade’ style, add images, content on front & backside, insert link & style in advance
+  - img "Flipbox"
+  - heading "Fade Style" [level=3]
+  - paragraph: Customize the Flipbox style from style tab and make it more attractive
+  - link "Get Started":
+    - /url: "#"
+  - img "Flipbox"
+  - heading "Fade Style" [level=3]
+  - paragraph: Modify the front icon style from style tab and make the box outstanding
+  - link "Get Started":
+    - /url: "#"
+  - img "Flipbox"
+  - heading "Fade Style" [level=3]
+  - paragraph: Add the Flipbox Border from style tab and make the box more stunning
+  - link "Get Started":
+    - /url: "#"
+  - img "Flipbox"
+  - heading "Fade Style" [level=3]
+  - paragraph: Revamp the Flipbox typography from style tab and make it interesting
+  - link "Get Started":
+    - /url: "#"
+  - heading "Design In Left Or Right Flip Style" [level=2]
+  - paragraph: Try out ‘Flip Left’ or ‘Flip Right’ style from ‘Flipbox Type’ dropdown options in the setting tab & make a different outlook
+  - img "Flipbox"
+  - heading "Flip Left" [level=3]
+  - img "Flipbox"
+  - heading "Flip Left Style" [level=3]
+  - heading "Flip Right" [level=3]
+  - paragraph: Quickly Make An Interactive Flipbox in one click with Essential Blocks for Gutenberg. Add your preferred content, customize the block and showcase an attractive Flipbox for your site visitors.
+  - heading "Flip Right Style" [level=3]
+  - paragraph: Quickly Make An Interactive Flipbox in one click with Essential Blocks for Gutenberg. Add your preferred content, customize the block and showcase an attractive Flipbox for your site visitors.
+  - heading "Use Flip Up Or Flip Bottom Style" [level=2]
+  - paragraph: Choose ‘Flip Up’ or ‘Flip Bottom’ as your Flipbox type, customize it according to your choice & style as you want
+  - img "Flipbox"
+  - heading "Flip Up Style" [level=3]
+  - paragraph: Customize link setting from general tab to make it interactive
+  - link "Read More":
+    - /url: "#"
+  - img "Flipbox"
+  - heading "Flip Bottom Style" [level=3]
+  - paragraph: Revamp the Flipbox height and width to make it more attractive
+  - link "Read More":
+    - /url: "#"
+  - img "Flipbox"
+  - heading "Flip Up Style" [level=3]
+  - paragraph: Modify the front icon size to give the Flipbox a stunning look
+  - link "Read More":
+    - /url: "#"
+  - heading "Display Zoom In & Zoom Out Style" [level=2]
+  - paragraph: Pick ‘Zoom In’ or ‘Zoom Out’ as your desired Flipbox type, choose alignment, box height, width, and many more
+  - img "Flipbox"
+  - heading "Zoom In Style" [level=3]
+  - paragraph: Customize Flipbox setting from general tab to make it attractive
+  - img "Flipbox"
+  - heading "Zoom In Style" [level=3]
+  - link "Get Started":
+    - /url: "#"
+  - img "Flipbox"
+  - heading "Zoom Out Style" [level=3]
+  - paragraph: Modify Flipbox content from general tab to make it interesting
+  - img "Flipbox"
+  - heading "Zoom Out Style" [level=3]
+  - link "Get Started":
+    - /url: "#"
+  - img "Flipbox"
+  - heading "Zoom In Style" [level=3]
+  - paragraph: Add colors to the Flipbox to and give it an outstanding outlook
+  - img "Flipbox"
+  - heading "Zoom In Style" [level=3]
+  - link "Get Started":
+    - /url: "#"
+  - heading "Check Out All Flip Styles In A Glance" [level=2]
+  - paragraph: Showcase an interactive Flipbox with different styles, images, and content on frontside & backside to make your website more attractive
+  - img "Flipbox"
+  - heading "Flip Left" [level=3]
+  - img "Flipbox"
+  - heading "Flip Left" [level=3]
+  - img "Flipbox"
+  - heading "Flip Right" [level=3]
+  - img "Flipbox"
+  - heading "Flip Right" [level=3]
+  - img "Flipbox"
+  - heading "Flip Up" [level=3]
+  - img "Flipbox"
+  - heading "Flip Up" [level=3]
+  - img "Flipbox"
+  - heading "Flip Bottom" [level=3]
+  - img "Flipbox"
+  - heading "Flip Bottom" [level=3]
+  - img "Flipbox"
+  - heading "Zoom In" [level=3]
+  - img "Flipbox"
+  - heading "Zoom In" [level=3]
+  - img "Flipbox"
+  - heading "Zoom Out" [level=3]
+  - img "Flipbox"
+  - heading "Zoom Out" [level=3]
+  - img "Flipbox"
+  - heading "Fade In" [level=3]
+  - img "Flipbox"
+  - heading "Fade In" [level=3]

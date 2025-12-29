@@ -1,0 +1,364 @@
+- main:
+  - heading "Team Member" [level=2]
+  - heading "Shine The Spotlight On Your Teammates With Team Members Block" [level=1]:
+    - text: Shine The Spotlight On Your Teammates With
+    - mark: Team Members
+    - text: Block
+  - paragraph: Introduce the individuals from your team on your Gutenberg website with stunning layouts and detailed information. Customize avatars, fonts, colors, and social profiles effortlessly for enhanced personalization.
+  - link "Get Started ":
+    - /url: https://test.essential-blocks.com/#pricing
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/team-member/
+  - figure:
+    - img "Team Member"
+  - img "Emma Oliviana"
+  - heading "Emma Oliviana" [level=3]
+  - heading "UX UI Designer" [level=4]
+  - list:
+    - listitem:
+      - link "":
+        - /url: https://twitter.com/wpdevteam
+    - listitem:
+      - link "":
+        - /url: https://dribbble.com/wpdev
+    - listitem:
+      - link "":
+        - /url: https://www.facebook.com/WPDeveloperNet/
+    - listitem:
+      - link "":
+        - /url: https://www.linkedin.com/company/wpdev
+  - img "Charlotte Ava"
+  - heading "Charlotte Ava" [level=3]
+  - heading "Digital Marketer" [level=4]
+  - list:
+    - listitem:
+      - link "":
+        - /url: https://twitter.com/wpdevteam
+    - listitem:
+      - link "":
+        - /url: https://dribbble.com/wpdev
+    - listitem:
+      - link "":
+        - /url: https://www.facebook.com/WPDeveloperNet/
+    - listitem:
+      - link "":
+        - /url: https://www.linkedin.com/company/wpdev
+  - img "Benjamin"
+  - heading "Benjamin" [level=3]
+  - heading "CTO XYZ Company" [level=4]
+  - list:
+    - listitem:
+      - link "":
+        - /url: https://twitter.com/wpdevteam
+    - listitem:
+      - link "":
+        - /url: https://dribbble.com/wpdev
+    - listitem:
+      - link "":
+        - /url: https://www.facebook.com/WPDeveloperNet/
+    - listitem:
+      - link "":
+        - /url: https://www.linkedin.com/company/wpdev
+  - img "Isabella Amelia"
+  - heading "Isabella Amelia" [level=3]
+  - heading "Web Developer" [level=4]
+  - list:
+    - listitem:
+      - link "":
+        - /url: https://twitter.com/wpdevteam
+    - listitem:
+      - link "":
+        - /url: https://dribbble.com/wpdev
+    - listitem:
+      - link "":
+        - /url: https://www.facebook.com/WPDeveloperNet/
+    - listitem:
+      - link "":
+        - /url: https://www.linkedin.com/company/wpdev
+  - img "Emma Oliviana"
+  - heading "Emma Oliviana" [level=3]
+  - heading "UX UI Designer" [level=4]
+  - paragraph: A create developer, graduated from MIT, has many award winning WordPress projects
+  - list:
+    - listitem:
+      - link "":
+        - /url: https://twitter.com/wpdevteam
+    - listitem:
+      - link "":
+        - /url: https://dribbble.com/wpdev
+    - listitem:
+      - link "":
+        - /url: https://www.facebook.com/WPDeveloperNet/
+    - listitem:
+      - link "":
+        - /url: https://www.linkedin.com/company/wpdev
+  - img "Charlotte Ava"
+  - heading "Charlotte Ava" [level=3]
+  - heading "Digital Marketer" [level=4]
+  - paragraph: A video expert, graduated from MIT, has many award winning video projects
+  - list:
+    - listitem:
+      - link "":
+        - /url: https://twitter.com/wpdevteam
+    - listitem:
+      - link "":
+        - /url: https://dribbble.com/wpdev
+    - listitem:
+      - link "":
+        - /url: https://www.facebook.com/WPDeveloperNet/
+    - listitem:
+      - link "":
+        - /url: https://www.linkedin.com/company/wpdev
+  - img "Benjamin"
+  - heading "Benjamin" [level=3]
+  - heading "Web Developer" [level=4]
+  - paragraph: A PHP genius, graduated from MIT, has many award winning PHP projects
+  - list:
+    - listitem:
+      - link "":
+        - /url: https://twitter.com/wpdevteam
+    - listitem:
+      - link "":
+        - /url: https://dribbble.com/wpdev
+    - listitem:
+      - link "":
+        - /url: https://www.facebook.com/WPDeveloperNet/
+    - listitem:
+      - link "":
+        - /url: https://www.linkedin.com/company/wpdev
+  - img "Ethan White"
+  - heading "Digital Marketer" [level=4]:
+    - mark: Digital Marketer
+  - heading "Ethan White" [level=3]
+  - paragraph: A seasoned digital marketer, leverages innovative strategies to enhance online presence. His creativity drives successful campaigns.
+  - list:
+    - listitem:
+      - link "":
+        - /url: ""
+    - listitem:
+      - link "":
+        - /url: ""
+    - listitem:
+      - link "":
+        - /url: ""
+    - listitem:
+      - link "":
+        - /url: ""
+    - listitem:
+      - link "":
+        - /url: ""
+  - img "Emma Brooks"
+  - heading "Product Designer" [level=4]:
+    - mark: Product Designer
+  - heading "Emma Brooks" [level=3]
+  - paragraph: A visionary product designer, combines aesthetics with functionality. Her designs seamlessly blend user experience, creating captivating products.
+  - list:
+    - listitem:
+      - link "":
+        - /url: ""
+    - listitem:
+      - link "":
+        - /url: ""
+    - listitem:
+      - link "":
+        - /url: ""
+    - listitem:
+      - link "":
+        - /url: ""
+    - listitem:
+      - link "":
+        - /url: ""
+  - img "Esther Howard"
+  - heading "Digital Marketer" [level=4]:
+    - mark: Digital Marketer
+  - heading "Esther Howard" [level=3]
+  - paragraph: A skilled motion designer, crafts dynamic visual narratives. His creativity in animation brings ideas to life with captivating motion.
+  - list:
+    - listitem:
+      - link "":
+        - /url: ""
+    - listitem:
+      - link "":
+        - /url: ""
+    - listitem:
+      - link "":
+        - /url: ""
+    - listitem:
+      - link "":
+        - /url: ""
+    - listitem:
+      - link "":
+        - /url: ""
+  - img "Avery Parker"
+  - heading "Avery Parker" [level=3]
+  - heading "Graphic Designer" [level=4]
+  - list:
+    - listitem:
+      - link "":
+        - /url: ""
+    - listitem:
+      - link "":
+        - /url: ""
+    - listitem:
+      - link "":
+        - /url: "#"
+    - listitem:
+      - link "":
+        - /url: ""
+  - img "Esther Howard"
+  - heading "Esther Howard" [level=3]
+  - heading "Motion Designer" [level=4]
+  - list:
+    - listitem:
+      - link "":
+        - /url: ""
+    - listitem:
+      - link "":
+        - /url: ""
+    - listitem:
+      - link "":
+        - /url: "#"
+    - listitem:
+      - link "":
+        - /url: ""
+  - img "Emma Brooks"
+  - heading "Emma Brooks" [level=3]
+  - heading "Product Designers" [level=4]
+  - list:
+    - listitem:
+      - link "":
+        - /url: ""
+    - listitem:
+      - link "":
+        - /url: ""
+    - listitem:
+      - link "":
+        - /url: "#"
+    - listitem:
+      - link "":
+        - /url: ""
+  - img "Ethan White"
+  - heading "Ethan White" [level=3]
+  - heading "Digital Marketer" [level=4]
+  - list:
+    - listitem:
+      - link "":
+        - /url: ""
+    - listitem:
+      - link "":
+        - /url: ""
+    - listitem:
+      - link "":
+        - /url: "#"
+    - listitem:
+      - link "":
+        - /url: ""
+  - img "Carter Nguyen"
+  - heading "Carter Nguyen" [level=3]
+  - heading "Cybersecurity Analyst" [level=4]
+  - list:
+    - listitem:
+      - link "":
+        - /url: ""
+    - listitem:
+      - link "":
+        - /url: ""
+    - listitem:
+      - link "":
+        - /url: "#"
+    - listitem:
+      - link "":
+        - /url: ""
+  - img "Casey Murphy"
+  - heading "Casey Murphy" [level=3]
+  - heading "Technical Writer" [level=4]
+  - list:
+    - listitem:
+      - link "":
+        - /url: ""
+    - listitem:
+      - link "":
+        - /url: ""
+    - listitem:
+      - link "":
+        - /url: "#"
+    - listitem:
+      - link "":
+        - /url: ""
+  - img "Ryan Walker"
+  - heading "Ryan Walker" [level=3]
+  - heading "QA Tester" [level=4]
+  - list:
+    - listitem:
+      - link "":
+        - /url: ""
+    - listitem:
+      - link "":
+        - /url: ""
+    - listitem:
+      - link "":
+        - /url: "#"
+    - listitem:
+      - link "":
+        - /url: ""
+  - img "Riley Thompson"
+  - heading "Riley Thompson" [level=3]
+  - heading "Mobile App Developer" [level=4]
+  - list:
+    - listitem:
+      - link "":
+        - /url: ""
+    - listitem:
+      - link "":
+        - /url: ""
+    - listitem:
+      - link "":
+        - /url: "#"
+    - listitem:
+      - link "":
+        - /url: ""
+  - img "Esther Howard"
+  - heading "Esther Howard" [level=3]
+  - heading "Motion Designer" [level=4]
+  - paragraph: A skilled motion designer, crafts dynamic visual narratives. His creativity in animation brings ideas to life with captivating motion.
+  - separator
+  - list:
+    - listitem:
+      - link " Facebook":
+        - /url: ""
+    - listitem:
+      - link " Twitter":
+        - /url: ""
+    - listitem:
+      - link " LinkedIn":
+        - /url: ""
+  - img "Casey Murphy"
+  - heading "Casey Murphy" [level=3]
+  - heading "Technical Writer" [level=4]
+  - paragraph: A meticulous technical writer, distills complex concepts into clear documentation. Her clarity enhances user understanding and product usability.
+  - separator
+  - list:
+    - listitem:
+      - link " Facebook":
+        - /url: ""
+    - listitem:
+      - link " Twitter":
+        - /url: ""
+    - listitem:
+      - link " LinkedIn":
+        - /url: ""
+  - img "Jordan Patel"
+  - heading "Jordan Patel" [level=3]
+  - heading "Data Analyst" [level=4]
+  - paragraph: A skilled data analyst, employs statistical insights to unravel trends and enhance business strategies.
+  - separator
+  - list:
+    - listitem:
+      - link " Facebook":
+        - /url: ""
+    - listitem:
+      - link " Twitter":
+        - /url: ""
+    - listitem:
+      - link " LinkedIn":
+        - /url: ""

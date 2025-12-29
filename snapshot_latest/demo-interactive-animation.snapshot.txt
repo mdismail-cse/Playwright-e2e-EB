@@ -1,0 +1,83 @@
+- main:
+  - heading "Interactive Animation" [level=2]
+  - heading "Bring Your Content to Life with Interactive Animation" [level=1]:
+    - text: Bring Your Content to Life with
+    - mark: Interactive Animation
+  - paragraph: Animate elements on your website effortlessly with Essential Blocks to create dynamic and engaging web content in Gutenberg. Customize animation properties and more.
+  - link "Get Started ":
+    - /url: https://essential-blocks.com/#pricing
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/eb-interactive-animation/
+  - figure:
+    - img "Interactive Animation | Essential Gutenberg Blocks for WordPress"
+  - heading "Animate Content Elements To Create Dynamic & Responsive Designs That Captivate Your Visitors" [level=2]
+  - heading "Interactive" [level=2]
+  - heading "Animations" [level=2]
+  - figure:
+    - img "Interactive Animation"
+  - figure:
+    - img "Interactive Animation"
+  - figure:
+    - img "Interactive Animation"
+  - heading "Match every effect with precise controls over color, speed, easing…" [level=2]
+  - figure:
+    - img "Interactive Animation"
+  - figure:
+    - img "Interactive Animation"
+  - figure:
+    - img "Interactive Animation"
+  - heading "And transitions for perfect customized animations for your brand." [level=2]
+  - figure:
+    - img "Interactive Animation"
+  - figure:
+    - img "Interactive Animation"
+  - figure:
+    - img "Interactive Animation"
+  - heading "Display Products" [level=2]
+  - figure:
+    - img "Interactive Animation"
+  - figure:
+    - img "Interactive Animation"
+  - figure:
+    - img "Interactive Animation"
+  - heading "Display Products" [level=2]
+  - heading "Highlight Features With Style" [level=2]
+  - img "Interactive Animation"
+  - heading "Continuous Motion" [level=2]
+  - paragraph: Make elements move endlessly and create stunning effects to keep visitors interested.
+  - img "Interactive Animation"
+  - heading "Animation Timing" [level=2]
+  - paragraph: Add a delay before animation starts for a smoother and more professional look on your site
+  - img "Interactive Animation"
+  - heading "Fine-Tune Animation" [level=2]
+  - paragraph: Adjust each animation (e.g., fast or slow flicker) to create the perfect effect for your site.
+  - heading "Showcase Testimonials Creatively" [level=2]
+  - paragraph: Add smooth transitions to customer reviews, making social proof more engaging and trustworthy.
+  - img "Interactive Animation"
+  - heading "Jane Wilson" [level=3]
+  - paragraph: Web Designer
+  - paragraph:
+    - emphasis: This feature brings life to my Webflow projects! Smooth animations without the hassle of complex coding.
+  - figure:
+    - img "Interactive Animation"
+  - img "Interactive Animation"
+  - heading "Michael Smith" [level=3]
+  - paragraph: Marketing Manager
+  - paragraph:
+    - emphasis: Interactive Animation makes my designs more engaging effortlessly. No coding needed—just pure creativity!
+  - figure:
+    - img "Interactive Animation"
+  - img "Interactive Animation"
+  - heading "Emily Johnson" [level=3]
+  - paragraph: Freelancer
+  - paragraph:
+    - emphasis: A game-changer! The easiest way to create eye-catching animations while keeping performance optimized.
+  - figure:
+    - img "Interactive Animation"
+  - img "Interactive Animation"
+  - heading "David Brown" [level=3]
+  - paragraph: Small Business Owner
+  - paragraph:
+    - emphasis: Adding animations is now seamless! It’s a must-have for anyone looking to enhance user experience.
+  - figure:
+    - img "Interactive Animation"

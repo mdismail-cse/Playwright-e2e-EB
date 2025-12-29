@@ -1,0 +1,107 @@
+- main:
+  - img "Fluent Forms"
+  - heading "Fluent Forms" [level=1]
+  - paragraph: Build a contact form form on your WordPress website with the help of Fluent Form blocks. With labels, placeholder & background color, build any kind of submission form outstandingly.
+  - link "Get Started FREE ":
+    - /url: https://wordpress.org/plugins/essential-blocks
+  - figure:
+    - img "Fluent Forms"
+  - figure:
+    - img "Fluent Forms"
+  - img "Fluent Forms"
+  - heading "Limitless Content Customization" [level=3]
+  - paragraph
+  - img "Fluent Forms"
+  - heading "Responsive Preview Controls" [level=3]
+  - paragraph
+  - img "Fluent Forms"
+  - heading "Infinite Styling Possibilities" [level=3]
+  - paragraph
+  - img "Fluent Forms"
+  - heading "45+ Advanced Gutenberg Blocks" [level=3]
+  - paragraph
+  - heading "Guide To Create Fluent Form On Gutenberg" [level=2]:
+    - strong: Guide To Create Fluent Form On Gutenberg
+  - figure:
+    - iframe
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/eb-fluent-forms/
+  - heading "Show Labels & Placeholders" [level=2]
+  - paragraph: Make your form easy to recognize by providing exact labels & customized placeholders to make it understandable for newcomers
+  - group "Contact Form":
+    - text: Contact Form First Name
+    - textbox "First Name"
+    - text: Last Name
+    - textbox "Last Name"
+    - text: Email *
+    - textbox "Email":
+      - /placeholder: Email Address
+    - text: Subject
+    - textbox "Subject"
+    - text: Your Message *
+    - textbox "Your Message"
+    - button "Submit Form"
+  - heading "Design Stunning Subscription Forms" [level=2]
+  - paragraph: Create subscription forms in Gutenberg with a colorful background to attract your visitors attention and increase conversion rates
+  - heading "Stay Connected" [level=2]
+  - paragraph: Join your 3 million fellow users by subscribing to our newsletter and receive regular updates, tutorials, and more.
+  - group "Subscription Form":
+    - text: Subscription Form
+    - textbox "Your Email Address"
+    - button "Subscribe"
+  - heading "Fluent Form With Label Colors" [level=2]
+  - paragraph: Give an amazing look to your ordinary form by applying a gorgeous label color and placeholder color to make your form more interesting
+  - group "Contact Form":
+    - text: Contact Form First Name
+    - textbox "First Name"
+    - text: Last Name
+    - textbox "Last Name"
+    - text: Email *
+    - textbox "Email":
+      - /placeholder: Email Address
+    - text: Subject
+    - textbox "Subject"
+    - text: Your Message *
+    - textbox "Your Message"
+    - button "Submit Form"
+  - heading "Input & Text Area Color" [level=2]:
+    - strong: Input & Text Area Color
+  - paragraph: Bring life to your boring text with input & text area color to make your submission form engaging to customers. Choose any typography to make it appealing
+  - group "Contact Form":
+    - text: Contact Form First Name
+    - textbox "First Name"
+    - text: Last Name
+    - textbox "Last Name"
+    - text: Email *
+    - textbox "Email":
+      - /placeholder: Email Address
+    - text: Subject
+    - textbox "Subject"
+    - text: Your Message *
+    - textbox "Your Message"
+    - button "Submit Form"
+  - heading "Show Labels & Placeholders" [level=2]
+  - paragraph: Make your form easy to recognize by providing exact labels & customized placeholders to make it understandable for newcomers
+  - group "Contact Form":
+    - text: Contact Form First Name
+    - textbox "First Name"
+    - text: Last Name
+    - textbox "Last Name"
+    - text: Email *
+    - textbox "Email":
+      - /placeholder: Email Address
+    - text: Subject
+    - textbox "Subject"
+    - text: Your Message *
+    - textbox "Your Message"
+    - button "Submit Form"
+  - heading "Appealing Subscription Forms" [level=2]
+  - paragraph: Apply versatile color palettes and choose any typography to make a beautiful subscription form. Provide your customers with a smoother experience for better engagement
+  - heading "Subscribe Now" [level=2]
+  - paragraph: Join our blog for free to receive awesome updates, tutorials, and more.
+  - group "Subscription Form":
+    - text: Subscription Form
+    - textbox "Your Email Address"
+    - button "Subscribe"
+  - figure:
+    - img "Fluent Forms"

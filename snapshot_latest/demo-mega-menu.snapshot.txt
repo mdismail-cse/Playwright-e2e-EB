@@ -1,0 +1,103 @@
+- main:
+  - heading "Mega Menu" [level=2]
+  - heading "Design Fully Controllable Mega Menu For Customized Navigation" [level=1]:
+    - text: Design Fully Controllable
+    - mark: Mega Menu
+    - text: For Customized Navigation
+  - paragraph: Create a dropdown menu with multidimensional layouts to improve user experience & provide smooth navigation.
+  - link "Get Started ":
+    - /url: https://essential-blocks.com/#pricing
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/eb-mega-menu
+  - figure:
+    - img "Mega Menu Block"
+  - heading "Style Menu Dropdown With Icons, Highlighted Badges & Interactive Promo Banners" [level=2]
+  - figure:
+    - img "Mega Menu"
+  - link "Products":
+    - /url: ""
+  - button " Open Products"
+  - link "Gift Cards":
+    - /url: ""
+  - link "Help":
+    - /url: ""
+  - button " Open Help"
+  - link "Live":
+    - /url: ""
+  - link "Register":
+    - /url: "#"
+  - heading "Your World, Reimagined in Virtual Reality" [level=2]
+  - figure:
+    - img "Mega Menu"
+  - heading "Design Custom Multi-Column Mega Menu With Dynamic Blocks From Gutenberg Library" [level=2]
+  - figure:
+    - img "Mega Menu"
+  - link "Home":
+    - /url: ""
+  - link "Quick Help":
+    - /url: ""
+  - button " Open Quick Help"
+  - link "Solutions":
+    - /url: ""
+  - button " Open Solutions"
+  - link "Contact":
+    - /url: ""
+  - link "Get Started":
+    - /url: "#"
+  - heading "AI-Powered Services to Drive Growth" [level=2]
+  - paragraph: Introduce the individuals from your team on your Gutenberg website with stunning layouts.
+  - link "Get Started ":
+    - /url: "#"
+  - figure:
+    - img "Mega Menu"
+  - heading "Get Mobile-Friendly Navigation Bar For Website To Display Menu Items Efficiently" [level=2]
+  - figure:
+    - img "Mega Menu"
+  - link "About Us":
+    - /url: ""
+  - button "Services"
+  - button " Open Services"
+  - button "Resources"
+  - button " Open Resources"
+  - link "Contact":
+    - /url: ""
+  - link "Our Work":
+    - /url: ""
+  - link "Book A Call":
+    - /url: "#"
+  - heading "Transform your Business with AI Solutions that Accelerate Growth" [level=2]
+  - paragraph: Introduce the individuals from your team on your Gutenberg website with stunning layouts and detailed information. Customize avatars, fonts, colors, and social profiles
+  - figure:
+    - img "Mega Menu"
+  - heading "Build Stylish WooCommerce Store Menu And Display Product Grids & Categories With Images" [level=2]
+  - figure:
+    - img "Mega Menu"
+  - link " Home":
+    - /url: ""
+  - button " Shop"
+  - button " Open Shop"
+  - link " Sale New":
+    - /url: ""
+  - link "% Offer":
+    - /url: ""
+  - link "Login":
+    - /url: "#"
+  - text: 50% OFF Exclusive Deals going on – Exclusive Deals going on
+  - heading "Unfold Your Everyday Style" [level=2]
+  - link "See Products":
+    - /url: ""
+  - link "Shop Now":
+    - /url: ""
+  - list:
+    - listitem:
+      - img "Frame1212"
+      - heading "5–9 Day Global Shipping" [level=3]
+    - listitem:
+      - img "Frame3434"
+      - heading "100+ Fashion Products" [level=3]
+  - figure:
+    - img "Mega Menu"
+  - heading "Explore Unlimited Styling Options & Get Full Flexibility To Customize Mega Menu Based On Your Needs" [level=2]
+  - paragraph: Style every little thing in the menu with custom grids, sub-menu items, include multimedia, other blocks, hover effects, etc. to give organized, nested navigation.
+  - figure:
+    - img "Mega Menu"

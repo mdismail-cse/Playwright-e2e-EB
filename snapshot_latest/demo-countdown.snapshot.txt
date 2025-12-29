@@ -1,0 +1,55 @@
+- main:
+  - img "Countdown"
+  - heading "Countdown" [level=1]
+  - paragraph: Seamlessly build a countdown-timer on your WordPress website by using the Countdown block to influence your users for a purchase. With versatile design presets and labeling, make your website an exemplary tool for promotion.
+  - link "Get Started FREE ":
+    - /url: https://wordpress.org/plugins/essential-blocks
+  - figure:
+    - img "Countdown"
+  - figure:
+    - img "Countdown"
+  - img "Countdown"
+  - heading "Limitless Content Customization" [level=3]
+  - paragraph
+  - img "Countdown"
+  - heading "Responsive Preview Controls" [level=3]
+  - paragraph
+  - img "Countdown"
+  - heading "Infinite Styling Possibilities" [level=3]
+  - paragraph
+  - img "Countdown"
+  - heading "45+ Advanced Gutenberg Blocks" [level=3]
+  - paragraph
+  - heading "Guide To Create An Advanced Countdown" [level=2]
+  - figure:
+    - iframe
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/countdown/
+  - heading "Default Design Preset" [level=2]
+  - paragraph: Make your schedule with the built-in calendar of this Countdown block. Apply versatile color pallets and customisation to make your countdown widget more appealing to your customers
+  - text: 00 Days 00 Hours 00 Minutes 00 Seconds
+  - figure:
+    - img "Countdown"
+  - heading "Design Preset 1" [level=2]
+  - paragraph: Add your custom label for date, hours, minutes, etc to build your next goal. Make space between your timers by maintaining proper margin and padding. Apply engaging colors on each timer to give a beautiful look
+  - text: 00 Days 00 Hours 00 Minutes 00 Seconds
+  - heading "Design Preset 2" [level=2]
+  - paragraph: Make your countdown block beautiful with a versatile grid view and list view. Give your preferred custom labels on all your timers. Maintain proper max-width and space between timer boxes to keep your block neat
+  - text: 00 Days 00 Hours 00 Minutes 00 Seconds
+  - figure:
+    - img "Countdown"
+  - heading "Design Preset 3" [level=2]
+  - paragraph: Put your timer in 4 directions to increase the site readability. Choose your column direction between 4 available options and put your content in proper alignment
+  - text: "00 Days : 00 Hours : 00 Minutes : 00 Seconds"
+  - heading "Design Preset 4" [level=2]
+  - paragraph: Choose between a normal background or a hover background to give a stunning outlook. Articulate your background type between linear or radial options to give your countdown block a vibrant look
+  - text: 00 Days 00 Hours 00 Minutes 00 Seconds
+  - heading "Design Preset 5" [level=2]
+  - paragraph: Change your background type between classic and gradient to give it an awesome look. Properly position your first and second colors on your countdown block. Choose your preferred angle for the color position
+  - text: 00 Days | 00 Hours | 00 Minutes | 00 Seconds
+  - heading "Design Preset 6" [level=2]
+  - paragraph: With 8 advanced border styles make your countdown block beautiful. Change your box-shadow between normal or hover effect. Choose versatile shadow colors to style our countdown block
+  - text: 00 Days 00 Hours 00 Minutes 00 Seconds
+  - heading "Design Preset 7" [level=2]
+  - paragraph: Change your Label Color & Typography to give your countdown a charming look. Customize individual box styling for your timers. Choose a gorgeous color pallet for your digit color and label color.
+  - text: 00 Days 00 Hours 00 Minutes 00 Seconds

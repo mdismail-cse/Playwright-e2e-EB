@@ -1,0 +1,55 @@
+- main:
+  - img "Call To Action"
+  - heading "Call To Action" [level=1]
+  - paragraph: Create interactive CTA buttons without code in your website with Call To Action blocks from Essential Blocks and supercharge your conversion rate. With this Gutenberg block, grabbing your visitors’ attention will be a breeze now.
+  - link "Get Started FREE ":
+    - /url: https://wordpress.org/plugins/essential-blocks
+  - figure:
+    - img "Call To Action"
+  - figure:
+    - img "Call To Action"
+  - img "macbook"
+  - heading "Limitless Content Customization" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Responsive Preview Controls" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Infinite Styling Possibilities" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "45+ Advanced Gutenberg Blocks" [level=3]
+  - paragraph
+  - heading "Follow This Tutorial To Create Call To Action" [level=2]
+  - figure:
+    - iframe
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/call-to-action
+  - heading "Call To Action Basic Content Style" [level=2]
+  - paragraph: Add eye-catchy CTA buttons on your website and make it even more attractive with ultimate styling options from Essential Blocks to boost your conversion
+  - text: 
+  - heading "Marketing Course" [level=3]
+  - paragraph: Enhance your marketing skills with our advanced marketing courses and instantly shine on your career.
+  - link "Sign Up Now":
+    - /url: "#"
+  - heading "Call To Action Round Button Style" [level=2]
+  - paragraph: Design your CTA buttons in round style to grab visitors attention
+  - heading "Language Course" [level=3]
+  - paragraph: Learn multiple languages from our dedicated instructors from today and hone your communication skills to easily connect with people from all around the world without any trouble.
+  - link "Enroll Now":
+    - /url: "#"
+  - heading "Call To Action Button With Subtitle" [level=2]
+  - paragraph: Power up your CTA buttons with subtitles using Call To Action Block from Essential Blocks and catch your visitors attention on spot at ease
+  - text: 
+  - heading "Enjoy 40$ Off" [level=4]
+  - heading "Research Course" [level=3]
+  - paragraph: Supercharge your design skills and become a successful UI UX Designer by taking our course. You will get all the resources that you need to start your career from the scratch.
+  - link "Get Started":
+    - /url: "#"
+  - heading "Call To Action Button With Shadow" [level=2]
+  - paragraph: Display your CTA buttons interactively with shadow and style up to drive your visitors into immediate actions with Call To Action block
+  - heading "Get 45$ Off" [level=4]
+  - heading "UI UX Design" [level=3]
+  - paragraph: Supercharge your design skills and become a successful UI UX Designer by taking our course.
+  - link "Sign Up Now":
+    - /url: "#"

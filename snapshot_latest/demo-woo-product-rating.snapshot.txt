@@ -1,0 +1,33 @@
+- main:
+  - heading "Woo Product Rating" [level=2]
+  - heading "Display Product Rating Appealingly & Boost Social Proof To Sell More" [level=1]:
+    - text: Display
+    - mark: Product Rating
+    - text: Appealingly & Boost Social Proof To Sell More
+  - paragraph: Build credibility and boost conversions by showcasing ratings with Essential Blocks’ Product Rating Block! Design your WooCommerce product pages by displaying product reviews in versatile styles and enhanced customization.
+  - link "Get Started ":
+    - /url: https://essential-blocks.com/#pricing
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/eb-product-rating/
+  - figure:
+    - img "Woo Product Rating"
+  - heading "Craft Elegant Customer Reviews That Displays Stunning Rating Styles" [level=2]
+  - figure:
+    - img "Woo Product Rating"
+  - figure:
+    - img "Woo Product Rating"
+  - heading "Create Stronger Impression By Displaying Reviewer Counts With Product Rating" [level=2]
+  - figure:
+    - img "Woo Product Rating"
+  - figure:
+    - img "Woo Product Rating"
+  - heading "Get Versatile Rating Display Layouts for Product Testimonials" [level=2]
+  - figure:
+    - img "Woo Product Rating"
+  - figure:
+    - img "Woo Product Rating"
+  - heading "Tweak & Turn Product Ratings Alignment, Text Colors & Star Colors Effortlessly" [level=2]
+  - figure:
+    - img "Woo Product Rating"
+  - figure:
+    - img "Woo Product Rating"

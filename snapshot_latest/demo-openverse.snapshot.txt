@@ -1,0 +1,107 @@
+- main:
+  - img "Openverse"
+  - heading "Openverse" [level=1]
+  - paragraph: Access the Openverse library directly from your WordPress website & choose from 600 million+ royalty-free creative works In Gutenberg. Add stunning styles to images from Openverse & personalize them just the way you want.
+  - link "Get Started FREE ":
+    - /url: https://wordpress.org/plugins/essential-blocks
+  - figure:
+    - img "Openverse"
+  - figure:
+    - img "Openverse"
+  - img "Openverse"
+  - heading "Limitless Content Customization" [level=3]
+  - paragraph
+  - img "Openverse"
+  - heading "Responsive Preview Controls" [level=3]
+  - paragraph
+  - img "Openverse"
+  - heading "Infinite Styling Possibilities" [level=3]
+  - paragraph
+  - img "Openverse"
+  - heading "45+ Advanced Gutenberg Blocks" [level=3]
+  - paragraph
+  - heading "How To Use The Openverse Block In Gutenberg?" [level=2]
+  - figure:
+    - iframe
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/openverse/
+  - heading "Display Openverse Images In A Rounded Style" [level=2]
+  - paragraph: Easily add royalty-free Openverse images to your website and showcase them in a stunning rounded style with customizations and proper attributions
+  - figure:
+    - img "Empire State Building from the Top of the Rock"
+    - link "Empire State Building from the Top of the Rock":
+      - /url: https://www.flickr.com/photos/32366606@N00/5135516166
+    - text: By
+    - link "jiuguangw":
+      - /url: https://www.flickr.com/photos/32366606@N00
+    - text: Is licensed under
+    - link "by-sa 2.0":
+      - /url: https://creativecommons.org/licenses/by-sa/2.0/
+    - text: .
+  - heading "Present Openverse Images In A Square Style" [level=2]
+  - paragraph: Show your Openverse images in a square style and customize to display the attribution in middle alignment with hover effects on your Gutenberg website
+  - figure:
+    - img "Lovely place"
+    - link "Lovely place":
+      - /url: https://www.flickr.com/photos/9172731@N03/3274174320
+    - text: By
+    - link "Natalia Romay Photography":
+      - /url: https://www.flickr.com/photos/9172731@N03
+    - text: Is licensed under
+    - link "by-nc-nd 2.0":
+      - /url: https://creativecommons.org/licenses/by-nc-nd/2.0/
+    - text: .
+  - heading "Find Media Applying Versatile Filters" [level=2]
+  - paragraph: Get the most suitable content for your website from 600 million+ creative works by applying versatile filters without any hassle
+  - heading "Show Openverse Images In A Circle Style" [level=2]
+  - paragraph: Adjust the ‘Width’ and ‘Height’ of Openverse images and present them in a circle style to bring a unique outlook to your Gutenberg website
+  - figure:
+    - img "Sneakers"
+    - link "Sneakers":
+      - /url: https://www.flickr.com/photos/103745514@N02/10021200194
+    - text: By
+    - link "chixxx_studio":
+      - /url: https://www.flickr.com/photos/103745514@N02
+    - text: Is licensed under
+    - link "by-nc-nd 2.0":
+      - /url: https://creativecommons.org/licenses/by-nc-nd/2.0/
+    - text: .
+  - figure:
+    - img "MWC Barcelona 2013 - Sony SmartWatch"
+    - link "MWC Barcelona 2013 – Sony SmartWatch":
+      - /url: https://www.flickr.com/photos/65265630@N03/8530232739
+    - text: By
+    - link "Janitors":
+      - /url: https://www.flickr.com/photos/65265630@N03
+    - text: Is licensed under
+    - link "by 2.0":
+      - /url: https://creativecommons.org/licenses/by/2.0/
+    - text: .
+  - heading "Add Openverse Images In An Octagon Style" [level=2]
+  - paragraph: Effortlessly fit your Openverse images with your website layout and showcase the open-source images in an octagon style with stylish borders & stunning colors
+  - heading "Style Openverse Images In A Rhombus Style" [level=2]
+  - paragraph: Display your Openverse image in a rhombus style and make endless customization in your caption design to provide the best user experience to your visitors
+  - figure:
+    - img "Vans new 'wingtips era' sneakers"
+    - link "Vans new ‘wingtips era’ sneakers":
+      - /url: https://www.flickr.com/photos/16071304@N00/3755723228
+    - text: By
+    - link "rikomatic":
+      - /url: https://www.flickr.com/photos/16071304@N00
+    - text: Is licensed under
+    - link "by-nc-sa 2.0":
+      - /url: https://creativecommons.org/licenses/by-nc-sa/2.0/
+    - text: .
+  - figure:
+    - img "Abstract"
+    - link "Abstract":
+      - /url: https://www.flickr.com/photos/28481088@N00/7033476545
+    - text: By
+    - link "tanakawho":
+      - /url: https://www.flickr.com/photos/28481088@N00
+    - text: Is licensed under
+    - link "by-nc 2.0":
+      - /url: https://creativecommons.org/licenses/by-nc/2.0/
+    - text: .
+  - heading "Customize Openverse Images In A Triangle Style" [level=2]
+  - paragraph: Creatively present your Openverse images in a triangle style and add border shadow, background colors, or images to portray them beautifully

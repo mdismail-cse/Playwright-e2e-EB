@@ -1,0 +1,117 @@
+- main:
+  - img "NFT Gallery"
+  - heading "NFT Gallery" [level=1]
+  - paragraph: Showcase your NFT items and collections on the WordPress websites using the NFT Gallery block. You can effortlessly present your NFT items, collections, and wallet ID wise without using any code.
+  - link "Get Started FREE ":
+    - /url: https://wordpress.org/plugins/essential-blocks
+  - figure:
+    - img "NFT Gallery"
+  - figure:
+    - img "essential blocks NFT gallery"
+  - img "NFT Gallery"
+  - heading "Limitless Content Customization" [level=3]
+  - paragraph
+  - img "NFT Gallery"
+  - heading "Responsive Preview Controls" [level=3]
+  - paragraph
+  - img "NFT Gallery"
+  - heading "Infinite Styling Possibilities" [level=3]
+  - paragraph
+  - img "NFT Gallery"
+  - heading "45+ Advanced Gutenberg Blocks" [level=3]
+  - paragraph
+  - heading "How To Use NFT Gallery Block In Gutenberg?" [level=2]
+  - figure:
+    - iframe
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/eb-nft-gallery/
+  - heading "NFT Gallery Grid Preset 1" [level=2]
+  - paragraph: Easily show your NFT items & collections with an interactive call-to-action button with hover effect, enabling or disabling the creator or owner, and organize the order as you want
+  - 'img "The Hopeful #5533"'
+  - 'heading "The Hopeful #5533" [level=3]'
+  - 'img "The Hopeful #5508"'
+  - 'heading "The Hopeful #5508" [level=3]'
+  - 'img "The Hopeful #5528"'
+  - 'heading "The Hopeful #5528" [level=3]'
+  - 'img "The Hopeful #5474"'
+  - 'heading "The Hopeful #5474" [level=3]'
+  - 'img "The Hopeful #5543"'
+  - 'heading "The Hopeful #5543" [level=3]'
+  - 'img "The Hopeful #5520"'
+  - 'heading "The Hopeful #5520" [level=3]'
+  - 'img "The Hopeful #5497"'
+  - 'heading "The Hopeful #5497" [level=3]'
+  - 'img "The Hopeful #5517"'
+  - 'heading "The Hopeful #5517" [level=3]'
+  - heading "NFT Gallery Grid Preset 2" [level=2]
+  - paragraph: Present your NFTs with a fixed eye-catchy call-to-action button, price, and title, & guide your visitors to your NFT collection to boost your conversion rates
+  - 'img "NFT OCS Collection #252 DRIFTING HOME"'
+  - 'heading "NFT OCS Collection #252 DRIFTING HOME" [level=3]'
+  - button "See Details":
+    - link "See Details":
+      - /url: https://opensea.io/assets/ethereum/0x9f6d1234f654c5bd691ba0b056be80fe3fe3a240/252
+  - 'img "NFT OCS Collection #507 DRIFTING HOME"'
+  - 'heading "NFT OCS Collection #507 DRIFTING HOME" [level=3]'
+  - button "See Details":
+    - link "See Details":
+      - /url: https://opensea.io/assets/ethereum/0x9f6d1234f654c5bd691ba0b056be80fe3fe3a240/507
+  - 'img "NFT OCS Collection #105 DRIFTING HOME"'
+  - 'heading "NFT OCS Collection #105 DRIFTING HOME" [level=3]'
+  - button "See Details":
+    - link "See Details":
+      - /url: https://opensea.io/assets/ethereum/0x9f6d1234f654c5bd691ba0b056be80fe3fe3a240/105
+  - 'img "NFT OCS Collection #910 DRIFTING HOME"'
+  - 'heading "NFT OCS Collection #910 DRIFTING HOME" [level=3]'
+  - button "See Details":
+    - link "See Details":
+      - /url: https://opensea.io/assets/ethereum/0x9f6d1234f654c5bd691ba0b056be80fe3fe3a240/910
+  - heading "NFT Gallery List Preset 1" [level=2]
+  - paragraph: Showcase your NFT items & collections section in the list layout and personalize the gallery using stunning colors, typography, and more with absolute ease
+  - 'img "Egao #5498"'
+  - 'heading "Egao #5498" [level=3]'
+  - button "See Details":
+    - link "See Details":
+      - /url: https://opensea.io/assets/ethereum/0xd2f668a8461d6761115daf8aeb3cdf5f40c532c6/5498
+  - 'img "Uzachi #5491"'
+  - 'heading "Uzachi #5491" [level=3]'
+  - button "See Details":
+    - link "See Details":
+      - /url: https://opensea.io/assets/ethereum/0xd2f668a8461d6761115daf8aeb3cdf5f40c532c6/5491
+  - 'img "Ku''roi #5479"'
+  - 'heading "Ku''roi #5479" [level=3]'
+  - button "See Details":
+    - link "See Details":
+      - /url: https://opensea.io/assets/ethereum/0xd2f668a8461d6761115daf8aeb3cdf5f40c532c6/5479
+  - 'img "Gureji #5492"'
+  - 'heading "Gureji #5492" [level=3]'
+  - button "See Details":
+    - link "See Details":
+      - /url: https://opensea.io/assets/ethereum/0xd2f668a8461d6761115daf8aeb3cdf5f40c532c6/5492
+  - heading "NFT Gallery Grid Preset 3" [level=2]
+  - paragraph: Present your NFTs with a fixed eye-catchy call-to-action button, price, and title, & guide your visitors to your NFT collection to boost your conversion rates
+  - img "#7776"
+  - img "#7777"
+  - img "#7764"
+  - img "#7770"
+  - heading "Endless Customizations To NFT Gallery" [level=2]
+  - paragraph: Make your NFT gallery appearance stunning with customized typography & colors, interactive animation, beautiful backgrounds, and more
+  - img "#9975"
+  - heading "#9975" [level=3]
+  - button "See Details":
+    - link "See Details":
+      - /url: https://opensea.io/assets/ethereum/0xaadba140ae5e4c8a9ef0cc86ea3124b446e3e46a/9975
+  - img "#9950"
+  - heading "#9950" [level=3]
+  - button "See Details":
+    - link "See Details":
+      - /url: https://opensea.io/assets/ethereum/0xaadba140ae5e4c8a9ef0cc86ea3124b446e3e46a/9950
+  - img "#9948"
+  - heading "#9948" [level=3]
+  - button "See Details":
+    - link "See Details":
+      - /url: https://opensea.io/assets/ethereum/0xaadba140ae5e4c8a9ef0cc86ea3124b446e3e46a/9948
+  - img "#9956"
+  - heading "#9956" [level=3]
+  - button "See Details":
+    - link "See Details":
+      - /url: https://opensea.io/assets/ethereum/0xaadba140ae5e4c8a9ef0cc86ea3124b446e3e46a/9956

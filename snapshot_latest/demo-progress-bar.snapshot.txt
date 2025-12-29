@@ -1,0 +1,73 @@
+- main:
+  - img "Progress Bar"
+  - heading "Progress Bar" [level=2]
+  - paragraph: Represent stats interestingly on your website to grab visitors’ attention instantly with stunning Progress Bar block. You can show your progress rate, percentage, latest success rate, etc. dynamically without a single line of code.
+  - link "Get Started FREE ":
+    - /url: https://wordpress.org/plugins/essential-blocks
+  - figure:
+    - img "Progress Bar"
+  - figure:
+    - img "Progress Bar"
+  - img "macbook"
+  - heading "Limitless Content Customization" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Responsive Preview Controls" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Infinite Styling Possibilities" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "45+ Advanced Gutenberg Blocks" [level=3]
+  - paragraph
+  - heading "Follow This Tutorial To Create Progress Bar" [level=2]
+  - figure:
+    - iframe
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/progress-bar
+  - heading "Progress Bar Line Layout" [level=2]
+  - paragraph: Display your important statistics interactively with Line layout from Progress Bar block to catch your visitors’ attention right after coming to your website
+  - figure:
+    - img "Progress Bar"
+  - text: Adobe Photoshop Skill 80% Web Development 90% Digital Marketing 75% UX UI Design 92%
+  - heading "Progress Bar Line Rainbow Layout" [level=2]
+  - paragraph: Showcase your data with stunning Line Rainbow layout and customize just the way you want to make your important statistics noticeable to the visitors
+  - text: Sewing skills 80% Clothing design skills 90% Cutting skills 75% Pattern-making skills 92%
+  - figure:
+    - img "Progress Bar"
+  - heading "Progress Bar Circle Layout" [level=2]
+  - paragraph: Present your key informations in Circle layout and control the animation duration to make your monotonous data interesting to your website visitors
+  - text: Communication Tools 85% Social Media 85% Spreadsheets 75% Presentation Tools 59%
+  - heading "Progress Bar Circle Fill Layout" [level=2]
+  - paragraph: Attract visitors by dynamically displaying your data using beautiful Circle Fill layout with ultimate coloring options to make your website lively
+  - heading "Creativity" [level=2]
+  - paragraph: 74%
+  - heading "Confidence" [level=2]
+  - paragraph: 85%
+  - heading "Organization" [level=2]
+  - paragraph: 75%
+  - heading "Conflict resolution" [level=2]
+  - paragraph: 59%
+  - heading "Progress Bar Half Circle Layout" [level=2]
+  - paragraph: Show your important data creatively with amazing Half Circle layout and set HTML Tags for your progress bar to make your website interactive instantly
+  - text: Motivation 100% Trustworthiness 69% Responsibility 75% Communication 59%
+  - heading "Progress Bar Half Circle Fill Layout" [level=2]
+  - paragraph: Visualize your key-information with creative Half Circle Fill layout and stunning typography to keep your visitors engaged to your website
+  - heading "Product Knowledge" [level=2]
+  - paragraph: 60%
+  - heading "Client Engagement" [level=2]
+  - paragraph: 90%
+  - heading "Active Listening" [level=2]
+  - paragraph: 75%
+  - heading "Sales Presentations" [level=2]
+  - paragraph: 59%
+  - heading "Progress Bar Box Layout" [level=2]
+  - paragraph: Exhibit your key statistics interestingly with beautiful Box layout and control height width of your progress bar to grab your reader’s attention instantly
+  - text: 70%
+  - heading "Plugin Development" [level=2]
+  - text: 90%
+  - heading "Elementor" [level=2]
+  - text: 75%
+  - heading "Digital marketing" [level=2]
+  - text: 50%
+  - heading "Site Architecture" [level=2]

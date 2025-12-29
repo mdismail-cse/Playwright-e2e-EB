@@ -1,0 +1,122 @@
+- main:
+  - img "Toggle Content"
+  - heading "Toggle Content" [level=1]
+  - paragraph: Display multiple contents at the same time by using the Toggle Content block and radically reduce your website scroll time. With versatile switch types, boost your website user experience outstandingly.
+  - link "Get Started FREE ":
+    - /url: https://wordpress.org/plugins/essential-blocks
+  - figure:
+    - img "Toggle Content"
+  - figure:
+    - img "Toggle Content"
+  - img "Toggle Content"
+  - heading "Limitless Content Customization" [level=3]
+  - paragraph
+  - img "Toggle Content"
+  - heading "Responsive Preview Controls" [level=3]
+  - paragraph
+  - img "Toggle Content"
+  - heading "Infinite Styling Possibilities" [level=3]
+  - paragraph
+  - img "Toggle Content"
+  - heading "45+ Advanced Gutenberg Blocks" [level=3]
+  - paragraph
+  - heading "Guide To Create An Interactive Toggle Content" [level=2]
+  - figure:
+    - iframe
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/eb-toggle-content/
+  - heading "Rounded Switch 1" [level=2]
+  - paragraph: Display your prioritized content with a stylish rounded switch
+  - text: Yearly Monthly
+  - heading "Premium" [level=2]
+  - text: $299.99 / Year
+  - list:
+    - listitem:  1 Website
+    - listitem:  30 GB SSD Storage
+    - listitem:  100000 Visits Monthly
+    - listitem:  Free SSL
+  - link "Select Plan":
+    - /url: ""
+  - heading "Enterprise" [level=2]
+  - text: $499.99 / Year
+  - list:
+    - listitem:  1 Website
+    - listitem:  30 GB SSD Storage
+    - listitem:  100000 Visits Monthly
+    - listitem:  Free SSL
+  - link "Select Plan":
+    - /url: ""
+  - heading "Rounded Switch 2" [level=2]
+  - paragraph: Switch between your primary or secondary content in an easy way. Display your prioritized content with a stylish rounded switch
+  - heading "Monthly" [level=2]
+  - text: $29.99
+  - list:
+    - listitem:  1 Website
+    - listitem:  30 GB SSD Storage
+    - listitem:  100000 Visits Monthly
+    - listitem:  Free SSL
+  - link "Select Plan":
+    - /url: ""
+  - heading "Yearly" [level=2]
+  - text: $189.99
+  - list:
+    - listitem:  1 Website
+    - listitem:  30 GB SSD Storage
+    - listitem:  100000 Visits Monthly
+    - listitem:  Free SSL
+  - link "Select Plan":
+    - /url: ""
+  - heading "Rounded Switch 3" [level=2]
+  - paragraph: Switch between your primary or secondary content in an easy way. Display your prioritized content with a stylish rounded switch
+  - text: Personal Commercial
+  - heading "Monthly" [level=2]
+  - text: Auto Upgradable, Cencel Anytime $29.99
+  - list:
+    - listitem:  1 Website
+    - listitem:  30 GB SSD Storage
+    - listitem:  100000 Visits Monthly
+    - listitem:  Free SSL
+  - link "Select Plan":
+    - /url: ""
+  - heading "Yearly" [level=2]
+  - text: Auto Upgradable, Cencel Anytime $189.99
+  - list:
+    - listitem:  1 Website
+    - listitem:  30 GB SSD Storage
+    - listitem:  100000 Visits Monthly
+    - listitem:  Free SSL
+  - link "Select Plan":
+    - /url: ""
+  - heading "Effortlessly Showcase Product Comparison" [level=2]
+  - paragraph: Smartly displays two or more product comparisons with an easy-to-use toggle content. Peak your customer curiosity with an advanced toggle button block
+  - text: Current Features Upcoming Features
+  - img "Toggle Content"
+  - heading "Automated AI Chatbots" [level=3]
+  - paragraph: We create AI chatbots for any kind of website to help you streamline your lorem ipsu, dammy text communication process.
+  - link "Read More":
+    - /url: "#"
+  - img "Toggle Content"
+  - heading "Vartual Reality" [level=3]
+  - paragraph: We create AI chatbots for any kind of website to help you streamline your lorem ipsu, dammy text communication process.
+  - link "Read More":
+    - /url: "#"
+  - img "Toggle Content"
+  - heading "Machine Learning" [level=3]
+  - paragraph: We create AI chatbots for any kind of website to help you streamline your lorem ipsu, dammy text communication process.
+  - link "Read More":
+    - /url: "#"
+  - img "Toggle Content"
+  - heading "Internet of Things" [level=3]
+  - paragraph: We create AI chatbots for any kind of website to help you streamline your lorem ipsu, dammy text communication process.
+  - link "Read More":
+    - /url: "#"
+  - img "Toggle Content"
+  - heading "Internet of Things" [level=3]
+  - paragraph: We create AI chatbots for any kind of website to help you streamline your lorem ipsu, dammy text communication process.
+  - link "Read More":
+    - /url: "#"
+  - img "Toggle Content"
+  - heading "Automated AI Chatbots" [level=3]
+  - paragraph: We create AI chatbots for any kind of website to help you streamline your lorem ipsu, dammy text communication process.
+  - link "Read More":
+    - /url: "#"

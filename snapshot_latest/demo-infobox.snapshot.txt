@@ -1,0 +1,138 @@
+- main:
+  - img "Infobox"
+  - heading "Infobox" [level=1]
+  - paragraph: Highlight informative content on your WordPress website with impressive Essential Blocks Infobox. You can display any information with stunning icons, images, styles, etc with this amazing block
+  - link "Get Started FREE ":
+    - /url: https://wordpress.org/plugins/essential-blocks
+  - figure:
+    - img "Infobox"
+  - figure:
+    - img "Infobox"
+  - img "macbook"
+  - heading "Limitless Content Customization" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Responsive Preview Controls" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Infinite Styling Possibilities" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "45+ Advanced Gutenberg Blocks" [level=3]
+  - paragraph
+  - heading "Create Infobox By Following Easy Tutorial" [level=2]
+  - figure:
+    - iframe
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/infobox/
+  - heading "Create Infobox With Preset 1" [level=2]
+  - paragraph: Get stunning Info Boxes In Gutenberg with versatile presets styling and make your website more engaging for the viewers
+  - img "macbook"
+  - heading "Marketing Course" [level=2]
+  - paragraph: Marketing course for beginners and those who are interested in exploring the field. Everyone is welcome to learn something new.
+  - link "Learn More ❯":
+    - /url: "#"
+  - img "macbook"
+  - heading "Research Course" [level=2]
+  - paragraph: Marketing course for beginners and those who are interested in exploring the field. Everyone is welcome to learn something new.
+  - link "Learn More ❯":
+    - /url: "#"
+  - img "macbook"
+  - heading "Language Course" [level=2]
+  - paragraph: Marketing course for beginners and those who are interested in exploring the field. Everyone is welcome to learn something new.
+  - link "Learn More ❯":
+    - /url: "#"
+  - img "macbook"
+  - heading "Graphic Design" [level=2]
+  - paragraph: Marketing course for beginners and those who are interested in exploring the field. Everyone is welcome to learn something new.
+  - link "Learn More ❯":
+    - /url: "#"
+  - heading "Stunning Infobox With Overlay" [level=2]
+  - paragraph: Customize Infobox content appearance with stunning overlay images, basic color or gradient. Also, you can customize text & icon alignment, add animation, hover effect, etc
+  - heading "Pop Music" [level=2]
+  - paragraph: For Pop lovers, there is an amazing collection of soundtracks you will love to listen to anytime, anywhere.
+  - link "➔ Get Started":
+    - /url: "#"
+  - heading "Heavy Metal" [level=2]
+  - paragraph: For Pop lovers, there is an amazing collection of soundtracks you will love to listen to anytime, anywhere.
+  - link "➔ Get Started":
+    - /url: "#"
+  - heading "Folk Music" [level=2]
+  - paragraph: For Pop lovers, there is an amazing collection of soundtracks you will love to listen to anytime, anywhere.
+  - link "➔ Get Started":
+    - /url: "#"
+  - heading "Classical Music" [level=2]
+  - paragraph: For Pop lovers, there is an amazing collection of soundtracks you will love to listen to anytime, anywhere.
+  - link "➔ Get Started":
+    - /url: "#"
+  - heading "Design Infobox With Preset 2" [level=2]
+  - paragraph: Add beautiful images, icons to style this super useful Info Box with full creativity and engage the viewers more in your website instantly.
+  - img "macbook"
+  - heading "Automated AI Chatbots" [level=2]
+  - paragraph: Contains a high concentration of botanical, marine, and biological extracts. Has no artificial fragrances.
+  - link "Learn More ❯":
+    - /url: "#"
+  - img "macbook"
+  - heading "Virtual Reality" [level=2]
+  - paragraph: Contains a high concentration of botanical, marine, and biological extracts. Has no artificial fragrances.
+  - link "Learn More ❯":
+    - /url: "#"
+  - img "macbook"
+  - heading "Machine Learning" [level=2]
+  - paragraph: Contains a high concentration of botanical, marine, and biological extracts. Has no artificial fragrances.
+  - link "Learn More ❯":
+    - /url: "#"
+  - img "macbook"
+  - heading "Internet of Things" [level=2]
+  - paragraph: Contains a high concentration of botanical, marine, and biological extracts. Has no artificial fragrances.
+  - link "Learn More ❯":
+    - /url: "#"
+  - heading "Customize Infobox With Preset 3" [level=2]
+  - paragraph: You will have multiple customization options to make your Infobox more attractive, useful and impressive for your audiences.
+  - img "macbook"
+  - heading "Features Style 1" [level=2]
+  - paragraph: Defending yourself against cyber attacks is best done with advanced, self-learning artificial intelligence.
+  - link "Learn More ❯":
+    - /url: "#"
+  - img "macbook"
+  - heading "Features Style 2" [level=2]
+  - paragraph: Defending yourself against cyber attacks is best done with advanced, self-learning artificial intelligence.
+  - link "Learn More ❯":
+    - /url: "#"
+  - img "macbook"
+  - heading "Features Style 3" [level=2]
+  - paragraph: Defending yourself against cyber attacks is best done with advanced, self-learning artificial intelligence.
+  - link "Learn More ❯":
+    - /url: "#"
+  - img "macbook"
+  - heading "Features Style 4" [level=2]
+  - paragraph: Defending yourself against cyber attacks is best done with advanced, self-learning artificial intelligence.
+  - link "Learn More ❯":
+    - /url: "#"
+  - img "macbook"
+  - heading "Features Style 5" [level=2]
+  - paragraph: Defending yourself against cyber attacks is best done with advanced, self-learning artificial intelligence.
+  - link "Learn More ❯":
+    - /url: "#"
+  - img "macbook"
+  - heading "Features Style 6" [level=2]
+  - paragraph: Defending yourself against cyber attacks is best done with advanced, self-learning artificial intelligence.
+  - link "Learn More ❯":
+    - /url: "#"
+  - heading "Make Impressive Infobox With Preset 4" [level=2]
+  - paragraph: You can design and style the Infobox with different colors, shape and make it more appealing for your audiences
+  - img "macbook"
+  - heading "100% Organic" [level=2]
+  - paragraph: Contains a high concentration of botanical, marine, and biological extracts. Has no artificial fragrances. Contains high-quality active ingredients.
+  - link "Learn More ❯":
+    - /url: "#"
+  - img "macbook"
+  - heading "Natural Ingredient" [level=2]
+  - paragraph: Contains a high concentration of botanical, marine, and biological extracts. Has no artificial fragrances. Contains high-quality active ingredients.
+  - link "Learn More ❯":
+    - /url: "#"
+  - img "macbook"
+  - heading "Full Recyclable" [level=2]
+  - paragraph: Contains a high concentration of botanical, marine, and biological extracts. Has no artificial fragrances. Contains high-quality active ingredients.
+  - link "Learn More ❯":
+    - /url: "#"

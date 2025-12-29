@@ -1,0 +1,14 @@
+- main:
+  - heading "taxonomy" [level=2]
+  - heading "Display Personalized Content Experiences Using Taxonomy Block" [level=1]:
+    - text: Display Personalized Content Experiences Using
+    - mark: Taxonomy Block
+  - paragraph: Essential Addons’ Taxonomy block simplifies categorizing and presenting your content by presenting categories and tags to enhance navigation and improve user experience.
+  - link "Get Started ":
+    - /url: https://essential-blocks.com/#pricing
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/eb-taxonomy/
+  - figure:
+    - img "Taxonomy"
+  - figure:
+    - img "Taxonomy"

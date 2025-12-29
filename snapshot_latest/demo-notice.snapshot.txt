@@ -1,0 +1,42 @@
+- main:
+  - img "Notice"
+  - heading "Notice" [level=1]
+  - paragraph: Display all exciting Notices with Essential Blocks for Gutenberg. Let your visitors know about announcements, offers, special deals, discounts, etc, and make your site look more interesting with the Gutenberg notice bar.
+  - link "Get Started FREE ":
+    - /url: https://wordpress.org/plugins/essential-blocks
+  - figure:
+    - img "Notice"
+  - figure:
+    - img "Notice"
+  - img "macbook"
+  - heading "Limitless Content Customization" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Responsive Preview Controls" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Infinite Styling Possibilities" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "45+ Advanced Gutenberg Blocks" [level=3]
+  - paragraph
+  - heading "Create Notice By Following Easy Tutorial" [level=2]
+  - figure:
+    - iframe
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/notice
+  - heading "Configure Notice With Default Layout" [level=2]
+  - paragraph: Showcase any notice with ‘Default’ layout from the general settings of Essential Blocks Notice by customizing text and color with full freedom
+  - text: Save 20% × Free shipping on all orders Save Up To 50% Free shipping on all orders Save Up TO 70% Free shipping on all orders
+  - heading "Design Announcement With Success Layout" [level=2]
+  - paragraph: Share your success with visitors by showcasing an eye-catchy announcement by styling it and let your customers know about your achievements
+  - text: Congratulations! × You Have Got A New Coupon Hurray! You Have Been Promoted To Platinum User! Congratulations You Have Successfully Purchased. Thank You
+  - heading "Display Notice Using Warning Layout" [level=2]
+  - paragraph: Pick ‘Warning’ Layout for displaying any deading of discounts and special deals so that your visitors don’t miss the offers
+  - text: Hurry Up! Last Day Of Flat 50% Discount! Warning! Stormy Weather Today URGENT ! × Our Outlet Is Close Till Next Notice!
+  - heading "Showcase Alarming Notice With Danger Layout" [level=2]
+  - paragraph: Notify any red alert with the ‘Danger’ layout of Essential Blocks Notice and protect your visitors from anything harmful
+  - text: ATTENTION PLEASE ! × Our Online Payment Is Currently Closed DANGEROUS CURRENT Don’t Swim 4-7 PM DANGER ALERT × Strong Stream Time. Stay Safe ATTENTION! We Don’t Have Agent! So, Pay Wisely!
+  - heading "Declare Important News With Info Layout" [level=2]
+  - paragraph: Showcase important news with ‘Info’ layout and customize it with different shapes, also check out the crossable options for notices
+  - text: Get New Blogs Everyday! × Keep Visiting Us! New Arrivals Coming Soon! Keep Eyes On Our Website We Are Close Today! Hope To See You Tomorrow! We Are Open Till 10 PM! × Visit Us Soon!

@@ -1,0 +1,341 @@
+- main:
+  - img "Post Grid"
+  - heading "Post Grid" [level=1]
+  - paragraph: Display all exciting blogs on your website with stunning appearance using Post Grid of Essential Blocks for Gutenberg. Make your blog page or posts look outstanding with stunning and interactive visualization for your blogs in versatile layouts.
+  - link "Get Started FREE ":
+    - /url: https://wordpress.org/plugins/essential-blocks
+  - figure:
+    - img "Post Grid"
+  - figure:
+    - img "Post Grid"
+  - img "macbook"
+  - heading "Limitless Content Customization" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Responsive Preview Controls" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Infinite Styling Possibilities" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "45+ Advanced Gutenberg Blocks" [level=3]
+  - paragraph
+  - heading "Create Post Grid By Following Easy Tutorial" [level=2]
+  - figure:
+    - iframe
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/eb-post-grid/
+  - heading "Display Post Grid With Default Layout Style 1" [level=2]:
+    - strong: Display Post Grid With Default Layout Style 1
+  - paragraph: Showcase your latest blogs with an interactive post grid showing category, author name, and author image on the website landing page
+  - article:
+    - link "How to Design Interactive Maps on Your Gutenberg Website for Easy Navigation":
+      - /url: https://essential-blocks.com/design-interactive-maps-on-gutenberg/
+    - img "design interactive map"
+    - heading "How to Design Interactive Maps on Your Gutenberg Website for Easy Navigation" [level=2]:
+      - link "How to Design Interactive Maps on Your Gutenberg Website for Easy Navigation":
+        - /url: https://essential-blocks.com/design-interactive-maps-on-gutenberg/
+    - link "Guide":
+      - /url: https://essential-blocks.com/category/guide/
+    - link "Gutenberg":
+      - /url: https://essential-blocks.com/category/gutenberg/
+    - paragraph: Learn how to design interactive map experiences in Gutenberg using Google Maps, Essential Blocks, and
+    - link "azreen":
+      - /url: https://essential-blocks.com/author/azreen/
+      - img "azreen"
+    - text: by
+    - link "azreen":
+      - /url: https://essential-blocks.com/author/azreen/
+  - article:
+    - link "5+ WordPress Plugins for Website Design You Need for Black Friday":
+      - /url: https://essential-blocks.com/website-design-wordpress-plugins-bfcm/
+    - img "wordpress plugins for website design"
+    - heading "5+ WordPress Plugins for Website Design You Need for Black Friday" [level=2]:
+      - link "5+ WordPress Plugins for Website Design You Need for Black Friday":
+        - /url: https://essential-blocks.com/website-design-wordpress-plugins-bfcm/
+    - link "Gutenberg":
+      - /url: https://essential-blocks.com/category/gutenberg/
+    - link "WordPress":
+      - /url: https://essential-blocks.com/category/wordpress/
+    - paragraph: Supercharge Black Friday workflows with WordPress plugins for website design featuring AI tools, ready templates
+    - link "azreen":
+      - /url: https://essential-blocks.com/author/azreen/
+      - img "azreen"
+    - text: by
+    - link "azreen":
+      - /url: https://essential-blocks.com/author/azreen/
+  - article:
+    - link "How to Show Opening And Closing Hours in Gutenberg Website":
+      - /url: https://essential-blocks.com/how-to-show-opening-and-closing-hours/
+    - img "How to Show Opening And Closing Hours in Gutenberg Website"
+    - heading "How to Show Opening And Closing Hours in Gutenberg Website" [level=2]:
+      - link "How to Show Opening And Closing Hours in Gutenberg Website":
+        - /url: https://essential-blocks.com/how-to-show-opening-and-closing-hours/
+    - link "Announcement":
+      - /url: https://essential-blocks.com/category/announcement/
+    - link "Tutorial":
+      - /url: https://essential-blocks.com/category/tutorial/
+    - link "Update":
+      - /url: https://essential-blocks.com/category/announcement/update/
+    - paragraph: Want to display your opening and closing hours beautifully on your WordPress site? Learn how
+    - link "Maahi":
+      - /url: https://essential-blocks.com/author/maahi/
+      - img "Maahi"
+    - text: by
+    - link "Maahi":
+      - /url: https://essential-blocks.com/author/maahi/
+  - article:
+    - 'link "Vote for Essential Blocks in WP Awards 2025: Nominated in the Best Block Builders (Gutenberg) Category"':
+      - /url: https://essential-blocks.com/wp-awards-2025-best-block-builders-gutenberg/
+    - img "best WordPress block Essential Blocks WP awards"
+    - 'heading "Vote for Essential Blocks in WP Awards 2025: Nominated in the Best Block Builders (Gutenberg) Category" [level=2]':
+      - 'link "Vote for Essential Blocks in WP Awards 2025: Nominated in the Best Block Builders (Gutenberg) Category"':
+        - /url: https://essential-blocks.com/wp-awards-2025-best-block-builders-gutenberg/
+    - link "News":
+      - /url: https://essential-blocks.com/category/announcement/news/
+    - link "WordPress":
+      - /url: https://essential-blocks.com/category/wordpress/
+    - paragraph: We’re thrilled to announce that Essential Blocks is nominated in the Best Block Builders (Gutenberg)
+    - link "Faguni":
+      - /url: https://essential-blocks.com/author/faguni/
+      - img "Faguni"
+    - text: by
+    - link "Faguni":
+      - /url: https://essential-blocks.com/author/faguni/
+  - article:
+    - link "How to Design Your Gutenberg Website with Liquid Glass Effect in Minutes":
+      - /url: https://essential-blocks.com/design-website-with-liquid-glass-effect/
+    - img "How to Design Your Gutenberg Website with Liquid Glass Effect in Minutes"
+    - heading "How to Design Your Gutenberg Website with Liquid Glass Effect in Minutes" [level=2]:
+      - link "How to Design Your Gutenberg Website with Liquid Glass Effect in Minutes":
+        - /url: https://essential-blocks.com/design-website-with-liquid-glass-effect/
+    - link "Guide":
+      - /url: https://essential-blocks.com/category/guide/
+    - link "Gutenberg":
+      - /url: https://essential-blocks.com/category/gutenberg/
+    - paragraph: Learn how to design your Gutenberg website with liquid glass Effect quickly and easily using
+    - link "Fatin":
+      - /url: https://essential-blocks.com/author/fatin/
+      - img "Fatin"
+    - text: by
+    - link "Fatin":
+      - /url: https://essential-blocks.com/author/fatin/
+  - article:
+    - 'link "New Milestone for Essential Blocks: Elevating Gutenberg Web Design Flow for 200k+ WordPress Websites"':
+      - /url: https://essential-blocks.com/milestone-web-design-flow-for-200k-websites/
+    - 'img "Essential Blocks New Milestone: Elevating Web Design Flow for 200k+ WordPress Websites"'
+    - 'heading "New Milestone for Essential Blocks: Elevating Gutenberg Web Design Flow for 200k+ WordPress Websites" [level=2]':
+      - 'link "New Milestone for Essential Blocks: Elevating Gutenberg Web Design Flow for 200k+ WordPress Websites"':
+        - /url: https://essential-blocks.com/milestone-web-design-flow-for-200k-websites/
+    - link "Announcement":
+      - /url: https://essential-blocks.com/category/announcement/
+    - link "News":
+      - /url: https://essential-blocks.com/category/announcement/news/
+    - link "WordPress":
+      - /url: https://essential-blocks.com/category/wordpress/
+    - paragraph: Essential Blocks has reached a remarkable milestone — powering the web design flow of 200,000+
+    - link "Faguni":
+      - /url: https://essential-blocks.com/author/faguni/
+      - img "Faguni"
+    - text: by
+    - link "Faguni":
+      - /url: https://essential-blocks.com/author/faguni/
+  - heading "Highlight Taxonomy In Post Grid" [level=2]:
+    - strong: Highlight Taxonomy In Post Grid
+  - paragraph: Showcase your post and pages categories, post types, tags, keywords, etc Taxonomies filter to feature important ones on your website with absolute ease
+  - list:
+    - listitem: All
+    - listitem: Gutenberg
+    - listitem: Tutorial
+    - listitem: News
+    - listitem: WordPress
+  - article:
+    - link "How to Design Interactive Maps on Your Gutenberg Website for Easy Navigation":
+      - /url: https://essential-blocks.com/design-interactive-maps-on-gutenberg/
+    - img "design interactive map"
+    - heading "How to Design Interactive Maps on Your Gutenberg Website for Easy Navigation" [level=2]:
+      - link "How to Design Interactive Maps on Your Gutenberg Website for Easy Navigation":
+        - /url: https://essential-blocks.com/design-interactive-maps-on-gutenberg/
+    - text: on December 15, 2025  10 minutes read
+    - paragraph: Learn how to design interactive map experiences in Gutenberg using Google Maps, Essential Blocks, and smart UX tactics to elevate
+  - article:
+    - link "5+ WordPress Plugins for Website Design You Need for Black Friday":
+      - /url: https://essential-blocks.com/website-design-wordpress-plugins-bfcm/
+    - img "wordpress plugins for website design"
+    - heading "5+ WordPress Plugins for Website Design You Need for Black Friday" [level=2]:
+      - link "5+ WordPress Plugins for Website Design You Need for Black Friday":
+        - /url: https://essential-blocks.com/website-design-wordpress-plugins-bfcm/
+    - text: on November 27, 2025  6 minutes read
+    - paragraph: Supercharge Black Friday workflows with WordPress plugins for website design featuring AI tools, ready templates and scalable builders to launch
+  - article:
+    - link "How to Show Opening And Closing Hours in Gutenberg Website":
+      - /url: https://essential-blocks.com/how-to-show-opening-and-closing-hours/
+    - img "How to Show Opening And Closing Hours in Gutenberg Website"
+    - heading "How to Show Opening And Closing Hours in Gutenberg Website" [level=2]:
+      - link "How to Show Opening And Closing Hours in Gutenberg Website":
+        - /url: https://essential-blocks.com/how-to-show-opening-and-closing-hours/
+    - text: on November 11, 2025  7 minutes read
+    - paragraph: Want to display your opening and closing hours beautifully on your WordPress site? Learn how to use the new Opening
+  - heading "Showcase Preset 2 & Customize General Settings" [level=2]:
+    - strong: Showcase Preset 2 & Customize General Settings
+  - paragraph: Configure the post grid and showcase it on your website landing page with the date, also customize the excerpt size accordingly
+  - article:
+    - 'link "Vote for Essential Blocks in WP Awards 2025: Nominated in the Best Block Builders (Gutenberg) Category"':
+      - /url: https://essential-blocks.com/wp-awards-2025-best-block-builders-gutenberg/
+    - img "best WordPress block Essential Blocks WP awards"
+    - 'heading "Vote for Essential Blocks in WP Awards 2025: Nominated in the Best Block Builders (Gutenberg) Category" [level=2]':
+      - 'link "Vote for Essential Blocks in WP Awards 2025: Nominated in the Best Block Builders (Gutenberg) Category"':
+        - /url: https://essential-blocks.com/wp-awards-2025-best-block-builders-gutenberg/
+    - text: on October 31, 2025
+    - paragraph: We’re thrilled to announce that Essential Blocks is nominated in the Best Block Builders (Gutenberg) category at WP Awards 2025!
+    - link "Faguni":
+      - /url: https://essential-blocks.com/author/faguni/
+      - img "Faguni"
+    - text: by
+    - link "Faguni":
+      - /url: https://essential-blocks.com/author/faguni/
+  - article:
+    - link "How to Design Your Gutenberg Website with Liquid Glass Effect in Minutes":
+      - /url: https://essential-blocks.com/design-website-with-liquid-glass-effect/
+    - img "How to Design Your Gutenberg Website with Liquid Glass Effect in Minutes"
+    - heading "How to Design Your Gutenberg Website with Liquid Glass Effect in Minutes" [level=2]:
+      - link "How to Design Your Gutenberg Website with Liquid Glass Effect in Minutes":
+        - /url: https://essential-blocks.com/design-website-with-liquid-glass-effect/
+    - text: on September 24, 2025
+    - paragraph: Learn how to design your Gutenberg website with liquid glass Effect quickly and easily using Essential Blocks.
+    - link "Fatin":
+      - /url: https://essential-blocks.com/author/fatin/
+      - img "Fatin"
+    - text: by
+    - link "Fatin":
+      - /url: https://essential-blocks.com/author/fatin/
+  - article:
+    - 'link "New Milestone for Essential Blocks: Elevating Gutenberg Web Design Flow for 200k+ WordPress Websites"':
+      - /url: https://essential-blocks.com/milestone-web-design-flow-for-200k-websites/
+    - 'img "Essential Blocks New Milestone: Elevating Web Design Flow for 200k+ WordPress Websites"'
+    - 'heading "New Milestone for Essential Blocks: Elevating Gutenberg Web Design Flow for 200k+ WordPress Websites" [level=2]':
+      - 'link "New Milestone for Essential Blocks: Elevating Gutenberg Web Design Flow for 200k+ WordPress Websites"':
+        - /url: https://essential-blocks.com/milestone-web-design-flow-for-200k-websites/
+    - text: on September 15, 2025
+    - paragraph: Essential Blocks has reached a remarkable milestone — powering the web design flow of 200,000+ WordPress websites worldwide. With over
+    - link "Faguni":
+      - /url: https://essential-blocks.com/author/faguni/
+      - img "Faguni"
+    - text: by
+    - link "Faguni":
+      - /url: https://essential-blocks.com/author/faguni/
+  - button "<" [disabled]
+  - button "1"
+  - button "2"
+  - button "3"
+  - button "..."
+  - button "59"
+  - button ">"
+  - heading "Create Post Grid With Layout Style 3" [level=2]:
+    - strong: Create Post Grid With Layout Style 3
+  - paragraph: Style Post Grid by showcasing date, author name, and author image, also add a ‘Load More’ button to give a CTA to the audience
+  - article:
+    - link "5+ WordPress Plugins for Website Design You Need for Black Friday":
+      - /url: https://essential-blocks.com/website-design-wordpress-plugins-bfcm/
+    - img "wordpress plugins for website design"
+    - heading "5+ WordPress Plugins for Website Design You Need for Black Friday" [level=2]:
+      - link "5+ WordPress Plugins for Website Design You Need for Black Friday":
+        - /url: https://essential-blocks.com/website-design-wordpress-plugins-bfcm/
+    - text: on November 27, 2025
+    - paragraph: Supercharge Black Friday workflows with WordPress plugins for website design featuring AI tools, ready templates
+    - link "azreen":
+      - /url: https://essential-blocks.com/author/azreen/
+      - img "azreen"
+    - text: by
+    - link "azreen":
+      - /url: https://essential-blocks.com/author/azreen/
+  - article:
+    - link "How to Show Opening And Closing Hours in Gutenberg Website":
+      - /url: https://essential-blocks.com/how-to-show-opening-and-closing-hours/
+    - img "How to Show Opening And Closing Hours in Gutenberg Website"
+    - heading "How to Show Opening And Closing Hours in Gutenberg Website" [level=2]:
+      - link "How to Show Opening And Closing Hours in Gutenberg Website":
+        - /url: https://essential-blocks.com/how-to-show-opening-and-closing-hours/
+    - text: on November 11, 2025
+    - paragraph: Want to display your opening and closing hours beautifully on your WordPress site? Learn how
+    - link "Maahi":
+      - /url: https://essential-blocks.com/author/maahi/
+      - img "Maahi"
+    - text: by
+    - link "Maahi":
+      - /url: https://essential-blocks.com/author/maahi/
+  - article:
+    - 'link "Vote for Essential Blocks in WP Awards 2025: Nominated in the Best Block Builders (Gutenberg) Category"':
+      - /url: https://essential-blocks.com/wp-awards-2025-best-block-builders-gutenberg/
+    - img "best WordPress block Essential Blocks WP awards"
+    - 'heading "Vote for Essential Blocks in WP Awards 2025: Nominated in the Best Block Builders (Gutenberg) Category" [level=2]':
+      - 'link "Vote for Essential Blocks in WP Awards 2025: Nominated in the Best Block Builders (Gutenberg) Category"':
+        - /url: https://essential-blocks.com/wp-awards-2025-best-block-builders-gutenberg/
+    - text: on October 31, 2025
+    - paragraph: We’re thrilled to announce that Essential Blocks is nominated in the Best Block Builders (Gutenberg)
+    - link "Faguni":
+      - /url: https://essential-blocks.com/author/faguni/
+      - img "Faguni"
+    - text: by
+    - link "Faguni":
+      - /url: https://essential-blocks.com/author/faguni/
+  - button "Load More"
+  - heading "Display A List View Post Grid With Style 4" [level=2]:
+    - strong:
+      - strong: Display A List View Post Grid With Style 4
+  - paragraph: Pick Preset 4 Layout for displaying a list view Post Grid to create an elegant look on your site so that audience can easily choose one
+  - article:
+    - link "How to Design Interactive Maps on Your Gutenberg Website for Easy Navigation":
+      - /url: https://essential-blocks.com/design-interactive-maps-on-gutenberg/
+    - img "design interactive map"
+    - heading "How to Design Interactive Maps on Your Gutenberg Website for Easy Navigation" [level=2]:
+      - link "How to Design Interactive Maps on Your Gutenberg Website for Easy Navigation":
+        - /url: https://essential-blocks.com/design-interactive-maps-on-gutenberg/
+    - text: on December 15, 2025
+    - paragraph: Learn how to design interactive map experiences in Gutenberg using Google Maps, Essential Blocks, and
+  - article:
+    - link "5+ WordPress Plugins for Website Design You Need for Black Friday":
+      - /url: https://essential-blocks.com/website-design-wordpress-plugins-bfcm/
+    - img "wordpress plugins for website design"
+    - heading "5+ WordPress Plugins for Website Design You Need for Black Friday" [level=2]:
+      - link "5+ WordPress Plugins for Website Design You Need for Black Friday":
+        - /url: https://essential-blocks.com/website-design-wordpress-plugins-bfcm/
+    - text: on November 27, 2025
+    - paragraph: Supercharge Black Friday workflows with WordPress plugins for website design featuring AI tools, ready templates
+  - article:
+    - link "How to Show Opening And Closing Hours in Gutenberg Website":
+      - /url: https://essential-blocks.com/how-to-show-opening-and-closing-hours/
+    - img "How to Show Opening And Closing Hours in Gutenberg Website"
+    - heading "How to Show Opening And Closing Hours in Gutenberg Website" [level=2]:
+      - link "How to Show Opening And Closing Hours in Gutenberg Website":
+        - /url: https://essential-blocks.com/how-to-show-opening-and-closing-hours/
+    - text: on November 11, 2025
+    - paragraph: Want to display your opening and closing hours beautifully on your WordPress site? Learn how
+  - heading "Showcase Style 5 With Content Overlay" [level=2]:
+    - strong: Showcase Style 5 With Content Overlay
+  - paragraph: Display Post Grid on your website with content overlay, date, load more button, etc, and create a stunning section to showcase an exclusive CTA for your blogs
+  - article:
+    - 'link "Vote for Essential Blocks in WP Awards 2025: Nominated in the Best Block Builders (Gutenberg) Category"':
+      - /url: https://essential-blocks.com/wp-awards-2025-best-block-builders-gutenberg/
+    - img "best WordPress block Essential Blocks WP awards"
+    - 'heading "Vote for Essential Blocks in WP Awards 2025: Nominated in the Best Block Builders (Gutenberg) Category" [level=2]':
+      - 'link "Vote for Essential Blocks in WP Awards 2025: Nominated in the Best Block Builders (Gutenberg) Category"':
+        - /url: https://essential-blocks.com/wp-awards-2025-best-block-builders-gutenberg/
+    - text: on October 31, 2025
+  - article:
+    - link "How to Design Your Gutenberg Website with Liquid Glass Effect in Minutes":
+      - /url: https://essential-blocks.com/design-website-with-liquid-glass-effect/
+    - img "How to Design Your Gutenberg Website with Liquid Glass Effect in Minutes"
+    - heading "How to Design Your Gutenberg Website with Liquid Glass Effect in Minutes" [level=2]:
+      - link "How to Design Your Gutenberg Website with Liquid Glass Effect in Minutes":
+        - /url: https://essential-blocks.com/design-website-with-liquid-glass-effect/
+    - text: on September 24, 2025
+  - article:
+    - 'link "New Milestone for Essential Blocks: Elevating Gutenberg Web Design Flow for 200k+ WordPress Websites"':
+      - /url: https://essential-blocks.com/milestone-web-design-flow-for-200k-websites/
+    - 'img "Essential Blocks New Milestone: Elevating Web Design Flow for 200k+ WordPress Websites"'
+    - 'heading "New Milestone for Essential Blocks: Elevating Gutenberg Web Design Flow for 200k+ WordPress Websites" [level=2]':
+      - 'link "New Milestone for Essential Blocks: Elevating Gutenberg Web Design Flow for 200k+ WordPress Websites"':
+        - /url: https://essential-blocks.com/milestone-web-design-flow-for-200k-websites/
+    - text: on September 15, 2025
+  - button "Load More"

@@ -1,0 +1,19 @@
+- main:
+  - heading "Post Meta" [level=2]
+  - heading "Dynamically Display Posts Info & Customize Smoothly With Post Meta Block" [level=1]:
+    - text: Dynamically Display Posts Info & Customize Smoothly With
+    - mark: Post Meta Block
+  - paragraph: Fetch key information like SKU, author, and publish date effortlessly, showcase your product pages, and post metadata anywhere on the website. Customize labels, alignment, order, and more to complement your content and brand.
+  - link "Get Started ":
+    - /url: https://essential-blocks.com/#pricing
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/eb-post-meta/
+  - figure:
+    - img "Post Meta"
+  - text: " Author:"
+  - link "Shariful Islam":
+    - /url: https://essential-blocks.com/author/shaikat/
+  - text: " Published Date: September 12, 2024  Author:"
+  - link "Shariful Islam":
+    - /url: https://essential-blocks.com/author/shaikat/
+  - text: " Published Date: September 12, 2024"

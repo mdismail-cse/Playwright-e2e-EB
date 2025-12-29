@@ -1,0 +1,95 @@
+- main:
+  - img "Interactive Promo"
+  - heading "Interactive Promo" [level=1]
+  - paragraph: Decorate your website with Interactive Promo block and let your visitors get an attractive website outlook with its amazing promo effects. You can use this block as alternative to call to action and redirect visitors.
+  - link "Get Started FREE ":
+    - /url: https://wordpress.org/plugins/essential-blocks
+  - figure:
+    - img "Interactive Promo"
+  - figure:
+    - img "Interactive Promo"
+  - img "macbook"
+  - heading "Limitless Content Customization" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Responsive Preview Controls" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Infinite Styling Possibilities" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "45+ Advanced Gutenberg Blocks" [level=3]
+  - paragraph
+  - heading "Create Interactive Promo By Following Easy Tutorial" [level=2]
+  - figure:
+    - iframe
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/interactive-promo
+  - figure "INTERACTIVE PROMO APOLLO LAYOUT EXPLORE TO GET ALL PROMO EFFECTS":
+    - img "image"
+    - heading "INTERACTIVE PROMO APOLLO LAYOUT" [level=2]
+    - paragraph: EXPLORE TO GET ALL PROMO EFFECTS
+  - heading "Design With 22 Attractive Layouts" [level=2]
+  - paragraph: Showcase your website with any of these 22 attractive promo effects by creating amazing content for the audience and make your site outstanding
+  - figure "CLASSY BUBBA LAYOUT EXPLORE TO GET ALL PROMO EFFECTS":
+    - img "image"
+    - heading "CLASSY BUBBA LAYOUT" [level=2]
+    - paragraph: EXPLORE TO GET ALL PROMO EFFECTS
+  - figure "ACUTE DEXTER LAYOUT EXPLORE TO GET ALL PROMO EFFECTS":
+    - img "image"
+    - heading "ACUTE DEXTER LAYOUT" [level=2]
+    - paragraph: EXPLORE TO GET ALL PROMO EFFECTS
+  - figure "BEAUTIFUL DUKE LAYOUT Explore To Get All Promo Effects":
+    - img "image"
+    - heading "BEAUTIFUL DUKE LAYOUT" [level=2]
+    - paragraph: Explore To Get All Promo Effects
+  - heading "Customize The Interactive Promo Block" [level=2]
+  - paragraph: Choose any layout from the Interactive Promo block, customize it according to your choice and make unique pages and posts
+  - figure "POLISHED GOLIATH LAYOUT EXPLORE TO GET ALL PROMO EFFECTS":
+    - img "image"
+    - heading "POLISHED GOLIATH LAYOUT" [level=2]
+    - paragraph: EXPLORE TO GET ALL PROMO EFFECTS
+  - figure "SIMPLE JULIA LAYOUT Explore To Get All Promo Effects":
+    - img "image"
+    - heading "SIMPLE JULIA LAYOUT" [level=2]
+    - paragraph: Explore To Get All Promo Effects
+  - figure "STUNNING LAYLA LAYOUT Explore To Get All Promo Effects":
+    - img "image"
+    - heading "STUNNING LAYLA LAYOUT" [level=2]
+    - paragraph: Explore To Get All Promo Effects
+  - figure "STYLISH LEXI LAYOUT Explore To Get All Promo Effects":
+    - img "image"
+    - heading "STYLISH LEXI LAYOUT" [level=2]
+    - paragraph: Explore To Get All Promo Effects
+  - heading "Configure Interactive Promo General Tab" [level=2]
+  - paragraph: Pick any layout from general tab and configure height, width, image alt tag, header, content text,alignments, etc, also, add links
+  - figure "GORGEOUS MARKEY LAYOUT Explore To Get All Promo Effects":
+    - img "image"
+    - heading "GORGEOUS MARKEY LAYOUT" [level=2]
+    - paragraph: Explore To Get All Promo Effects
+  - figure "UNIQUE MING LAYOUT Explore To Get All Promo Effects":
+    - img "image"
+    - heading "UNIQUE MING LAYOUT" [level=2]
+    - paragraph: Explore To Get All Promo Effects
+  - figure "UNIQUE MING LAYOUT Explore To Get All Promo Effects":
+    - img "image"
+    - heading "UNIQUE MING LAYOUT" [level=2]
+    - paragraph: Explore To Get All Promo Effects
+  - heading "Personalize Interactive Promo From Style Tab" [level=2]
+  - paragraph: Decorate the Essential Blocks Interactive Promo block from the style tab with color and typography of your choice to make it stunning
+  - figure "STYLISH MOSES LAYOUT Explore To Get All Promo Effects":
+    - img "image"
+    - heading "STYLISH MOSES LAYOUT" [level=2]
+    - paragraph: Explore To Get All Promo Effects
+  - figure "PRETTY RUBY LAYOUT Explore To Get All Promo Effects":
+    - img "image"
+    - heading "PRETTY RUBY LAYOUT" [level=2]
+    - paragraph: Explore To Get All Promo Effects
+  - figure "GLOSSY ROXY LAYOUT Explore To Get All Promo Effects":
+    - img "image"
+    - heading "GLOSSY ROXY LAYOUT" [level=2]
+    - paragraph: Explore To Get All Promo Effects
+  - figure "BEAUTIFUL OSCAR LAYOUT Explore To Get All Promo Effects":
+    - img "image"
+    - heading "BEAUTIFUL OSCAR LAYOUT" [level=2]
+    - paragraph: Explore To Get All Promo Effects

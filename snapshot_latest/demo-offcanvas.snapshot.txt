@@ -1,0 +1,54 @@
+- main:
+  - heading "Offcanvas" [level=2]
+  - heading "Interactively Reveal Stunning Sidebar Content With Offcanvas" [level=1]:
+    - text: Interactively Reveal Stunning Sidebar Content With
+    - mark: Offcanvas
+  - paragraph: Unveil information with engaging transitions on your website using the Offcanvas block’s distinctive customization features. Keep your content neatly tucked away until needed, creating a cleaner and more organized website.
+  - link "Get Started ":
+    - /url: https://essential-blocks.com/#pricing
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/eb-offcanvas/
+  - figure:
+    - img "Offcanvas"
+  - heading "Showcase Offcanvas Content In Different Directions" [level=2]
+  - paragraph: Seamlessly display dynamic offcanvas panels that emerge effortlessly, cascading from left, right, top & bottom with stunning effects.
+  - button ""
+  - button "Left"
+  - button "Right"
+  - figure:
+    - img "Offcanvas"
+  - heading "Reveal Offcanvas Content By Triggering External Element" [level=2]
+  - paragraph: Link the Offcanvas to any external block and watch as the menu bars and panels appear elegantly, providing instant access to all the information.
+  - figure:
+    - img "Offcanvas"
+  - figure:
+    - img "Offcanvas"
+  - figure:
+    - img "Offcanvas"
+  - heading "Present Your Offcanvas Type From Any Position" [level=2]
+  - paragraph: Revel in menus by positioning your offcanvas trigger content in line with your site layout for a harmonious flow, or let it float for a visual statement.
+  - figure:
+    - img "Offcanvas"
+  - button " Open Offcanvas"
+  - figure:
+    - img "Offcanvas"
+  - heading "Craft Beautiful Offcanvas Menu Transition" [level=2]
+  - paragraph: Present all your necessary information with slides, reveals, pushes, and delightful slide-along transitions with a single click.
+  - button "Left"
+  - button "Push"
+  - button "Right"
+  - button "Slide Along"
+  - heading "Exclusive Offcanvas Block Features" [level=2]
+  - paragraph: "Experience the versatility of Exclusive Offcanvas Block Features: easily position, add dynamic transitions, and integrate external elements using CSS ID or Class Name."
+  - heading "Various Trigger Types" [level=2]
+  - paragraph: Unveil hidden content on your website through various trigger types, whether through a simple button, an interactive button, or any external element.
+  - figure:
+    - img "Offcanvas"
+  - figure:
+    - img "Offcanvas"
+  - heading "Content Transition" [level=2]
+  - paragraph: Elevate your website user experience & captivate the audience with offcanvas’ fluid content transitions (slide/reveal/push/slide-along).
+  - heading "Off Canvas Position" [level=2]
+  - paragraph: Experience the versatility of offcanvas block with any position you prefer on your webpage – seamlessly integrate it inline with your page layout for a sleek feel, or let it float effortlessly with cool transition effects.
+  - figure:
+    - img "Offcanvas"

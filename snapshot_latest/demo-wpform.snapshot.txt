@@ -1,0 +1,125 @@
+- main:
+  - img "macbook"
+  - heading "WPForms" [level=2]
+  - paragraph: Seamlessly create a contact form, subscription form, and more in Gutenberg with WPForm block. Easily create forms with labels, placeholders, background colors, etc.
+  - link "Get Started FREE ":
+    - /url: https://wordpress.org/plugins/essential-blocks
+  - figure:
+    - img "WPForm"
+  - figure:
+    - img "WPForm"
+  - img "macbook"
+  - heading "Limitless Content Customization" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Responsive Preview Controls" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Infinite Styling Possibilities" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "45+ Advanced Gutenberg Blocks" [level=3]
+  - paragraph
+  - heading "Quick Guide To Create WPForms" [level=2]
+  - figure:
+    - iframe
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/eb-wpforms/
+  - heading "WPForm Style 1" [level=2]
+  - paragraph: Easily customize forms in your website with labels & personalized placeholders to make it understandable for newcomers
+  - text: Name *
+  - textbox "Name * First Name * First Name * First Name * First":
+    - /placeholder: First Name
+  - text: First
+  - textbox "Last Last Last Last":
+    - /placeholder: Last Name
+  - text: Last Email *
+  - textbox "Email * Email * Email * Email *":
+    - /placeholder: Email
+  - text: Please Select Your Product *
+  - combobox "Please Select Your Product * Please Select Your Product * Please Select Your Product * Please Select Your Product *":
+    - option "– Please Select –" [disabled] [selected]
+    - option "First Choice"
+    - option "Second Choice"
+    - option "Third Choice"
+  - text: What Would You Like To Add?
+  - textbox "What Would You Like To Add? What Would You Like To Add? What Would You Like To Add? What Would You Like To Add?":
+    - /placeholder: Add Something
+  - text: Please Explain How You’d Like *
+  - textbox "Please Explain How You’d Like * Please Explain How You’d Like * Please Explain How You’d Like * Please Explain How You’d Like *":
+    - /placeholder: Subject About your Inquery
+  - button "Submit Now"
+  - heading "Engaging Subscription Form" [level=2]
+  - paragraph: Effortlessly create subscription forms & add labels, placeholder, and box colors in a beautiful manner to give your form a soothing look
+  - figure:
+    - img "WPForm"
+  - heading "Get The Latest Updates" [level=2]
+  - paragraph: Subscribe now & join 3 Million+ users to keep updated yourself on the latest WordPress
+  - textbox "Email * Email *":
+    - /placeholder: Email Address
+  - button "Subscribe"
+  - heading "WPForm Style 2" [level=2]
+  - paragraph: Add labels, placeholder, and box colors in a beautiful manner to give your contact form a stunning and comforting look to your customers
+  - text: Name *
+  - textbox "First Name"
+  - text: First
+  - textbox "Last Name"
+  - text: Last Email *
+  - textbox "Email"
+  - text: Please Select Your Product *
+  - combobox:
+    - option "– Please Select –" [disabled] [selected]
+    - option "First Choice"
+    - option "Second Choice"
+    - option "Third Choice"
+  - text: What Would You Like To Add?
+  - textbox "Add Something"
+  - text: Please Explain How You’d Like *
+  - textbox "Subject About your Inquery"
+  - button "Submit Now"
+  - heading "WPForm Style 3" [level=2]
+  - paragraph: Maintain proper margin padding, and apply accurate border-radius on your form to properly place it on your WordPress website
+  - text: Name *
+  - textbox "First Name"
+  - text: First
+  - textbox "Last Name"
+  - text: Last Email *
+  - textbox "Email"
+  - text: Please Select Your Product *
+  - combobox:
+    - option "– Please Select –" [disabled] [selected]
+    - option "First Choice"
+    - option "Second Choice"
+    - option "Third Choice"
+  - text: What Would You Like To Add?
+  - textbox "Add Something"
+  - text: Please Explain How You’d Like *
+  - textbox "Subject About your Inquery"
+  - button "Submit Now"
+  - heading "Beautiful Subscription Forms" [level=2]
+  - paragraph: Create appealing subscription forms with input & text area color. Make your form more vibrant for your customer and ensure a superb user experience
+  - figure:
+    - img "WPForm"
+  - heading "Style Subscription Forms" [level=2]
+  - paragraph: Customize the typography or color in the subscription forms seamlessly in Gutenberg
+  - textbox "Email Address"
+  - button "Subscribe"
+  - heading "WPForm Style 4" [level=2]
+  - paragraph: Give your Submit or Contact button a fantastic look by applying versatile color options as well as choosing interactive Border Styles
+  - text: Name *
+  - textbox "First Name"
+  - text: First
+  - textbox "Last Name"
+  - text: Last Email *
+  - textbox "Email"
+  - text: Please Select Your Product *
+  - combobox:
+    - option "– Please Select –" [disabled] [selected]
+    - option "First Choice"
+    - option "Second Choice"
+    - option "Third Choice"
+  - text: What Would You Like To Add?
+  - textbox "Add Something"
+  - text: Please Explain How You’d Like *
+  - textbox "Subject About your Inquery"
+  - button "Submit Now"

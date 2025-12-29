@@ -1,0 +1,54 @@
+- main:
+  - heading "Generate Image With AI" [level=2]
+  - heading "Next-Gen AI Image Generator For Gutenberg Editor" [level=2]
+  - paragraph: Bring ideas to reality with AI-generated images, logos, backgrounds, 3D renders, vectors, or art straight from WordPress for free. Connect OpenAI with your website and get AI images with a click.
+  - link "Get Started ":
+    - /url: https://essential-blocks.com/#pricing
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/ai-image-generator/
+  - figure:
+    - img "Generate Image With AI"
+  - heading "Display Post Metadata In An Organized Way By Sorting Custom Fields" [level=2]
+  - heading "Display Post Metadata In An Organized Way By Sorting Custom Fields" [level=2]
+  - list:
+    - listitem:
+      - img "Generate Image With AI"
+      - heading "Photographic" [level=6]
+    - listitem:
+      - img "Generate Image With AI"
+      - heading "Vector" [level=6]
+    - listitem:
+      - img "Generate Image With AI"
+      - heading "3D" [level=6]
+    - listitem:
+      - img "Generate Image With AI"
+      - heading "Product" [level=6]
+    - listitem:
+      - img "Generate Image With AI"
+      - heading "Background" [level=6]
+  - heading "Get Realistic Photos In Seconds From Your Selected AI Engine" [level=2]
+  - paragraph: Generate high-resolution, lifelike photographic AI images with just a text prompt. Perfect for blog covers, hero sections, or social content.
+  - figure:
+    - img "Generate Image With AI"
+  - heading "Get AI-Generated Image For Default Gutenberg Blocks Right From Editor" [level=2]
+  - figure:
+    - img "Generate Image With AI"
+  - heading "Shape Your AI-Generated Image With Precise Prompts, AI Models, Categories & Resolution" [level=2]
+  - paragraph: Explore the limitless potential of AI by adjusting image attributes, categories, and auto-generated captions and alt text to take your Gutenberg experience to the next level.
+  - heading "AI MODEL" [level=2]
+  - figure:
+    - img "Generate Image With AI"
+  - heading "PROMT" [level=2]
+  - figure:
+    - img "Generate Image With AI"
+  - heading "TYPE" [level=2]
+  - figure:
+    - img "Generate Image With AI"
+  - heading "OUTPUT FORMAT" [level=2]
+  - figure:
+    - img "Generate Image With AI"
+  - heading "IMAGE QUALITY" [level=2]
+  - figure:
+    - img "Generate Image With AI"
+  - figure:
+    - img "Generate Image With AI"

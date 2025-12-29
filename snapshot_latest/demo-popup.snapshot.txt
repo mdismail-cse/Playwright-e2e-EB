@@ -1,0 +1,55 @@
+- main:
+  - img "Popup"
+  - heading "Popup" [level=1]
+  - paragraph: Create a stunning popup in Gutenberg using Essential Blocks Popup. You can easily run marketing campaigns, collect leads, design stunning notification bars, and take full control over trigger styles while showcasing popups & much more.
+  - link "Get Started FREE ":
+    - /url: https://wordpress.org/plugins/essential-blocks
+  - figure:
+    - img "Popup"
+  - figure:
+    - img "Popup"
+  - img "Popup"
+  - heading "Limitless Content Customization" [level=3]
+  - paragraph
+  - img "Popup"
+  - heading "Responsive Preview Controls" [level=3]
+  - paragraph
+  - img "Popup"
+  - heading "Infinite Styling Possibilities" [level=3]
+  - paragraph
+  - img "Popup"
+  - heading "45+ Advanced Gutenberg Blocks" [level=3]
+  - paragraph
+  - heading "How To Create Popup In Gutenberg?" [level=2]
+  - figure:
+    - iframe
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/eb-popup/
+  - heading "Showcase Popup By Button Click" [level=2]
+  - paragraph: Instantly show a stunning popup on your website when your visitors click on the buttons. Customize the button with engaging icons and other handy controls
+  - button "Click To See Demo":
+    - paragraph: Click To See Demo
+  - figure:
+    - img "Popup"
+  - figure:
+    - img "Popup"
+  - heading "Display Popup After Clicking On Any Element" [level=2]
+  - paragraph: Be it a heading, image, icon, video, or any external block of your webpage, you can showcase a popup by clicking external blocks, also set auto exit time to boost your conversion rates
+  - heading "Click Here To See Popup In Action" [level=2]
+  - heading "Show Popup On Page Loading" [level=2]
+  - paragraph: Grab your visitors attention right after landing on your website with attractive popups and guide them to take immediate actions using Essential Blocks’ Popup block
+  - figure:
+    - img "Popup"
+  - figure:
+    - img "Popup"
+  - heading "Integrate Versatile Blocks In Popups" [level=2]
+  - paragraph: Make your popup content unique by inserting any Gutenberg blocks and designing it as you wish to create a compelling popup on your WordPress website
+  - button "Check Out Demo":
+    - paragraph: Check Out Demo
+  - heading "Apply Advanced Settings & Triggers Options" [level=2]
+  - paragraph: Style your popup window with advanced settings, like responsive control, animation, background type, set cookies and attract your visitors without any hassle
+  - button " Check Popup":
+    - text: 
+    - paragraph: Check Popup
+  - figure:
+    - img "Popup"

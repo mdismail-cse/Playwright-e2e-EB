@@ -1,0 +1,337 @@
+- main:
+  - img "Woo Product Grid"
+  - heading "Woo Product Grid" [level=1]
+  - paragraph: Design your WooCommerce store with stunning layouts using Woo Product Grid block. You can easily display your products by creating versatile layouts, customizing them, as well as highlighting them in an eye-catchy way.
+  - link "Get Started FREE ":
+    - /url: https://wordpress.org/plugins/essential-blocks
+  - figure:
+    - img "Woo Product Grid"
+  - figure:
+    - img "Woo Product Grid"
+  - img "macbook"
+  - heading "Limitless Content Customization" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Responsive Preview Controls" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Infinite Styling Possibilities" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "45+ Advanced Gutenberg Blocks" [level=3]
+  - paragraph
+  - heading "Quick Guide To Design Woo Product Grid" [level=2]
+  - figure:
+    - iframe
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/woo-product-grid/
+  - heading "Infinite Customizing Options" [level=2]
+  - paragraph: Design your product layout just the way you want using sale badge, hover effects, borders, and more advanced customization features
+  - link:
+    - /url: https://essential-blocks.com/product/family-size-pizza-2/
+  - img "Family Size Pizza"
+  - text: 20% Off
+  - heading "Family Size Pizza" [level=3]:
+    - link "Family Size Pizza":
+      - /url: https://essential-blocks.com/product/family-size-pizza-2/
+  - paragraph: "Original price was: $45.00. Current price is: $25.00."
+  - link:
+    - /url: https://essential-blocks.com/product/family-size-pizza/
+  - img "Family Size Pizza"
+  - text: 20% Off
+  - heading "Family Size Pizza" [level=3]:
+    - link "Family Size Pizza":
+      - /url: https://essential-blocks.com/product/family-size-pizza/
+  - paragraph: "Original price was: $45.00. Current price is: $25.00."
+  - link:
+    - /url: https://essential-blocks.com/product/merienda-burger/
+  - img "Merienda Burger"
+  - text: 20% Off
+  - heading "Merienda Burger" [level=3]:
+    - link "Merienda Burger":
+      - /url: https://essential-blocks.com/product/merienda-burger/
+  - paragraph: "Original price was: $45.00. Current price is: $25.00."
+  - link:
+    - /url: https://essential-blocks.com/product/logitech-master-mx3/
+  - img "Logitech Master Mx3"
+  - text: 20% Off
+  - heading "Logitech Master Mx3" [level=3]:
+    - link "Logitech Master Mx3":
+      - /url: https://essential-blocks.com/product/logitech-master-mx3/
+  - paragraph: "Original price was: $20.00. Current price is: $15.00."
+  - heading "Grid Layout Preset 1" [level=2]
+  - paragraph: Display your WooCommerce products layout showcasing rating, description, and CTA button to attract your visitor’s attention
+  - link:
+    - /url: https://essential-blocks.com/product/family-size-pizza-2/
+  - img "Family Size Pizza"
+  - text: sale     
+  - heading "Family Size Pizza" [level=3]:
+    - link "Family Size Pizza":
+      - /url: https://essential-blocks.com/product/family-size-pizza-2/
+  - paragraph: "Original price was: $45.00. Current price is: $25.00."
+  - link:
+    - /url: https://essential-blocks.com/product/family-size-pizza/
+  - img "Family Size Pizza"
+  - text: sale     
+  - heading "Family Size Pizza" [level=3]:
+    - link "Family Size Pizza":
+      - /url: https://essential-blocks.com/product/family-size-pizza/
+  - paragraph: "Original price was: $45.00. Current price is: $25.00."
+  - link:
+    - /url: https://essential-blocks.com/product/merienda-burger/
+  - img "Merienda Burger"
+  - text: sale     
+  - heading "Merienda Burger" [level=3]:
+    - link "Merienda Burger":
+      - /url: https://essential-blocks.com/product/merienda-burger/
+  - paragraph: "Original price was: $45.00. Current price is: $25.00."
+  - link:
+    - /url: https://essential-blocks.com/product/logitech-master-mx3/
+  - img "Logitech Master Mx3"
+  - text: sale     
+  - heading "Logitech Master Mx3" [level=3]:
+    - link "Logitech Master Mx3":
+      - /url: https://essential-blocks.com/product/logitech-master-mx3/
+  - paragraph: "Original price was: $20.00. Current price is: $15.00."
+  - link:
+    - /url: https://essential-blocks.com/product/canon-digital-camera/
+  - img "Canon Digital Camera"
+  - text: sale     
+  - heading "Canon Digital Camera" [level=3]:
+    - link "Canon Digital Camera":
+      - /url: https://essential-blocks.com/product/canon-digital-camera/
+  - paragraph: "Original price was: $20.00. Current price is: $19.00."
+  - link:
+    - /url: https://essential-blocks.com/product/apple-watch/
+  - img "Apple Watch"
+  - text: sale     
+  - heading "Apple Watch" [level=3]:
+    - link "Apple Watch":
+      - /url: https://essential-blocks.com/product/apple-watch/
+  - paragraph: "Original price was: $25.00. Current price is: $19.00."
+  - link:
+    - /url: https://essential-blocks.com/product/iphone-14-pro-max/
+  - img "iPhone 14 Pro Max"
+  - text: sale     
+  - heading "iPhone 14 Pro Max" [level=3]:
+    - link "iPhone 14 Pro Max":
+      - /url: https://essential-blocks.com/product/iphone-14-pro-max/
+  - paragraph: "Original price was: $20.00. Current price is: $19.00."
+  - link:
+    - /url: https://essential-blocks.com/product/blue-vintage-cap-2/
+  - img "Blue Vintage Cap"
+  - text: sale     
+  - heading "Blue Vintage Cap" [level=3]:
+    - link "Blue Vintage Cap":
+      - /url: https://essential-blocks.com/product/blue-vintage-cap-2/
+  - paragraph: "Original price was: $35.00. Current price is: $20.00."
+  - button "Load More"
+  - heading "Grid Layout Preset 2" [level=2]
+  - paragraph: Show your WooCommerce products by highlighting sale prices, stylish fonts, and colors and make them visually appealing
+  - link:
+    - /url: https://essential-blocks.com/product/family-size-pizza-2/
+  - img "Family Size Pizza"
+  - heading "Family Size Pizza" [level=3]:
+    - link "Family Size Pizza":
+      - /url: https://essential-blocks.com/product/family-size-pizza-2/
+  - paragraph: "Original price was: $45.00. Current price is: $25.00."
+  - link:
+    - /url: https://essential-blocks.com/product/family-size-pizza/
+  - img "Family Size Pizza"
+  - heading "Family Size Pizza" [level=3]:
+    - link "Family Size Pizza":
+      - /url: https://essential-blocks.com/product/family-size-pizza/
+  - paragraph: "Original price was: $45.00. Current price is: $25.00."
+  - link:
+    - /url: https://essential-blocks.com/product/merienda-burger/
+  - img "Merienda Burger"
+  - heading "Merienda Burger" [level=3]:
+    - link "Merienda Burger":
+      - /url: https://essential-blocks.com/product/merienda-burger/
+  - paragraph: "Original price was: $45.00. Current price is: $25.00."
+  - link:
+    - /url: https://essential-blocks.com/product/logitech-master-mx3/
+  - img "Logitech Master Mx3"
+  - heading "Logitech Master Mx3" [level=3]:
+    - link "Logitech Master Mx3":
+      - /url: https://essential-blocks.com/product/logitech-master-mx3/
+  - paragraph: "Original price was: $20.00. Current price is: $15.00."
+  - heading "Pagination For Displaying Products" [level=2]
+  - paragraph: Easy exploration through all your product with beautiful navigation layouts to enhance customer engagement.
+  - link:
+    - /url: https://essential-blocks.com/product/nadal-special-4/
+  - img "Nadal Special"
+  - text: sale     
+  - heading "Nadal Special" [level=3]:
+    - link "Nadal Special":
+      - /url: https://essential-blocks.com/product/nadal-special-4/
+  - paragraph: "Original price was: $59.00. Current price is: $39.00."
+  - link:
+    - /url: https://essential-blocks.com/product/energy-alpha-2/
+  - img "Energy Alpha"
+  - text: sale     
+  - heading "Energy Alpha" [level=3]:
+    - link "Energy Alpha":
+      - /url: https://essential-blocks.com/product/energy-alpha-2/
+  - paragraph: "Original price was: $59.00. Current price is: $39.00."
+  - link:
+    - /url: https://essential-blocks.com/product/nadal-special-3/
+  - img "Nadal Special"
+  - text: sale     
+  - heading "Nadal Special" [level=3]:
+    - link "Nadal Special":
+      - /url: https://essential-blocks.com/product/nadal-special-3/
+  - paragraph: "Original price was: $29.00. Current price is: $22.00."
+  - link:
+    - /url: https://essential-blocks.com/product/north-star-2/
+  - img "North Star"
+  - text: sale     
+  - heading "North Star" [level=3]:
+    - link "North Star":
+      - /url: https://essential-blocks.com/product/north-star-2/
+  - paragraph: "Original price was: $59.00. Current price is: $39.00."
+  - link:
+    - /url: https://essential-blocks.com/product/grey-casual-shoes-2/
+  - img "Grey Casual Shoes"
+  - text: sale     
+  - heading "Grey Casual Shoes" [level=3]:
+    - link "Grey Casual Shoes":
+      - /url: https://essential-blocks.com/product/grey-casual-shoes-2/
+  - paragraph: "Original price was: $59.00. Current price is: $39.00."
+  - link:
+    - /url: https://essential-blocks.com/product/nadal-special-2/
+  - img "Nadal Special"
+  - text: sale     
+  - heading "Nadal Special" [level=3]:
+    - link "Nadal Special":
+      - /url: https://essential-blocks.com/product/nadal-special-2/
+  - paragraph: "Original price was: $59.00. Current price is: $39.00."
+  - link:
+    - /url: https://essential-blocks.com/product/mairo-lifestyle-2/
+  - img "Mairo Lifestyle"
+  - text: sale     
+  - heading "Mairo Lifestyle" [level=3]:
+    - link "Mairo Lifestyle":
+      - /url: https://essential-blocks.com/product/mairo-lifestyle-2/
+  - paragraph: "Original price was: $29.00. Current price is: $22.00."
+  - link:
+    - /url: https://essential-blocks.com/product/north-star/
+  - img "North Star"
+  - text: sale     
+  - heading "North Star" [level=3]:
+    - link "North Star":
+      - /url: https://essential-blocks.com/product/north-star/
+  - paragraph: "Original price was: $59.00. Current price is: $39.00."
+  - button "←" [disabled]
+  - button "1"
+  - button "2"
+  - button "..."
+  - button "→"
+  - heading "List Layout Preset 1" [level=2]
+  - paragraph: Display your products attractively with a list view and focus ratings, and product descriptions in detail to attract your customers instantly
+  - link "Family Size Pizza":
+    - /url: https://essential-blocks.com/product/family-size-pizza-2/
+    - img "Family Size Pizza"
+  - heading "Family Size Pizza" [level=3]:
+    - link "Family Size Pizza":
+      - /url: https://essential-blocks.com/product/family-size-pizza-2/
+  - paragraph: "Original price was: $45.00. Current price is: $25.00."
+  - text:     
+  - paragraph
+  - 'button "Add to cart: “Family Size Pizza”"':  Add to cart
+  - link " Visit Product":
+    - /url: https://essential-blocks.com/product/family-size-pizza-2/
+  - link "Family Size Pizza":
+    - /url: https://essential-blocks.com/product/family-size-pizza/
+    - img "Family Size Pizza"
+  - heading "Family Size Pizza" [level=3]:
+    - link "Family Size Pizza":
+      - /url: https://essential-blocks.com/product/family-size-pizza/
+  - paragraph: "Original price was: $45.00. Current price is: $25.00."
+  - text:     
+  - paragraph
+  - 'button "Add to cart: “Family Size Pizza”"':  Add to cart
+  - link " Visit Product":
+    - /url: https://essential-blocks.com/product/family-size-pizza/
+  - link "Merienda Burger":
+    - /url: https://essential-blocks.com/product/merienda-burger/
+    - img "Merienda Burger"
+  - heading "Merienda Burger" [level=3]:
+    - link "Merienda Burger":
+      - /url: https://essential-blocks.com/product/merienda-burger/
+  - paragraph: "Original price was: $45.00. Current price is: $25.00."
+  - text:     
+  - paragraph
+  - 'button "Add to cart: “Merienda Burger”"':  Add to cart
+  - link " Visit Product":
+    - /url: https://essential-blocks.com/product/merienda-burger/
+  - link "Logitech Master Mx3":
+    - /url: https://essential-blocks.com/product/logitech-master-mx3/
+    - img "Logitech Master Mx3"
+  - heading "Logitech Master Mx3" [level=3]:
+    - link "Logitech Master Mx3":
+      - /url: https://essential-blocks.com/product/logitech-master-mx3/
+  - paragraph: "Original price was: $20.00. Current price is: $15.00."
+  - text:     
+  - paragraph: Logitech Master Mx3
+  - 'button "Add to cart: “Logitech Master Mx3”"':  Add to cart
+  - link " Visit Product":
+    - /url: https://essential-blocks.com/product/logitech-master-mx3/
+  - heading "Grid Layout Preset 3" [level=2]
+  - paragraph: Use stunning popup buttons, pricing, product names with hover to showcase your product interactively on your WooCommerce store
+  - link:
+    - /url: https://essential-blocks.com/product/family-size-pizza-2/
+  - img "Family Size Pizza"
+  - heading "Family Size Pizza" [level=3]:
+    - link "Family Size Pizza":
+      - /url: https://essential-blocks.com/product/family-size-pizza-2/
+  - paragraph: "Original price was: $45.00. Current price is: $25.00."
+  - link:
+    - /url: https://essential-blocks.com/product/family-size-pizza/
+  - img "Family Size Pizza"
+  - heading "Family Size Pizza" [level=3]:
+    - link "Family Size Pizza":
+      - /url: https://essential-blocks.com/product/family-size-pizza/
+  - paragraph: "Original price was: $45.00. Current price is: $25.00."
+  - link:
+    - /url: https://essential-blocks.com/product/merienda-burger/
+  - img "Merienda Burger"
+  - heading "Merienda Burger" [level=3]:
+    - link "Merienda Burger":
+      - /url: https://essential-blocks.com/product/merienda-burger/
+  - paragraph: "Original price was: $45.00. Current price is: $25.00."
+  - link:
+    - /url: https://essential-blocks.com/product/logitech-master-mx3/
+  - img "Logitech Master Mx3"
+  - heading "Logitech Master Mx3" [level=3]:
+    - link "Logitech Master Mx3":
+      - /url: https://essential-blocks.com/product/logitech-master-mx3/
+  - paragraph: "Original price was: $20.00. Current price is: $15.00."
+  - link:
+    - /url: https://essential-blocks.com/product/canon-digital-camera/
+  - img "Canon Digital Camera"
+  - heading "Canon Digital Camera" [level=3]:
+    - link "Canon Digital Camera":
+      - /url: https://essential-blocks.com/product/canon-digital-camera/
+  - paragraph: "Original price was: $20.00. Current price is: $19.00."
+  - link:
+    - /url: https://essential-blocks.com/product/apple-watch/
+  - img "Apple Watch"
+  - heading "Apple Watch" [level=3]:
+    - link "Apple Watch":
+      - /url: https://essential-blocks.com/product/apple-watch/
+  - paragraph: "Original price was: $25.00. Current price is: $19.00."
+  - link:
+    - /url: https://essential-blocks.com/product/iphone-14-pro-max/
+  - img "iPhone 14 Pro Max"
+  - heading "iPhone 14 Pro Max" [level=3]:
+    - link "iPhone 14 Pro Max":
+      - /url: https://essential-blocks.com/product/iphone-14-pro-max/
+  - paragraph: "Original price was: $20.00. Current price is: $19.00."
+  - link:
+    - /url: https://essential-blocks.com/product/blue-vintage-cap-2/
+  - img "Blue Vintage Cap"
+  - heading "Blue Vintage Cap" [level=3]:
+    - link "Blue Vintage Cap":
+      - /url: https://essential-blocks.com/product/blue-vintage-cap-2/
+  - paragraph: "Original price was: $35.00. Current price is: $20.00."

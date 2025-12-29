@@ -1,0 +1,21 @@
+- main:
+  - heading "dynamic tags" [level=2]
+  - heading "Display Real-Time Data As Content Using Dynamic Tags" [level=1]:
+    - text: Display Real-Time Data As Content Using
+    - mark:
+      - strong: Dynamic Tags
+  - paragraph: Essential Blocks Dynamic tags allow you to display content that automatically updates based on predefined parameters. These dynamic placeholders save you time and effort by eliminating the need to manually update content on your website and help keep your content constantly up-to-date.
+  - link "Get Started ":
+    - /url: https://essential-blocks.com/#pricing
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/dynamic-tags-support/
+  - figure:
+    - img "Dynamic Tags"
+  - heading "Showcase Author Profiles By Auto-Fetching Data" [level=2]
+  - paragraph: Fetch author data and showcase their profiles at the end of each post. The Dynamic Tags automatically pull author details, including photos, about info, and more directly from user profiles, saving you time and manual effort.
+  - heading "Generate Form Fields Automatically & Faster" [level=2]
+  - paragraph: Streamline your workflow by automatically generating form fields based on the values you select with the Dynamic Tags. This paves the way to creating faster and more efficient forms.
+  - heading "Generate Call To Action Buttons Effortlessly" [level=2]
+  - paragraph: Create dynamic call-to-action buttons that automatically link to a relevant page within your site, saving you time and boosting SEO. This replaces many steps of manual work with just a few clicks.
+  - heading "Integrate ACF Content Through Dynamic Tags" [level=2]
+  - paragraph: Easily integrate custom data from the Advanced Custom Fields (ACF) plugin into your WordPress content using Essential Blocks Dynamic Tags. This way you can use additional fields to display ACF values on your website as they get updated.

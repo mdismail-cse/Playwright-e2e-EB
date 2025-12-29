@@ -1,0 +1,59 @@
+- main:
+  - heading "Lottie Animation" [level=2]
+  - heading "Make Your Website Standout & Engaging with Lottie Animation Block" [level=1]:
+    - text: Make Your Website Standout & Engaging with
+    - mark: Lottie Animation
+    - text: Block
+  - paragraph: Add Lottie animation to your WordPress site with Essential Blocks to make it interactive and visually appealing. Customize speed, loop, and more, no custom code needed.
+  - link "Get Started ":
+    - /url: https://essential-blocks.com/#pricing
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/eb-lottie-animation/
+  - heading "Design Eye-Catching Websites with LottieFiles Animations" [level=2]
+  - paragraph: Make animations play in reverse or have them autoplay whenever visitors visit your site to instantly capture their attention.
+  - img
+  - heading "Ready to Fly" [level=2]
+  - paragraph: Plan with ease. Get your tickets, boarding pass, and passport ready for a hassle-free journey.
+  - img
+  - heading "Pack & Go" [level=2]
+  - paragraph: Your adventure awaits. Grab your luggage and set off on an unforgettable trip to dream destinations.
+  - img
+  - heading "Find Your Way" [level=2]
+  - paragraph: Discover breathtaking landscapes, fun places and follow the right path to new adventures.
+  - heading "Get Control Over Lottie Animated Graphics" [level=2]
+  - paragraph: Let the Lottie JSON animation play on click. Also, control appearance on web pages to create interactive moments, perfect for content attention.
+  - figure:
+    - img "Lottie Animation"
+  - 'heading "Step 1: Get Ready to Go" [level=2]'
+  - paragraph: Get ready to take off—passport in hand, adventure awaits.
+  - img
+  - figure:
+    - img "Lottie Animation"
+  - 'heading "Step 2: Fly Above Clouds" [level=2]'
+  - paragraph: Sit back, relax, and enjoy the journey to your dream destination.
+  - img
+  - figure:
+    - img "Lottie Animation"
+  - 'heading "Step 3: Enjoy Your Traveling" [level=2]'
+  - paragraph: Time to explore, unwind, and create unforgettable memories.
+  - img
+  - heading "Add Stunning Animation Effects Easily" [level=2]
+  - paragraph: Increase attention with motion graphics and create an engaging experience.
+  - img
+  - heading "Subscribe To our Weekly Mails For Updates And Promotional Mail" [level=3]
+  - textbox "Enter your email here..."
+  - button ""
+  - heading "Exclusive Gutenberg Lottie Animation Block Features" [level=2]
+  - paragraph: Fill your website with outstanding and lightweight animations from Lottie and customize them with unlimited controls from Essential Blocks.
+  - heading "Multiple Trigger Options" [level=2]
+  - paragraph: Get access to versatile types of triggers that will help you to customize the Lottie animation with styles and interactiveness.
+  - figure:
+    - img "Lottie Animation"
+  - heading "Support Versatile File Formats" [level=2]
+  - paragraph: Upload files like DotLottie or JSON, or use direct URLs for flexibility in your animations.
+  - figure:
+    - img "Lottie Animation"
+  - figure:
+    - img "Lottie Animation"
+  - heading "Custom Animation Controls" [level=2]
+  - paragraph: Tailor every aspect of your LottiFiles animation from to create a unique and personalized experience.

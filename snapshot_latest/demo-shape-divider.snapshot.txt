@@ -1,0 +1,160 @@
+- main:
+  - img "Shape Divider"
+  - heading "Shape Divider" [level=1]
+  - paragraph: Add life to your Gutenberg websites using Essential Blocks Shape Divider. With stunning presets, take your website designs to the next level and showcase different sections with stunning shape dividers that instantly grabs attention.
+  - link "Get Started FREE ":
+    - /url: https://wordpress.org/plugins/essential-blocks
+  - figure:
+    - img "Shape Divider"
+  - figure:
+    - img "essential blocks shape divider"
+  - img "Shape Divider"
+  - heading "Limitless Content Customization" [level=3]
+  - paragraph
+  - img "Shape Divider"
+  - heading "Responsive Preview Controls" [level=3]
+  - paragraph
+  - img "Shape Divider"
+  - heading "Infinite Styling Possibilities" [level=3]
+  - paragraph
+  - img "Shape Divider"
+  - heading "45+ Advanced Gutenberg Blocks" [level=3]
+  - paragraph
+  - heading "Quick Guide To Use Shape Divider Block" [level=2]
+  - figure:
+    - iframe
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/eb-shape-divider
+  - img
+  - heading "Shape Divider Ocean Wave Type" [level=2]
+  - paragraph: Make your web layout interesting with Essential Blocks Ocean Wave type Shape Diver and customize the height, and weight to fit in with your website
+  - link "Get Essential Blocks":
+    - /url: "#"
+  - figure:
+    - img "Shape Divider"
+  - img
+  - figure:
+    - img "Shape Divider"
+  - heading "Shape Divider Asymmetric Triangle Type" [level=2]
+  - paragraph: Add an Asymmetric Triangle Shape Divider on your web page and set the position as you like to take your web design capability to the next level
+  - figure:
+    - img "Shape Divider"
+  - img
+  - heading "Shape Divider Abstract Paint Brush Type" [level=2]
+  - paragraph: Implement your creativity into web design with Essential Blocks Shape Divider to make a stunning website without any coding
+  - tabpanel:
+    - heading "90k+ Active Installations" [level=2]
+    - paragraph: In just 4 month, we have crossed another milestone 90K Happy Users
+    - text:  21 May 2023 Design
+  - tabpanel:
+    - heading "New Blocks Released" [level=2]
+    - paragraph: In just 4 month, we have crossed another milestone 90K Happy Users
+    - text:  12 April 2023 Development
+  - tabpanel:
+    - 'heading "New Release: Pro Version" [level=2]'
+    - paragraph: In just 4 month, we have crossed another milestone 90K Happy Users
+    - text:  24 May 2023 Marketing
+  - tabpanel:
+    - heading "80K Active Installations" [level=2]
+    - paragraph: In just 4 months, we have crossed another milestone – 80K happy users are
+    - text:  Apr 19, 2023 Design
+  - tablist:
+    - tab "1 of 2" [selected]: • 1
+    - tab "2 of 2": • 2
+    - tab "3 of 2": • 3
+    - tab "4 of 2": • 4
+    - tab "5 of 2": • 5
+    - tab "6 of 2": • 6
+  - img
+  - img
+  - heading "Shape Divider Asymmetric Curve Type" [level=2]
+  - paragraph: Increase focus on your content with Essential Blocks Shape Divider and add any color you like to align with your brand and engage viewers
+  - text:  $19.99
+  - heading "Monthly Payment" [level=2]
+  - list:
+    - listitem:  Unlimited Calls
+    - listitem:  Free Hosting
+    - listitem:  500MB Free Storage
+  - link " Select Plan":
+    - /url: ""
+  - text:  $29.99
+  - heading "Quarterly Payments" [level=2]
+  - list:
+    - listitem:  Unlimited Calls
+    - listitem:  Free Hosting
+    - listitem:  500MB Free Storage
+  - link " Select Plan":
+    - /url: ""
+  - text:  $19.99
+  - heading "Yearly Payments" [level=2]
+  - list:
+    - listitem:  Unlimited Calls
+    - listitem:  Free Hosting
+    - listitem:  500MB Free Storage
+  - link " Select Plan":
+    - /url: ""
+  - img
+  - heading "Shape Divider Cloud Type" [level=2]
+  - paragraph: Make your website appealing to your visitor with Cloud type Shape Divider and flip it as you like to adjust your web layout
+  - img "Shape Divider"
+  - heading "0.2m+" [level=4]
+  - heading "Active Users" [level=3]
+  - img "Shape Divider"
+  - heading "0k+" [level=4]
+  - heading "Total Downloads" [level=3]
+  - img "Shape Divider"
+  - heading "0+" [level=4]
+  - heading "Total Active" [level=3]
+  - img "Shape Divider"
+  - heading "0+" [level=4]
+  - heading "Total Reviews" [level=3]
+  - img
+  - heading "Shape Divider Mountain Type" [level=2]
+  - paragraph: Separate your sections with Mountain-type Shape Divider to create a unique web layout customizing the background without any hassle
+  - img "Shape Divider"
+  - heading "Enjoy 20$ Off" [level=2]
+  - heading "Marketing Course" [level=3]
+  - paragraph: Marketing course for beginners & those who are interested also exploring the field. Everyone Marketing course for beginners
+  - link "Get Started":
+    - /url: "#"
+  - img "Shape Divider"
+  - heading "Grab 30$ Off" [level=2]
+  - heading "UX UI Design" [level=3]
+  - paragraph: Marketing course for beginners & those who are interested also exploring the field. Everyone Marketing course for beginners
+  - link "Get Started":
+    - /url: "#"
+  - img "Shape Divider"
+  - heading "Enjoy 20$ Off" [level=2]
+  - heading "Research Course" [level=3]
+  - paragraph: Marketing course for beginners & those who are interested also exploring the field. Everyone Marketing course for beginners
+  - link "Get Started":
+    - /url: "#"
+  - img
+  - heading "Shape Divider Fire Type" [level=2]
+  - paragraph: Create a jazzy & animated web layout with a Fire-type shape divider and make your website a bit more interesting to your visitors
+  - group "Subscription Form":
+    - text: Subscription Form
+    - textbox "Your Email Address"
+    - button "Subscribe"
+  - img
+  - heading "Shape Divider Sports Type" [level=2]
+  - paragraph: Add sports-type web layout with Essential Blocks Shape Divider and say goodbye, to boring website design with advanced control
+  - figure:
+    - img "Shape Divider"
+  - figure:
+    - img "Shape Divider"
+  - img
+  - heading "Shape Divider Mountain Type" [level=2]
+  - paragraph: Separate your sections with Mountain-type Shape Divider to create a unique web layout customizing the background without any hassle
+  - figure "Travel Un United State":
+    - img "image"
+    - heading [level=2]
+    - paragraph: Travel Un United State
+  - figure "Travel Un United State":
+    - img "image"
+    - heading [level=2]
+    - paragraph: Travel Un United State
+  - figure "Travel Un United State":
+    - img "image"
+    - heading [level=2]
+    - paragraph: Travel Un United State

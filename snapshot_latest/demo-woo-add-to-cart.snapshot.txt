@@ -1,0 +1,13 @@
+- main:
+  - heading "Woo Add To Cart" [level=2]
+  - heading "Simplify Shopping Experience & Drive Sales With Add To Cart Block" [level=1]:
+    - text: Simplify Shopping Experience & Drive Sales With
+    - mark: Add To Cart
+    - text: Block
+  - paragraph: Reduce the difficulty for customers when placing orders by utilizing Essential Blocks’ add-to-cart block, which ensures customer retention. This is a must-have block to turn window shoppers into loyal customers.
+  - link "Get Started ":
+    - /url: https://essential-blocks.com/#pricing
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/eb-woo-add-to-cart/
+  - figure:
+    - img "Woo Add To Cart"

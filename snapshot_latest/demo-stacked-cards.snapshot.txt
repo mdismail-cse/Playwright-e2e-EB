@@ -1,0 +1,89 @@
+- main:
+  - heading "Stacked Cards" [level=2]
+  - heading "Transforming Content Presentation With The EB Stacked Cards" [level=1]:
+    - text: Transforming Content Presentation With The EB
+    - mark:
+      - strong: Stacked Cards
+  - paragraph: Stacked cards are changing the game by letting users access the entire website’s information with a simple scroll. This block simplifies navigation, boosting user engagement and content accessibility
+  - link "Get Started ":
+    - /url: https://essential-blocks.com/#pricing
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/eb-stacked-cards
+  - figure:
+    - img "EB Stacked Cards Block"
+  - figure:
+    - img "Stacked Cards"
+  - heading "Quarter Pounder With Cheese" [level=2]
+  - paragraph: Stacked cards are changing the game by letting users access the entire website’s information.
+  - link " Book A Table":
+    - /url: "#"
+  - figure:
+    - img "Stacked Cards"
+  - figure:
+    - img "Stacked Cards"
+  - figure:
+    - img "Stacked Cards"
+  - heading "Nigiri Sushi With Salmon" [level=2]
+  - paragraph: Stacked cards are changing the game by letting users access the entire website’s information.
+  - link " Make RSVP":
+    - /url: "#"
+  - figure:
+    - img "Stacked Cards"
+  - heading "Ocean Blue Sake Sashimi" [level=2]
+  - paragraph: Stacked cards are changing the game by letting users access the entire website’s information.
+  - link " Visit Website":
+    - /url: "#"
+  - figure:
+    - img "Stacked Cards"
+  - figure:
+    - img "Stacked Cards"
+  - figure:
+    - img "Stacked Cards"
+  - figure:
+    - img "Stacked Cards"
+  - heading "Nigiri Sushi With Salmon" [level=2]
+  - paragraph: Stacked cards are changing the game by letting users access the entire website’s information.
+  - link " More Menus":
+    - /url: "#"
+  - figure:
+    - img "Stacked Cards"
+  - heading "Dive Into Our Unique & Flavorful Culinary Adventure" [level=2]
+  - paragraph: Experience our mouth-watering cuisines and indulge your senses in a world of exquisite tastes
+  - img "Stacked Cards"
+  - heading "Beef & Bacon Burger" [level=2]
+  - paragraph: Satisfy your cravings with our mouthwatering bacon-infused masterpiece
+  - link "Learn More":
+    - /url: ""
+  - img "Stacked Cards"
+  - heading "Chick ‘n’ Cheese Bites" [level=2]
+  - paragraph: Bite into an explosion of crispy – cheesy symphony with our no.#1 pizza
+  - link "Learn More":
+    - /url: ""
+  - img "Stacked Cards"
+  - heading "Prime Ribeye Steak" [level=2]
+  - paragraph: Hand-selected for its exceptional marbling and tenderness, this prime cut is a testament
+  - link "Learn More":
+    - /url: ""
+  - img "Stacked Cards"
+  - heading "Mustard Chicken" [level=2]
+  - paragraph: Sweet meets savory in our Honey Mustard Glazed Fried Chicken With French Fries
+  - link "Learn More":
+    - /url: ""
+  - heading "Catch Eyes With Jumping Transition" [level=2]
+  - paragraph: With a simple click, watch as the next card gracefully transitions with a captivating jump that captures attention
+  - heading "Gold Glory" [level=2]
+  - paragraph: Experience Gold Glory – Where Luxury Meets Convenience!
+  - figure:
+    - img "Stacked Cards"
+  - heading "Elite Express" [level=2]
+  - paragraph: "Get Elite Express: Elevating Your Lifestyle, One Swipe at a Time!"
+  - figure:
+    - img "Stacked Cards"
+  - heading "Infinite Rewards" [level=2]
+  - paragraph: Explore Infinite Rewards, Endless Delight – Your Card for Every Occasion
+  - figure:
+    - img "Stacked Cards"
+  - heading "Platinum Prestige" [level=2]
+  - paragraph: Unleash Limitless Possibilities with Platinum Prestige
+  - figure:
+    - img "Stacked Cards"
