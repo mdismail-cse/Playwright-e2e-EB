@@ -43,8 +43,9 @@ async function createOrUpdateSnapshot(url, customFilename = null) {
         // Wait for any dynamic content to load
         await page.waitForTimeout(10000);
 
-        // Get ARIA snapshot
-        const snapshot = await page.locator('body').ariaSnapshot();
+        // Get ARIA snapshot of main content area (excludes header with countdown timer)
+        const contentElement = await page.locator('.eb-fullwidth-container').first();
+        const snapshot = await contentElement.ariaSnapshot();
 
         // Determine filename
         const filename = customFilename || urlToFilename(url);

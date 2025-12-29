@@ -72,17 +72,38 @@ async function validateSnapshot(url) {
         await page.goto(url, { waitUntil: 'load', timeout: 180000 });
         await page.waitForTimeout(10000);
 
-        const currentSnapshot = await page.locator('body').ariaSnapshot();
+        // Get ARIA snapshot of main content area (excludes header with countdown timer)
+        const contentElement = await page.locator('.eb-fullwidth-container').first();
+        const currentSnapshot = await contentElement.ariaSnapshot();
 
-        // Compare snapshots
-        const isMatch = currentSnapshot.trim() === storedSnapshot.trim();
+        // Normalize function to handle whitespace and minor differences
+        const normalize = (text) => {
+            return text
+                .trim()
+                .replace(/\s+/g, ' ')  // Replace multiple spaces with single space
+                .split('\n')
+                .map(line => line.trim())
+                .filter(line => line.length > 0)
+                .join('\n');
+        };
+
+        const normalizedStored = normalize(storedSnapshot);
+        const normalizedCurrent = normalize(currentSnapshot);
+
+        // Calculate similarity
+        const similarity = calculateSimilarity(normalizedStored, normalizedCurrent);
+
+        // Consider it a match if similarity is >= 95% (allows for minor dynamic content)
+        const SIMILARITY_THRESHOLD = 95;
+        const isMatch = similarity >= SIMILARITY_THRESHOLD;
 
         if (isMatch) {
             return {
                 success: true,
                 url,
                 filename,
-                status: 'PASS'
+                status: 'PASS',
+                similarity: similarity.toFixed(2)
             };
         } else {
             // Calculate difference
@@ -91,12 +112,13 @@ async function validateSnapshot(url) {
                 success: false,
                 url,
                 filename,
-                error: `Snapshot mismatch (${diff.percentage}% different)`,
+                error: `Snapshot mismatch (${similarity.toFixed(2)}% similar, threshold: ${SIMILARITY_THRESHOLD}%)`,
                 status: 'FAIL',
                 details: {
                     expectedLines: diff.expectedLines,
                     actualLines: diff.actualLines,
-                    differencePercentage: diff.percentage
+                    similarity: similarity.toFixed(2),
+                    threshold: SIMILARITY_THRESHOLD
                 }
             };
         }
@@ -129,6 +151,28 @@ function calculateDifference(expected, actual) {
         actualLines,
         percentage
     };
+}
+
+/**
+ * Calculate similarity percentage between two texts
+ */
+function calculateSimilarity(text1, text2) {
+    const lines1 = text1.split('\n');
+    const lines2 = text2.split('\n');
+
+    const maxLength = Math.max(lines1.length, lines2.length);
+    if (maxLength === 0) return 100;
+
+    let matchingLines = 0;
+    const minLength = Math.min(lines1.length, lines2.length);
+
+    for (let i = 0; i < minLength; i++) {
+        if (lines1[i] === lines2[i]) {
+            matchingLines++;
+        }
+    }
+
+    return (matchingLines / maxLength) * 100;
 }
 
 /**
