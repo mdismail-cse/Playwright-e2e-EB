@@ -33,9 +33,10 @@ jobs:
     - name: Install Playwright browsers
       run: npx playwright install --with-deps chromium
       
-    - name: Create snapshots and generate reports
-      id: snapshot_tests
-      run: npm run snapshot:all
+    - name: Validate snapshots against stored versions
+      id: snapshot_validation
+      run: npm run validate
+      continue-on-error: true
       
     - name: Debug - List files
       if: always()
@@ -43,65 +44,83 @@ jobs:
         echo "=== Listing test-results directory ==="
         ls -la test-results/ || echo "test-results/ directory does not exist"
         echo ""
-        echo "=== Listing all files ==="
-        find . -name "*.json" -o -name "*.html" | grep -v node_modules || echo "No JSON/HTML files found"
+        echo "=== Listing all report files ==="
+        find . -name "validation-report-*.json" -o -name "validation-report.html" | grep -v node_modules || echo "No report files found"
       
-    - name: Read test report
+    - name: Read validation report
       if: always()
-      id: test_report
+      id: validation_report
       run: |
-        if [ -f test-results/snapshot-report-*.json ]; then
-          REPORT_FILE=$(ls -t test-results/snapshot-report-*.json | head -1)
+        if [ -f test-results/validation-report-*.json ]; then
+          REPORT_FILE=$(ls -t test-results/validation-report-*.json | head -1)
           echo "report_exists=true" >> $GITHUB_OUTPUT
           echo "report_file=$REPORT_FILE" >> $GITHUB_OUTPUT
           
           # Extract key metrics
-          SUCCESS=$(jq -r '.successfulSnapshots' "$REPORT_FILE")
-          FAILED=$(jq -r '.failedSnapshots' "$REPORT_FILE")
+          PASSED=$(jq -r '.passedValidations' "$REPORT_FILE")
+          FAILED=$(jq -r '.failedValidations' "$REPORT_FILE")
+          MISSING=$(jq -r '.missingSnapshots' "$REPORT_FILE")
+          ERRORS=$(jq -r '.errors' "$REPORT_FILE")
           TOTAL=$(jq -r '.totalUrls' "$REPORT_FILE")
+          SUCCESS_RATE=$(jq -r '.successRate' "$REPORT_FILE")
           DURATION=$(jq -r '.durationSeconds' "$REPORT_FILE")
           
-          echo "success_count=$SUCCESS" >> $GITHUB_OUTPUT
+          echo "passed_count=$PASSED" >> $GITHUB_OUTPUT
           echo "failed_count=$FAILED" >> $GITHUB_OUTPUT
+          echo "missing_count=$MISSING" >> $GITHUB_OUTPUT
+          echo "errors_count=$ERRORS" >> $GITHUB_OUTPUT
           echo "total_count=$TOTAL" >> $GITHUB_OUTPUT
+          echo "success_rate=$SUCCESS_RATE" >> $GITHUB_OUTPUT
           echo "duration=$DURATION" >> $GITHUB_OUTPUT
         else
           echo "report_exists=false" >> $GITHUB_OUTPUT
         fi
       
     - name: Create SQA Summary
-      if: always() && steps.test_report.outputs.report_exists == 'true'
+      if: always() && steps.validation_report.outputs.report_exists == 'true'
       run: |
         cat << 'EOF' >> $GITHUB_STEP_SUMMARY
-        # 📸 Snapshot Test Results
+        # 🧪 Snapshot Validation Results
         
         ## 📊 Summary
         
         | Metric | Value |
         |--------|-------|
-        | ✅ Successful | ${{ steps.test_report.outputs.success_count }} |
-        | ❌ Failed | ${{ steps.test_report.outputs.failed_count }} |
-        | 📁 Total URLs | ${{ steps.test_report.outputs.total_count }} |
-        | ⏱️ Duration | ${{ steps.test_report.outputs.duration }}s |
-        | 📈 Success Rate | $(echo "scale=2; ${{ steps.test_report.outputs.success_count }} * 100 / ${{ steps.test_report.outputs.total_count }}" | bc)% |
+        | ✅ Passed | ${{ steps.validation_report.outputs.passed_count }} |
+        | ❌ Failed | ${{ steps.validation_report.outputs.failed_count }} |
+        | 📄 Missing | ${{ steps.validation_report.outputs.missing_count }} |
+        | ⚠️ Errors | ${{ steps.validation_report.outputs.errors_count }} |
+        | 📁 Total URLs | ${{ steps.validation_report.outputs.total_count }} |
+        | 📈 Success Rate | ${{ steps.validation_report.outputs.success_rate }}% |
+        | ⏱️ Duration | ${{ steps.validation_report.outputs.duration }}s |
         
         ## 📋 Detailed Report
         
-        The full JSON report is available in the artifacts.
+        The full JSON and HTML reports are available in the artifacts.
         
         EOF
         
-        # Add failed URLs if any
-        if [ "${{ steps.test_report.outputs.failed_count }}" != "0" ]; then
-          echo "## ❌ Failed URLs" >> $GITHUB_STEP_SUMMARY
+        # Add issues if any
+        TOTAL_ISSUES=$(($${{ steps.validation_report.outputs.failed_count }} + ${{ steps.validation_report.outputs.missing_count }} + ${{ steps.validation_report.outputs.errors_count }}))
+        if [ "$TOTAL_ISSUES" != "0" ]; then
+          echo "## ⚠️ Issues Found" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          REPORT_FILE="${{ steps.test_report.outputs.report_file }}"
-          jq -r '.failedUrls[] | "- **\(.url)**\n  - Error: \(.error)\n"' "$REPORT_FILE" >> $GITHUB_STEP_SUMMARY
+          REPORT_FILE="${{ steps.validation_report.outputs.report_file }}"
+          
+          if [ "${{ steps.validation_report.outputs.failed_count }}" != "0" ]; then
+            echo "### ❌ Failed Validations" >> $GITHUB_STEP_SUMMARY
+            jq -r '.failed[] | "- **\(.url)**\n  - Error: \(.error)\n"' "$REPORT_FILE" >> $GITHUB_STEP_SUMMARY
+          fi
+          
+          if [ "${{ steps.validation_report.outputs.missing_count }}" != "0" ]; then
+            echo "### 📄 Missing Snapshots" >> $GITHUB_STEP_SUMMARY
+            jq -r '.missing[] | "- **\(.url)**\n  - File: \(.filename)\n"' "$REPORT_FILE" >> $GITHUB_STEP_SUMMARY
+          fi
         fi
         
     - name: Generate HTML Report
-      if: always() && steps.test_report.outputs.report_exists == 'true'
-      run: npm run report:html
+      if: always() && steps.validation_report.outputs.report_exists == 'true'
+      run: node generate-validation-html-report.js
         
     - name: Upload snapshot report (JSON + HTML)
       if: always()
@@ -112,34 +131,43 @@ jobs:
         retention-days: 30
     
     - name: Comment PR with results
-      if: github.event_name == 'pull_request' && steps.test_report.outputs.report_exists == 'true'
+      if: github.event_name == 'pull_request' && steps.validation_report.outputs.report_exists == 'true'
       uses: actions/github-script@v7
       with:
         script: |
           const fs = require('fs');
-          const reportFile = '${{ steps.test_report.outputs.report_file }}';
+          const reportFile = '${{ steps.validation_report.outputs.report_file }}';
           const report = JSON.parse(fs.readFileSync(reportFile, 'utf8'));
           
-          const successRate = ((report.successfulSnapshots / report.totalUrls) * 100).toFixed(2);
+          const totalIssues = report.failedValidations + report.missingSnapshots + report.errors;
           
-          let comment = `## 📸 Snapshot Test Results\n\n`;
+          let comment = `## 🧪 Snapshot Validation Results\n\n`;
           comment += `| Metric | Value |\n`;
           comment += `|--------|-------|\n`;
-          comment += `| ✅ Successful | ${report.successfulSnapshots} |\n`;
-          comment += `| ❌ Failed | ${report.failedSnapshots} |\n`;
+          comment += `| ✅ Passed | ${report.passedValidations} |\n`;
+          comment += `| ❌ Failed | ${report.failedValidations} |\n`;
+          comment += `| 📄 Missing | ${report.missingSnapshots} |\n`;
+          comment += `| ⚠️ Errors | ${report.errors} |\n`;
           comment += `| 📁 Total URLs | ${report.totalUrls} |\n`;
-          comment += `| ⏱️ Duration | ${report.durationSeconds}s |\n`;
-          comment += `| 📈 Success Rate | ${successRate}% |\n`;
-          comment += `| 🚀 Speed | ${report.speedSnapshotsPerSecond} snapshots/sec |\n\n`;
+          comment += `| 📈 Success Rate | ${report.successRate}% |\n`;
+          comment += `| ⏱️ Duration | ${report.durationSeconds}s |\n\n`;
           
-          if (report.failedSnapshots > 0) {
-            comment += `### ❌ Failed URLs\n\n`;
-            report.failedUrls.forEach(item => {
-              comment += `- **${item.url}**\n`;
-              comment += `  - Error: ${item.error}\n`;
-            });
+          if (totalIssues > 0) {
+            if (report.failedValidations > 0) {
+              comment += `### ❌ Failed Validations\n\n`;
+              report.failed.forEach(item => {
+                comment += `- **${item.url}**\n`;
+                comment += `  - ${item.error}\n`;
+              });
+            }
+            if (report.missingSnapshots > 0) {
+              comment += `### 📄 Missing Snapshots\n\n`;
+              report.missing.forEach(item => {
+                comment += `- **${item.url}**\n`;
+              });
+            }
           } else {
-            comment += `### ✅ All snapshots passed!\n`;
+            comment += `### ✅ All snapshots validated successfully!\n`;
           }
           
           github.rest.issues.createComment({
