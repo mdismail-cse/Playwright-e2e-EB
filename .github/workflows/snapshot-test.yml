@@ -36,7 +36,15 @@ jobs:
     - name: Create snapshots and generate reports
       id: snapshot_tests
       run: npm run snapshot:all
-      continue-on-error: true
+      
+    - name: Debug - List files
+      if: always()
+      run: |
+        echo "=== Listing test-results directory ==="
+        ls -la test-results/ || echo "test-results/ directory does not exist"
+        echo ""
+        echo "=== Listing all files ==="
+        find . -name "*.json" -o -name "*.html" | grep -v node_modules || echo "No JSON/HTML files found"
       
     - name: Read test report
       if: always()

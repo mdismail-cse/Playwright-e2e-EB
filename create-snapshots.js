@@ -6,7 +6,7 @@ const path = require('path');
 const os = require('os');
 
 // Configuration
-const PUBLIC_URLS_FILE = path.join(__dirname, 'Public_urls.txt');
+const PUBLIC_URLS_FILE = path.join(__dirname, 'public_urls.txt');
 const SNAPSHOT_DIR = path.join(__dirname, 'snapshot_latest');
 const REPORT_DIR = path.join(__dirname, 'test-results');
 const MAX_CONCURRENT = parseInt(process.env.MAX_CONCURRENT || '5', 10); // Parallel threads
