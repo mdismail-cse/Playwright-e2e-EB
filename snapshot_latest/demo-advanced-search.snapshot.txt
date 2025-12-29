@@ -1,0 +1,193 @@
+- text: 07 Days 00 Hours 58 Mins 52 Secs
+- figure
+- figure
+- paragraph: Season’s Best Deals
+- heading "For A Successful 2026" [level=6]
+- link "Grab Access Now":
+  - /url: https://essential-blocks.com/holiday2025-optin
+- img
+- link "Essential Blocks":
+  - /url: https://essential-blocks.com/
+  - img "Essential Blocks"
+- navigation "Primary Menu":
+  - list:
+    - listitem:
+      - link "Home":
+        - /url: https://essential-blocks.com/
+  - list:
+    - listitem:
+      - link "Blog":
+        - /url: https://essential-blocks.com/blog/
+    - listitem:
+      - link "Docs":
+        - /url: http://essential-blocks.com/docs
+    - listitem:
+      - link "All Blocks":
+        - /url: https://essential-blocks.com/demo/
+      - button "All Blocks submenu"
+    - listitem:
+      - link "Features":
+        - /url: "#"
+      - button "Features submenu"
+    - listitem:
+      - link "Get Help":
+        - /url: "#"
+      - button "Get Help submenu"
+    - listitem:
+      - link "Get The Plugin":
+        - /url: https://essential-blocks.com/pricing/
+- main:
+  - img "Advanced Search"
+  - heading "Advanced Search" [level=1]
+  - paragraph: Enhance user experience on your site by using the Advanced Search block for Gutenberg from Essential Blocks. Explore a diverse range of interactive layouts and styles that seamlessly integrate into your website.
+  - link "Get Started Now ":
+    - /url: https://essential-blocks.com/pricing/
+  - figure:
+    - img "Advanced Search"
+  - figure:
+    - img "Advanced Search"
+  - img "macbook"
+  - heading "Limitless Content Customization" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Responsive Preview Controls" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Infinite Styling Possibilities" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "45+ Advanced Gutenberg Blocks" [level=3]
+  - paragraph
+  - heading "Quick Guide To Configure Advanced Search" [level=2]
+  - figure:
+    - iframe
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/eb-advanced-search
+  - heading "Classic Layout With Taxonomy Filter" [level=2]
+  - paragraph: Streamline your search results effortlessly with the intuitive Taxonomy Filter in the Classic Layout of Essential Blocks advanced search block
+  - search:
+    - img
+    - searchbox "Search ...."
+    - button "Search"
+  - heading "Classic Layout Showing Total Results" [level=2]
+  - paragraph: Stay informed & empowered with the Classic Layout showcasing Total Results with Essential Blocks, ensuring you never miss a single search result
+  - search:
+    - img
+    - searchbox "Search ...."
+    - text: 
+    - combobox:
+      - option "All Categories" [selected]
+      - option "Announcement"
+      - option "Gutenberg"
+      - option "News"
+      - option "Tutorial"
+      - option "Uncategorized"
+      - option "Update"
+      - option "WordPress"
+    - button " Search"
+  - heading "Modern Layout With Viewing All Button" [level=2]
+  - paragraph: Unlock a seamless browsing experience with the Modern Layout’s Viewing All Button, granting you quick & effortless access to explore all search results
+  - search:
+    - img
+    - searchbox "Search ...."
+  - heading "Modern Layout Showing All Content Images" [level=2]
+  - paragraph: Immerse yourself in a visually rich search experience with the Modern Layout, featuring the inclusion of captivating content images in the Advanced Search of Essential Blocks
+  - search:
+    - img
+    - searchbox "Search ...."
+  - heading "Modern Layout Showcasing Custom Post Types" [level=2]
+  - paragraph: Discover the power of Essential Blocks’ Advanced Search feature to effortlessly navigate and explore your custom post types.
+  - search:
+    - img
+    - searchbox "Search ...."
+    - button ""
+- heading "Essential Blocks" [level=2]
+- paragraph: Advanced Blocks Library For Gutenberg To Power Up Your Site With Interactive Content
+- textbox "Enter your email here..."
+- button "Subscribe"
+- heading "Resources" [level=2]
+- navigation "Menu":
+  - list:
+    - listitem:
+      - link "Privacy Policy":
+        - /url: https://web.archive.org/web/20250711081241/https://wpdeveloper.com/privacy-policy/
+    - listitem:
+      - link "Blog":
+        - /url: https://essential-blocks.com/blog/
+    - listitem:
+      - link "Docs":
+        - /url: https://essential-blocks.com/docs/
+- heading "Get Help" [level=2]
+- navigation "Menu 2":
+  - list:
+    - listitem:
+      - link "Affiliates":
+        - /url: https://wpdeveloper.com/affiliates/
+    - listitem:
+      - link "Support":
+        - /url: https://wpdeveloper.com/support/
+    - listitem:
+      - link "Career":
+        - /url: https://wpdeveloper.com/jobs/
+- heading "Company" [level=2]
+- navigation "Menu 3":
+  - list:
+    - listitem:
+      - link "Contact":
+        - /url: https://wpdeveloper.com/contact/
+    - listitem:
+      - link "About Us":
+        - /url: https://wpdeveloper.com/about/
+    - listitem:
+      - link "Community":
+        - /url: https://www.facebook.com/groups/wpdeveloper.net/
+- list:
+  - listitem:
+    - link "social link":
+      - /url: https://twitter.com/wpdevteam
+      - text: 
+  - listitem:
+    - link "social link":
+      - /url: https://www.facebook.com/WPDeveloperNet/
+      - text: 
+  - listitem:
+    - link "social link":
+      - /url: https://www.instagram.com/wpdevelopernet/
+      - text: 
+- text: Copyright © 2025 | A
+- link "WPDeveloper":
+  - /url: https://wpdeveloper.com/
+- text: Product from
+- link "startise-logo":
+  - /url: https://startise.com/
+  - img "startise-logo"
+- text: family Hosted with
+- link "xCloud-logo":
+  - /url: https://xcloud.host/
+  - img "xCloud-logo"
+- img "Giulio C"
+- paragraph: Giulio C just purchased
+- paragraph: Essential Blocks Pro — Starter
+- paragraph:
+  - text: 17 hours ago
+  - img
+  - text: by
+  - link "NotificationX":
+    - /url: https://notificationx.com?utm_source=https://api.wpdeveloper.com&utm_medium=notificationx
+    - img "NotificationX"
+- img
+- link:
+  - /url: https://essential-blocks.com/#pricing
+- img "Gutenberg Essential Blocks – Page Builder for Gutenberg Blocks &amp; Patterns"
+- paragraph: 200K+ people are actively using
+- paragraph: Essential Blocks
+- paragraph:
+  - img
+  - text: by
+  - link "NotificationX":
+    - /url: https://notificationx.com?utm_source=https://essential-blocks.com&utm_medium=notificationx
+    - img "NotificationX"
+- img
+- link:
+  - /url: https://wordpress.org/plugins/essential-blocks
+- status

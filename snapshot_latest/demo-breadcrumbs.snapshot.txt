@@ -1,0 +1,134 @@
+- text: 07 Days 00 Hours 57 Mins 38 Secs
+- figure
+- figure
+- paragraph: Season’s Best Deals
+- heading "For A Successful 2026" [level=6]
+- link "Grab Access Now":
+  - /url: https://essential-blocks.com/holiday2025-optin
+- img
+- link "Essential Blocks":
+  - /url: https://essential-blocks.com/
+  - img "Essential Blocks"
+- navigation "Primary Menu":
+  - list:
+    - listitem:
+      - link "Home":
+        - /url: https://essential-blocks.com/
+  - list:
+    - listitem:
+      - link "Blog":
+        - /url: https://essential-blocks.com/blog/
+    - listitem:
+      - link "Docs":
+        - /url: http://essential-blocks.com/docs
+    - listitem:
+      - link "All Blocks":
+        - /url: https://essential-blocks.com/demo/
+      - button "All Blocks submenu"
+    - listitem:
+      - link "Features":
+        - /url: "#"
+      - button "Features submenu"
+    - listitem:
+      - link "Get Help":
+        - /url: "#"
+      - button "Get Help submenu"
+    - listitem:
+      - link "Get The Plugin":
+        - /url: https://essential-blocks.com/pricing/
+- main:
+  - heading "Breadcrumb" [level=2]
+  - heading "Enhance Website Navigation With Breadcrumb" [level=1]:
+    - text: Enhance Website Navigation With
+    - mark: Breadcrumb
+  - paragraph: Guide your website visitors with clear, intuitive breadcrumb navigation. This block helps create link trails to help visitors understand their location within your Gutenberg-built website’s structure.
+  - link "Get Started ":
+    - /url: https://essential-blocks.com/#pricing
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/eb-breadcrumbs/
+  - figure:
+    - img "Breadcrumbs"
+  - figure:
+    - img "Breadcrumbs"
+  - heading "Create Link Trails To Show Clear Pathways Through Your Website Content" [level=2]
+- heading "Essential Blocks" [level=2]
+- paragraph: Advanced Blocks Library For Gutenberg To Power Up Your Site With Interactive Content
+- textbox "Enter your email here..."
+- button "Subscribe"
+- heading "Resources" [level=2]
+- navigation "Menu":
+  - list:
+    - listitem:
+      - link "Privacy Policy":
+        - /url: https://web.archive.org/web/20250711081241/https://wpdeveloper.com/privacy-policy/
+    - listitem:
+      - link "Blog":
+        - /url: https://essential-blocks.com/blog/
+    - listitem:
+      - link "Docs":
+        - /url: https://essential-blocks.com/docs/
+- heading "Get Help" [level=2]
+- navigation "Menu 2":
+  - list:
+    - listitem:
+      - link "Affiliates":
+        - /url: https://wpdeveloper.com/affiliates/
+    - listitem:
+      - link "Support":
+        - /url: https://wpdeveloper.com/support/
+    - listitem:
+      - link "Career":
+        - /url: https://wpdeveloper.com/jobs/
+- heading "Company" [level=2]
+- navigation "Menu 3":
+  - list:
+    - listitem:
+      - link "Contact":
+        - /url: https://wpdeveloper.com/contact/
+    - listitem:
+      - link "About Us":
+        - /url: https://wpdeveloper.com/about/
+    - listitem:
+      - link "Community":
+        - /url: https://www.facebook.com/groups/wpdeveloper.net/
+- list:
+  - listitem:
+    - link "social link":
+      - /url: https://twitter.com/wpdevteam
+      - text: 
+  - listitem:
+    - link "social link":
+      - /url: https://www.facebook.com/WPDeveloperNet/
+      - text: 
+  - listitem:
+    - link "social link":
+      - /url: https://www.instagram.com/wpdevelopernet/
+      - text: 
+- text: Copyright © 2025 | A
+- link "WPDeveloper":
+  - /url: https://wpdeveloper.com/
+- text: Product from
+- link "startise-logo":
+  - /url: https://startise.com/
+  - img "startise-logo"
+- text: family Hosted with
+- link "xCloud-logo":
+  - /url: https://xcloud.host/
+  - img "xCloud-logo"
+- img "Gutenberg Essential Blocks – Page Builder for Gutenberg Blocks &amp; Patterns"
+- paragraph:
+  - paragraph:
+    - strong: Essential Blocks
+- paragraph:
+  - paragraph: has been downloaded 6.7M+ times
+- paragraph:
+  - paragraph: Why Don't You?
+  - img
+  - text: by
+  - link "NotificationX":
+    - /url: https://notificationx.com?utm_source=https://essential-blocks.com&utm_medium=notificationx
+    - img "NotificationX"
+- img
+- link:
+  - /url: https://wordpress.org/plugins/essential-blocks
+- status

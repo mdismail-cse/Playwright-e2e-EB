@@ -1,0 +1,210 @@
+- text: 07 Days 00 Hours 57 Mins 41 Secs
+- figure
+- figure
+- paragraph: Season’s Best Deals
+- heading "For A Successful 2026" [level=6]
+- link "Grab Access Now":
+  - /url: https://essential-blocks.com/holiday2025-optin
+- img
+- link "Essential Blocks":
+  - /url: https://essential-blocks.com/
+  - img "Essential Blocks"
+- navigation "Primary Menu":
+  - list:
+    - listitem:
+      - link "Home":
+        - /url: https://essential-blocks.com/
+  - list:
+    - listitem:
+      - link "Blog":
+        - /url: https://essential-blocks.com/blog/
+    - listitem:
+      - link "Docs":
+        - /url: http://essential-blocks.com/docs
+    - listitem:
+      - link "All Blocks":
+        - /url: https://essential-blocks.com/demo/
+      - button "All Blocks submenu"
+    - listitem:
+      - link "Features":
+        - /url: "#"
+      - button "Features submenu"
+    - listitem:
+      - link "Get Help":
+        - /url: "#"
+      - button "Get Help submenu"
+    - listitem:
+      - link "Get The Plugin":
+        - /url: https://essential-blocks.com/pricing/
+- main:
+  - img "Advanced Navigation"
+  - heading "Advanced Navigation" [level=1]
+  - paragraph: Design a stunning menu in Gutenberg with the best navigation experience using Essential Blocks Advanced Navigation. You can also style and customize menu appearance to make it more impressive.
+  - link "Get Started FREE ":
+    - /url: https://wordpress.org/plugins/essential-blocks
+  - figure:
+    - img "Advanced Navigation"
+  - figure:
+    - img "Advanced Navigation"
+  - img "Advanced Navigation"
+  - heading "Limitless Content Customization" [level=3]
+  - paragraph
+  - img "Advanced Navigation"
+  - heading "Responsive Preview Controls" [level=3]
+  - paragraph
+  - img "Advanced Navigation"
+  - heading "Infinite Styling Possibilities" [level=3]
+  - paragraph
+  - img "Advanced Navigation"
+  - heading "45+ Advanced Gutenberg Blocks" [level=3]
+  - paragraph
+  - heading "Guide To Create Advanced Navigation Menu" [level=2]
+  - figure:
+    - iframe
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/eb-advanced-navigation/
+  - heading "Advanced Navigation Preset 1" [level=2]
+  - paragraph: Using Preset 1 of the block, you can add borders & give your menu a simple & classy look. You can customize the active text color, border color, etc of the menu easily
+  - navigation "EB Demo Advanced Navigation":
+    - list:
+      - listitem:
+        - link "Home":
+          - /url: "#"
+      - listitem:
+        - link "All Blocks":
+          - /url: "#"
+        - button "All Blocks submenu"
+      - listitem:
+        - link "Blog":
+          - /url: "#"
+      - listitem:
+        - link "Docs":
+          - /url: "#"
+      - listitem:
+        - link "Get Help":
+          - /url: "#"
+  - heading "Advanced Navigation Preset 2" [level=2]
+  - paragraph: With Preset 2, you can give the navigation menu a vibrant look where you can change the bar color, active background colors of the navigation item, dropdown menu & more
+  - navigation "EB Demo Advanced Navigation 2":
+    - list:
+      - listitem:
+        - link "Home":
+          - /url: "#"
+      - listitem:
+        - link "All Blocks":
+          - /url: "#"
+        - button "All Blocks submenu"
+      - listitem:
+        - link "Blog":
+          - /url: "#"
+      - listitem:
+        - link "Docs":
+          - /url: "#"
+      - listitem:
+        - link "Get Help":
+          - /url: "#"
+  - heading "Advanced Navigation Preset 3" [level=2]
+  - paragraph: Using Essential Blocks Advanced Navigation Preset 3, you can highlight the active items from the navigation menu by changing the text colors, and background colors in an impressive way
+  - navigation "EB Demo Advanced Navigation 3":
+    - list:
+      - listitem:
+        - link "Home":
+          - /url: "#"
+      - listitem:
+        - link "All Blocks":
+          - /url: "#"
+        - button "All Blocks submenu"
+      - listitem:
+        - link "Blog":
+          - /url: "#"
+      - listitem:
+        - link "Docs":
+          - /url: "#"
+      - listitem:
+        - link "Get Help":
+          - /url: "#"
+  - heading "Advanced Navigation Preset 4" [level=2]
+  - paragraph: With Essential Blocks Advanced Navigation Preset 4, you can add dividers to highlight the menu items separately and customize the divider colors of the menu and dropdown menu easily
+  - navigation "EB Demo Advanced Navigation 4":
+    - list:
+      - listitem:
+        - link "Home":
+          - /url: "#"
+      - listitem:
+        - link "All Blocks":
+          - /url: "#"
+        - button "All Blocks submenu"
+      - listitem:
+        - link "Blog":
+          - /url: "#"
+      - listitem:
+        - link "Docs":
+          - /url: "#"
+      - listitem:
+        - link "Get Help":
+          - /url: "#"
+- heading "Essential Blocks" [level=2]
+- paragraph: Advanced Blocks Library For Gutenberg To Power Up Your Site With Interactive Content
+- textbox "Enter your email here..."
+- button "Subscribe"
+- heading "Resources" [level=2]
+- navigation "Menu":
+  - list:
+    - listitem:
+      - link "Privacy Policy":
+        - /url: https://web.archive.org/web/20250711081241/https://wpdeveloper.com/privacy-policy/
+    - listitem:
+      - link "Blog":
+        - /url: https://essential-blocks.com/blog/
+    - listitem:
+      - link "Docs":
+        - /url: https://essential-blocks.com/docs/
+- heading "Get Help" [level=2]
+- navigation "Menu 2":
+  - list:
+    - listitem:
+      - link "Affiliates":
+        - /url: https://wpdeveloper.com/affiliates/
+    - listitem:
+      - link "Support":
+        - /url: https://wpdeveloper.com/support/
+    - listitem:
+      - link "Career":
+        - /url: https://wpdeveloper.com/jobs/
+- heading "Company" [level=2]
+- navigation "Menu 3":
+  - list:
+    - listitem:
+      - link "Contact":
+        - /url: https://wpdeveloper.com/contact/
+    - listitem:
+      - link "About Us":
+        - /url: https://wpdeveloper.com/about/
+    - listitem:
+      - link "Community":
+        - /url: https://www.facebook.com/groups/wpdeveloper.net/
+- list:
+  - listitem:
+    - link "social link":
+      - /url: https://twitter.com/wpdevteam
+      - text: 
+  - listitem:
+    - link "social link":
+      - /url: https://www.facebook.com/WPDeveloperNet/
+      - text: 
+  - listitem:
+    - link "social link":
+      - /url: https://www.instagram.com/wpdevelopernet/
+      - text: 
+- text: Copyright © 2025 | A
+- link "WPDeveloper":
+  - /url: https://wpdeveloper.com/
+- text: Product from
+- link "startise-logo":
+  - /url: https://startise.com/
+  - img "startise-logo"
+- text: family Hosted with
+- link "xCloud-logo":
+  - /url: https://xcloud.host/
+  - img "xCloud-logo"
+- status

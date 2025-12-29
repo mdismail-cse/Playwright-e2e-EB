@@ -1,0 +1,295 @@
+- text: 07 Days 00 Hours 57 Mins 38 Secs
+- figure
+- figure
+- paragraph: Season’s Best Deals
+- heading "For A Successful 2026" [level=6]
+- link "Grab Access Now":
+  - /url: https://essential-blocks.com/holiday2025-optin
+- img
+- link "Essential Blocks":
+  - /url: https://essential-blocks.com/
+  - img "Essential Blocks"
+- navigation "Primary Menu":
+  - list:
+    - listitem:
+      - link "Home":
+        - /url: https://essential-blocks.com/
+  - list:
+    - listitem:
+      - link "Blog":
+        - /url: https://essential-blocks.com/blog/
+    - listitem:
+      - link "Docs":
+        - /url: http://essential-blocks.com/docs
+    - listitem:
+      - link "All Blocks":
+        - /url: https://essential-blocks.com/demo/
+      - button "All Blocks submenu"
+    - listitem:
+      - link "Features":
+        - /url: "#"
+      - button "Features submenu"
+    - listitem:
+      - link "Get Help":
+        - /url: "#"
+      - button "Get Help submenu"
+    - listitem:
+      - link "Get The Plugin":
+        - /url: https://essential-blocks.com/pricing/
+- main:
+  - heading "Accordion" [level=2]
+  - heading "Display Info In Collapsible Rows With Advanced Accordion" [level=1]:
+    - text: Display Info In Collapsible Rows With Advanced
+    - mark: Accordion
+  - paragraph: Best-suited for creating an interactive FAQ section in WordPress. You can showcase product data and more information with versatile layouts and limitless customizations. Images, icons, nested items, and more can be displayed smartly in Essential Blocks Accordion.
+  - link "Get Started ":
+    - /url: https://essential-blocks.com/#pricing
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/accordion/
+  - figure:
+    - img "Accordion"
+  - heading "Create Accordion With Innovative, Next-Gen Designs" [level=2]
+  - paragraph: Step into modern design with horizontal Accordions; organize content beautifully with horizontal layouts and give out-of-the-box looks.
+  - region "01 Classical Piano":
+    - text: "01"
+    - heading "Classical Piano" [level=3]
+    - paragraph: Bring timeless melodies to life with expert piano compositions, arrangements, and performances.
+    - link "VIEW DETAILS ":
+      - /url: ""
+    - figure:
+      - img "Accordion"
+  - button "02 Acoustic Guitar":
+    - text: "02"
+    - heading "Acoustic Guitar" [level=3]
+  - region "02 Acoustic Guitar":
+    - paragraph: Craft soulful, harmonious tunes with our expert acoustic guitar services, from intricate fingerpicking to powerful strumming.
+    - link "VIEW DETAILS ":
+      - /url: ""
+    - figure:
+      - img "Accordion"
+  - button "03 Metallic Flute":
+    - text: "03"
+    - heading "Metallic Flute" [level=3]
+  - region "03 Metallic Flute":
+    - paragraph: Explore the rich, expressive tones of the metallic flute. We specialize in creating unique soundscapes.
+    - link "VIEW DETAILS ":
+      - /url: ""
+    - figure:
+      - img "Accordion"
+  - button "04 Orchestra Cello":
+    - text: "04"
+    - heading "Orchestra Cello" [level=3]
+  - region "04 Orchestra Cello":
+    - paragraph: Add depth and emotion to your music with professional cello arrangements and performances.
+    - link "VIEW DETAILS ":
+      - /url: ""
+    - figure:
+      - img "Accordion"
+  - button "05 Jazz Saxophone":
+    - text: "05"
+    - heading "Jazz Saxophone" [level=3]
+  - region "05 Jazz Saxophone":
+    - paragraph: Add depth and emotion to your music with professional cello arrangements and performances.
+    - link "VIEW DETAILS ":
+      - /url: ""
+    - figure:
+      - img "Accordion"
+  - heading "Experience Content Visually with Storyboard Accordion" [level=2]:
+    - strong: Experience Content Visually with Storyboard Accordion
+  - paragraph: Display images and texts altogether in every row of the Accordion block. Perfect for creating product highlights with style & advanced possibilities.
+  - button " Why smartphone X is special?":
+    - text: 
+    - heading "Why smartphone X is special?" [level=3]
+  - region " Why smartphone X is special?":
+    - paragraph: The new smartphone comes with a 6.8-inch AMOLED display, a 108MP triple-lens camera system, 5G connectivity, and advanced AI-powered features for seamless multitasking.
+  - button " Is it compatible with wireless charging?":
+    - text: 
+    - heading "Is it compatible with wireless charging?" [level=3]
+  - button " Is the new smartphone water-resistant?":
+    - text: 
+    - heading "Is the new smartphone water-resistant?" [level=3]
+  - button " What operating system does it run on?":
+    - text: 
+    - heading "What operating system does it run on?" [level=3]
+  - img "Accordion 11"
+  - heading "Nested Accordions to Condense and Organize Long Content" [level=2]:
+    - strong:
+      - strong: Nested Accordions to Condense and Organize Long Content
+  - paragraph: Display accordions with nested content and nested tabs to make important information visually appealing and facilitate simple navigation.
+  - button " Advanced Candidate Filtering":
+    - text: 
+    - heading "Advanced Candidate Filtering" [level=3]
+  - button " Customizable Career Pages":
+    - text: 
+    - heading "Customizable Career Pages" [level=3]
+  - button " Team Collaboration Tools":
+    - text: 
+    - heading "Team Collaboration Tools" [level=3]
+  - button " Analytics & Insights":
+    - text: 
+    - heading "Analytics & Insights" [level=3]
+  - button " Interview Scheduling":
+    - text: 
+    - heading "Interview Scheduling" [level=3]
+  - region " Interview Scheduling":
+    - paragraph: Streamline your interview process with our integrated scheduling tools. Organize interviews, send invites, and manage calendars effortlessly.
+    - paragraph
+    - button " Automated Scheduling":
+      - text: 
+      - heading "Automated Scheduling" [level=3]
+    - button " Calendar Integration":
+      - text: 
+      - heading "Calendar Integration" [level=3]
+    - region " Calendar Integration":
+      - paragraph: Sync directly with popular calendar apps like Google Calendar and Outlook for smooth planning.
+    - button " Automated Scheduling":
+      - text: 
+      - heading "Automated Scheduling" [level=3]
+  - heading "Represent Accordion Titles With Catchy Icons" [level=2]:
+    - strong: Represent Accordion Titles With Catchy Icons
+  - paragraph: Instantly grab the attention of visitors with meaningful icons that tell the story of each section. Get advanced icon library support with Essential Blocks Accordion & highlight key information.
+  - button "  Payment Methods":
+    - text:  
+    - heading "Payment Methods" [level=3]
+  - region "  Payment Methods":
+    - paragraph: We accept a variety of secure payment options, including credit cards, PayPal, and digital wallets for your convenience.
+  - button "  International Shipping":
+    - text:  
+    - heading "International Shipping" [level=3]
+  - button "  Order Management & Tracking":
+    - text:  
+    - heading "Order Management & Tracking" [level=3]
+  - button "  Return & Refund Policy":
+    - text:  
+    - heading "Return & Refund Policy" [level=3]
+  - heading "Tweak & Turn All Styling Preferences To Create Advanced Designed Accordions" [level=2]:
+    - strong: Tweak & Turn All Styling Preferences To Create Advanced Designed Accordions
+  - list:
+    - listitem:
+      - text: 
+      - heading "Style 1" [level=6]
+    - listitem:
+      - text: 
+      - heading "Style 2" [level=6]
+    - listitem:
+      - text: 
+      - heading "Style 3" [level=6]
+  - heading "Create Beautifully Crafted FAQ Block To Draw Attention" [level=2]:
+    - strong: Create Beautifully Crafted FAQ Block To Draw Attention
+  - button " What is an accordion in web design?":
+    - text: 
+    - heading "What is an accordion in web design?" [level=3]
+  - region " What is an accordion in web design?":
+    - paragraph: An accordion is a UI element that allows content to expand or collapse when clicked. It helps organize large amounts of information in a compact and user-friendly way.
+  - button " How do I add content to an accordion?":
+    - text: 
+    - heading "How do I add content to an accordion?" [level=3]
+  - button " Can I customize the appearance of an accordion?":
+    - text: 
+    - heading "Can I customize the appearance of an accordion?" [level=3]
+  - button " Is it mobile-friendly to use accordions?":
+    - text: 
+    - heading "Is it mobile-friendly to use accordions?" [level=3]
+  - button " Can I add different types of content to each accordion section?":
+    - text: 
+    - heading "Can I add different types of content to each accordion section?" [level=3]
+  - heading "Exclusive Accordion Block Features" [level=2]:
+    - strong: Exclusive Accordion Block Features
+  - paragraph: Explore versatile layouts that toggle content visibility, expanding or collapsing with a click or hover, along with FAQ schema integration and advanced customization.
+  - heading "FAQ Schema Integration" [level=2]
+  - paragraph: Boost search engine visibility with structured FAQ schema, offering organized, quick answers that enhance user experience and accessibility.
+  - figure:
+    - img "Accordion"
+  - heading "Nested Accordion" [level=2]
+  - paragraph: Structure your content with multi-level nested options for enhanced clarity and user experience.
+  - figure:
+    - img "Accordion"
+  - heading "Seamless Styling Options" [level=2]
+  - paragraph: Choose from multiple layouts to expand content with a click, personalize color, padding margins, etc.
+  - figure:
+    - img "Accordion"
+  - figure:
+    - img "Accordion"
+  - heading "Include Any Gutenberg Block" [level=2]
+  - paragraph: Unlock advanced design possibilities by adding any Gutenberg block to your Accordion sections.
+- heading "Essential Blocks" [level=2]
+- paragraph: Advanced Blocks Library For Gutenberg To Power Up Your Site With Interactive Content
+- textbox "Enter your email here..."
+- button "Subscribe"
+- heading "Resources" [level=2]
+- navigation "Menu":
+  - list:
+    - listitem:
+      - link "Privacy Policy":
+        - /url: https://web.archive.org/web/20250711081241/https://wpdeveloper.com/privacy-policy/
+    - listitem:
+      - link "Blog":
+        - /url: https://essential-blocks.com/blog/
+    - listitem:
+      - link "Docs":
+        - /url: https://essential-blocks.com/docs/
+- heading "Get Help" [level=2]
+- navigation "Menu 2":
+  - list:
+    - listitem:
+      - link "Affiliates":
+        - /url: https://wpdeveloper.com/affiliates/
+    - listitem:
+      - link "Support":
+        - /url: https://wpdeveloper.com/support/
+    - listitem:
+      - link "Career":
+        - /url: https://wpdeveloper.com/jobs/
+- heading "Company" [level=2]
+- navigation "Menu 3":
+  - list:
+    - listitem:
+      - link "Contact":
+        - /url: https://wpdeveloper.com/contact/
+    - listitem:
+      - link "About Us":
+        - /url: https://wpdeveloper.com/about/
+    - listitem:
+      - link "Community":
+        - /url: https://www.facebook.com/groups/wpdeveloper.net/
+- list:
+  - listitem:
+    - link "social link":
+      - /url: https://twitter.com/wpdevteam
+      - text: 
+  - listitem:
+    - link "social link":
+      - /url: https://www.facebook.com/WPDeveloperNet/
+      - text: 
+  - listitem:
+    - link "social link":
+      - /url: https://www.instagram.com/wpdevelopernet/
+      - text: 
+- text: Copyright © 2025 | A
+- link "WPDeveloper":
+  - /url: https://wpdeveloper.com/
+- text: Product from
+- link "startise-logo":
+  - /url: https://startise.com/
+  - img "startise-logo"
+- text: family Hosted with
+- link "xCloud-logo":
+  - /url: https://xcloud.host/
+  - img "xCloud-logo"
+- img "Gutenberg Essential Blocks – Page Builder for Gutenberg Blocks &amp; Patterns"
+- paragraph:
+  - paragraph:
+    - strong: Essential Blocks
+- paragraph:
+  - paragraph: has been downloaded 6.7M+ times
+- paragraph:
+  - paragraph: Why Don't You?
+  - img
+  - text: by
+  - link "NotificationX":
+    - /url: https://notificationx.com?utm_source=https://essential-blocks.com&utm_medium=notificationx
+    - img "NotificationX"
+- img
+- link:
+  - /url: https://wordpress.org/plugins/essential-blocks
+- status

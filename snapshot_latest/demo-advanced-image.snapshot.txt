@@ -1,0 +1,259 @@
+- text: 07 Days 00 Hours 58 Mins 53 Secs
+- figure
+- figure
+- paragraph: Season’s Best Deals
+- heading "For A Successful 2026" [level=6]
+- link "Grab Access Now":
+  - /url: https://essential-blocks.com/holiday2025-optin
+- img
+- link "Essential Blocks":
+  - /url: https://essential-blocks.com/
+  - img "Essential Blocks"
+- navigation "Primary Menu":
+  - list:
+    - listitem:
+      - link "Home":
+        - /url: https://essential-blocks.com/
+  - list:
+    - listitem:
+      - link "Blog":
+        - /url: https://essential-blocks.com/blog/
+    - listitem:
+      - link "Docs":
+        - /url: http://essential-blocks.com/docs
+    - listitem:
+      - link "All Blocks":
+        - /url: https://essential-blocks.com/demo/
+      - button "All Blocks submenu"
+    - listitem:
+      - link "Features":
+        - /url: "#"
+      - button "Features submenu"
+    - listitem:
+      - link "Get Help":
+        - /url: "#"
+      - button "Get Help submenu"
+    - listitem:
+      - link "Get The Plugin":
+        - /url: https://essential-blocks.com/pricing/
+- main:
+  - img "Advanced Image"
+  - heading "Advanced Image" [level=1]
+  - paragraph: Give your website attractive outlook by displaying images with Advanced Image block. You can use this block to showcase different styles of images to your visitors.
+  - link "Get Started FREE ":
+    - /url: https://wordpress.org/plugins/essential-blocks
+  - figure:
+    - img "Advanced Image"
+  - figure:
+    - img "Advanced Image"
+  - img "macbook"
+  - heading "Limitless Content Customization" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Responsive Preview Controls" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Infinite Styling Possibilities" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "45+ Advanced Gutenberg Blocks" [level=3]
+  - paragraph
+  - heading "Quick Guide To Create Advanced Image" [level=2]
+  - figure:
+    - iframe
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/eb-advanced-image/
+  - heading "Advanced Image With Rounded Style" [level=2]
+  - paragraph: Showcase your website images with your preferred style preset layouts and make your site look outstanding for your visitors
+  - figure:
+    - img "Advanced Image"
+  - heading "Square Style Layout With Caption Style 1" [level=2]
+  - paragraph: Choose a caption style from two different ‘Caption Styles’ to present the image title on the bottom by toggling on the ‘Display Caption’ button
+  - figure:
+    - img "Advanced Image"
+    - text: Customize the ‘General’ tab to select Style
+  - figure:
+    - img "Advanced Image"
+    - text: Customize the ‘Style’ tab to choose the Border and Color
+  - figure:
+    - img "Advanced Image"
+    - text: Customize the ‘Advanced’ tab to fix Background
+  - heading "Square Style Layout With Caption Style 2" [level=2]
+  - paragraph: Set the ‘Width’ and ‘Height’ of the image according to your choice and preference so that the image can fit perfectly on your website
+  - figure:
+    - img "Advanced Image"
+    - text: Configure images to make site attractive
+  - figure:
+    - img "Advanced Image"
+    - text: Customize images to fit your exact needs
+  - heading "Advanced Image With Circle Style" [level=2]
+  - paragraph: Link anything to the image title when you want to redirect your visitors to any destination and keep them engaged on your site
+  - figure:
+    - img "Advanced Image"
+    - text: Create various styles
+  - figure:
+    - img "Advanced Image"
+    - text: Make your site unique
+  - figure:
+    - img "Advanced Image"
+    - text: Boost user engagement
+  - figure:
+    - img "Advanced Image"
+    - text: Increase audience interest
+  - figure:
+    - img "Advanced Image"
+    - text: Showcase brand image
+  - figure:
+    - img "Advanced Image"
+    - text: Engage your visitors
+  - figure:
+    - img "Advanced Image"
+    - text: Make Interactive Image
+  - figure:
+    - img "Advanced Image"
+    - text: Create attractive website
+  - heading "Octagon Style Layout Of Advanced Image" [level=2]
+  - paragraph: Pick any ‘Hover Effect’ from Zoom In, Zoom Out, Slide and Blur to make it more interactive, or you can choose No Effect
+  - figure:
+    - img "Advanced Image"
+    - text: Add Hover Effects
+  - figure:
+    - img "Advanced Image"
+    - text: Make Interactive Image
+  - figure:
+    - img "Advanced Image"
+    - text: Create various styles
+  - heading "Advanced Image With Triangle Style" [level=2]
+  - paragraph: Decorate your Advanced Image block by selecting a ‘Border Style’ from 9 different styles and make your image more elegant
+  - list:
+    - listitem:
+      - link "social link":
+        - /url: ""
+        - text: 
+    - listitem:
+      - link "social link":
+        - /url: ""
+        - text: 
+    - listitem:
+      - link "social link":
+        - /url: ""
+        - text: 
+    - listitem:
+      - link "social link":
+        - /url: ""
+        - text: 
+  - figure:
+    - img "Advanced Image"
+    - text: Create Unique Shape Image
+  - figure:
+    - img "Advanced Image"
+    - text: Add Colors
+  - heading "Rhombus Style Layout Of Advanced Image" [level=2]
+  - paragraph: Add some colors to the Border and Caption to give the image a vibrant look, also choose typography to make it more glamorous
+  - list:
+    - listitem:
+      - link "social link":
+        - /url: ""
+        - text: 
+    - listitem:
+      - link "social link":
+        - /url: ""
+        - text: 
+    - listitem:
+      - link "social link":
+        - /url: ""
+        - text: 
+    - listitem:
+      - link "social link":
+        - /url: ""
+        - text: 
+- heading "Essential Blocks" [level=2]
+- paragraph: Advanced Blocks Library For Gutenberg To Power Up Your Site With Interactive Content
+- textbox "Enter your email here..."
+- button "Subscribe"
+- heading "Resources" [level=2]
+- navigation "Menu":
+  - list:
+    - listitem:
+      - link "Privacy Policy":
+        - /url: https://web.archive.org/web/20250711081241/https://wpdeveloper.com/privacy-policy/
+    - listitem:
+      - link "Blog":
+        - /url: https://essential-blocks.com/blog/
+    - listitem:
+      - link "Docs":
+        - /url: https://essential-blocks.com/docs/
+- heading "Get Help" [level=2]
+- navigation "Menu 2":
+  - list:
+    - listitem:
+      - link "Affiliates":
+        - /url: https://wpdeveloper.com/affiliates/
+    - listitem:
+      - link "Support":
+        - /url: https://wpdeveloper.com/support/
+    - listitem:
+      - link "Career":
+        - /url: https://wpdeveloper.com/jobs/
+- heading "Company" [level=2]
+- navigation "Menu 3":
+  - list:
+    - listitem:
+      - link "Contact":
+        - /url: https://wpdeveloper.com/contact/
+    - listitem:
+      - link "About Us":
+        - /url: https://wpdeveloper.com/about/
+    - listitem:
+      - link "Community":
+        - /url: https://www.facebook.com/groups/wpdeveloper.net/
+- list:
+  - listitem:
+    - link "social link":
+      - /url: https://twitter.com/wpdevteam
+      - text: 
+  - listitem:
+    - link "social link":
+      - /url: https://www.facebook.com/WPDeveloperNet/
+      - text: 
+  - listitem:
+    - link "social link":
+      - /url: https://www.instagram.com/wpdevelopernet/
+      - text: 
+- text: Copyright © 2025 | A
+- link "WPDeveloper":
+  - /url: https://wpdeveloper.com/
+- text: Product from
+- link "startise-logo":
+  - /url: https://startise.com/
+  - img "startise-logo"
+- text: family Hosted with
+- link "xCloud-logo":
+  - /url: https://xcloud.host/
+  - img "xCloud-logo"
+- img "Giulio C"
+- paragraph: Giulio C just purchased
+- paragraph: Essential Blocks Pro — Starter
+- paragraph:
+  - text: 17 hours ago
+  - img
+  - text: by
+  - link "NotificationX":
+    - /url: https://notificationx.com?utm_source=https://api.wpdeveloper.com&utm_medium=notificationx
+    - img "NotificationX"
+- img
+- link:
+  - /url: https://essential-blocks.com/#pricing
+- img "Gutenberg Essential Blocks – Page Builder for Gutenberg Blocks &amp; Patterns"
+- paragraph: 200K+ people are actively using
+- paragraph: Essential Blocks
+- paragraph:
+  - img
+  - text: by
+  - link "NotificationX":
+    - /url: https://notificationx.com?utm_source=https://essential-blocks.com&utm_medium=notificationx
+    - img "NotificationX"
+- img
+- link:
+  - /url: https://wordpress.org/plugins/essential-blocks
+- status

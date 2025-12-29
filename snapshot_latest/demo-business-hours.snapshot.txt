@@ -1,0 +1,158 @@
+- text: 07 Days 00 Hours 57 Mins 41 Secs
+- figure
+- figure
+- paragraph: Season’s Best Deals
+- heading "For A Successful 2026" [level=6]
+- link "Grab Access Now":
+  - /url: https://essential-blocks.com/holiday2025-optin
+- img
+- link "Essential Blocks":
+  - /url: https://essential-blocks.com/
+  - img "Essential Blocks"
+- navigation "Primary Menu":
+  - list:
+    - listitem:
+      - link "Home":
+        - /url: https://essential-blocks.com/
+  - list:
+    - listitem:
+      - link "Blog":
+        - /url: https://essential-blocks.com/blog/
+    - listitem:
+      - link "Docs":
+        - /url: http://essential-blocks.com/docs
+    - listitem:
+      - link "All Blocks":
+        - /url: https://essential-blocks.com/demo/
+      - button "All Blocks submenu"
+    - listitem:
+      - link "Features":
+        - /url: "#"
+      - button "Features submenu"
+    - listitem:
+      - link "Get Help":
+        - /url: "#"
+      - button "Get Help submenu"
+    - listitem:
+      - link "Get The Plugin":
+        - /url: https://essential-blocks.com/pricing/
+- main:
+  - heading "Business Hours" [level=2]
+  - heading "Express Professionalism In Style With Business Hours Block" [level=1]:
+    - text: Express Professionalism In Style With
+    - mark: Business Hours
+    - text: Block
+  - paragraph: Easily display your weekly schedule with flexible layouts, color options, dynamic open/close indicators and interactive table view without any coding.
+  - link "Get Started ":
+    - /url: https://essential-blocks.com/#pricing
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/eb-business-hours
+  - figure:
+    - img "Gutenberg Business hours block"
+  - heading "Let Visitors Know When You’re Available Through Websites By Specifying Business Hours" [level=2]
+  - heading "Open For All" [level=3]
+  - paragraph
+  - text: Monday 10:30 AM – 08:00 PM Tuesday 10:30 AM – 08:00 PM Wednesday 10:30 AM – 08:00 PM Thursday 10:30 AM – 08:00 PM Friday 10:30 AM – 08:00 PM Saturday 10:30 AM – 04:00 PM Sunday Closed
+  - heading "Suitable For Restaurants & Cafés" [level=2]
+  - paragraph: Add your shop schedules, split shifts, last-order times, and real-time “Open Now” indicators with WordPress Business Hours block.
+  - heading "Perfect For Stores & Franchises" [level=2]
+  - paragraph: Display your specific opening hours, multiple schedules, and consistent schema for every branch in one place with this essential block.
+  - text: 
+  - heading "Business Hours" [level=3]
+  - paragraph
+  - text: Monday  10:00 – 20:00 Tuesday  10:00 – 20:00 Wednesday  10:00 – 20:00 Thursday  10:00 – 20:00 Friday  10:00 – 20:00 Saturday  10:00 – 20:00 Sunday Closed
+  - heading "Fit For Library & Academic Opening Hours" [level=2]
+  - paragraph: Publish daily schedules, exam-season extensions, and holiday closures with interactive labels to show accurate visibility through the website.
+  - list:
+    - listitem:
+      - text: 
+      - heading "Let’s Connect" [level=3]
+  - list:
+    - listitem:
+      - link " LinkedIn":
+        - /url: https://www.facebook.com/sharer/sharer.php?u=https://essential-blocks.com/demo/business-hours/
+    - listitem:
+      - link " Facebook":
+        - /url: https://www.linkedin.com/shareArticle?title=Business%20Hours&url=https://essential-blocks.com/demo/business-hours/&mini=true
+    - listitem:
+      - link " Pinterest":
+        - /url: https://pinterest.com/pin/create/button/?url=https://essential-blocks.com/demo/business-hours/
+  - heading "Available Hours" [level=3]
+  - paragraph
+  - text: Monday 09:00 AM – 05:00 PM Tuesday 09:00 AM – 05:00 PM Wednesday 09:00 AM – 05:00 PM Thursday 09:00 AM – 05:00 PM Friday 09:00 AM – 05:00 PM Saturday 10:00 AM – 04:00 PM Sunday Closed
+  - heading "Whatever Your Business Purpose, Show Open Times With Beautifully Designed Business Hours" [level=2]
+  - paragraph: You can customize available days, add upcoming holidays, close days, change colors, backgrounds and all with Essential Blocks’ Business Hours Block
+  - paragraph: Working hours
+  - text: Monday  10:30 – 20:00 Tuesday  10:30 – 20:00 Wednesday  10:30 – 20:00 Thursday  10:30 – 20:00 Friday  10:30 – 20:00 Saturday Closed Sunday Closed
+  - paragraph: Office hours
+  - text: Monday 10:30 AM – 08:00 PM Tuesday 10:30 AM – 08:00 PM Wednesday 10:30 AM – 08:00 PM Thursday 10:30 AM – 08:00 PM Friday 10:30 AM – 08:00 PM Saturday 10:30 AM – 08:00 PM
+  - paragraph: "Call: +4480 566 644"
+  - paragraph: Restaurant Hours
+  - text: Monday 10:30 AM – 08:00 PM Tuesday 10:30 AM – 08:00 PM Wednesday 10:30 AM – 08:00 PM Thursday 10:30 AM – 08:00 PM Friday 10:30 AM – 08:00 PM
+  - heading "Upcoming Holidays" [level=3]
+  - text: Christmas Day! 12/25/2025 – 12/26/2025 Closed
+- heading "Essential Blocks" [level=2]
+- paragraph: Advanced Blocks Library For Gutenberg To Power Up Your Site With Interactive Content
+- textbox "Enter your email here..."
+- button "Subscribe"
+- heading "Resources" [level=2]
+- navigation "Menu":
+  - list:
+    - listitem:
+      - link "Privacy Policy":
+        - /url: https://web.archive.org/web/20250711081241/https://wpdeveloper.com/privacy-policy/
+    - listitem:
+      - link "Blog":
+        - /url: https://essential-blocks.com/blog/
+    - listitem:
+      - link "Docs":
+        - /url: https://essential-blocks.com/docs/
+- heading "Get Help" [level=2]
+- navigation "Menu 2":
+  - list:
+    - listitem:
+      - link "Affiliates":
+        - /url: https://wpdeveloper.com/affiliates/
+    - listitem:
+      - link "Support":
+        - /url: https://wpdeveloper.com/support/
+    - listitem:
+      - link "Career":
+        - /url: https://wpdeveloper.com/jobs/
+- heading "Company" [level=2]
+- navigation "Menu 3":
+  - list:
+    - listitem:
+      - link "Contact":
+        - /url: https://wpdeveloper.com/contact/
+    - listitem:
+      - link "About Us":
+        - /url: https://wpdeveloper.com/about/
+    - listitem:
+      - link "Community":
+        - /url: https://www.facebook.com/groups/wpdeveloper.net/
+- list:
+  - listitem:
+    - link "social link":
+      - /url: https://twitter.com/wpdevteam
+      - text: 
+  - listitem:
+    - link "social link":
+      - /url: https://www.facebook.com/WPDeveloperNet/
+      - text: 
+  - listitem:
+    - link "social link":
+      - /url: https://www.instagram.com/wpdevelopernet/
+      - text: 
+- text: Copyright © 2025 | A
+- link "WPDeveloper":
+  - /url: https://wpdeveloper.com/
+- text: Product from
+- link "startise-logo":
+  - /url: https://startise.com/
+  - img "startise-logo"
+- text: family Hosted with
+- link "xCloud-logo":
+  - /url: https://xcloud.host/
+  - img "xCloud-logo"
+- status

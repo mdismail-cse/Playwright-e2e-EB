@@ -1,0 +1,26 @@
+{
+  "name": "e2e-snapshot-testing",
+  "version": "1.0.0",
+  "description": "Playwright ARIA snapshot testing for Essential Blocks demos",
+  "main": "create-snapshots.js",
+  "scripts": {
+    "snapshot:all": "node create-snapshots.js --all",
+    "snapshot:create": "node create-snapshots.js --create",
+    "snapshot:update": "node create-snapshots.js --update",
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "install:browsers": "playwright install"
+  },
+  "keywords": [
+    "playwright",
+    "snapshot",
+    "testing",
+    "aria"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.40.0"
+  },
+  "dependencies": {}
+}

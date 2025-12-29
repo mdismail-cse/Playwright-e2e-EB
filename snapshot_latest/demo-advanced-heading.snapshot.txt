@@ -1,0 +1,180 @@
+- text: 07 Days 00 Hours 58 Mins 52 Secs
+- figure
+- figure
+- paragraph: Season’s Best Deals
+- heading "For A Successful 2026" [level=6]
+- link "Grab Access Now":
+  - /url: https://essential-blocks.com/holiday2025-optin
+- img
+- link "Essential Blocks":
+  - /url: https://essential-blocks.com/
+  - img "Essential Blocks"
+- navigation "Primary Menu":
+  - list:
+    - listitem:
+      - link "Home":
+        - /url: https://essential-blocks.com/
+  - list:
+    - listitem:
+      - link "Blog":
+        - /url: https://essential-blocks.com/blog/
+    - listitem:
+      - link "Docs":
+        - /url: http://essential-blocks.com/docs
+    - listitem:
+      - link "All Blocks":
+        - /url: https://essential-blocks.com/demo/
+      - button "All Blocks submenu"
+    - listitem:
+      - link "Features":
+        - /url: "#"
+      - button "Features submenu"
+    - listitem:
+      - link "Get Help":
+        - /url: "#"
+      - button "Get Help submenu"
+    - listitem:
+      - link "Get The Plugin":
+        - /url: https://essential-blocks.com/pricing/
+- main:
+  - img "Advanced Heading"
+  - heading "Advanced Heading" [level=1]
+  - paragraph: Create a stunning heading or title in a beautiful manner by simply using the Advanced Heading block and grabbing the attention of your potential user outstandingly. With many preset designs, subtitles, and more options.
+  - link "Get Started FREE ":
+    - /url: https://wordpress.org/plugins/essential-blocks
+  - figure:
+    - img "Advanced Heading"
+  - figure:
+    - img "Advanced Heading"
+  - img "macbook"
+  - heading "Limitless Content Customization" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Responsive Preview Controls" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Infinite Styling Possibilities" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "45+ Advanced Gutenberg Blocks" [level=3]
+  - paragraph
+  - heading "Guide To Create An Advanced Heading" [level=2]
+  - figure:
+    - iframe
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/heading
+  - heading "Creative Heading" [level=4]
+  - heading "Default Preset" [level=2]
+  - paragraph: We are a premium, French-style restaurant that serves whatever you enjoy about fine dining with sincerity. The menu includes Chinese entrees, Squid fry, and Delicious Sandwiches produced with beef and chicken. Order now and the meal will be delivered to your house in 30 minutes
+  - figure:
+    - img "Advanced Heading"
+  - heading "Preset 1" [level=2]
+  - heading "Create Stunning Post Heading With Subtitle" [level=2]
+  - paragraph: With the advanced Display Subtitle & Display Separator option, reveal your content in a compelling manner.
+  - heading "Color Advanced Heading" [level=2]
+  - paragraph: Make your travel website gain widespread fame with the Advanced Heading
+  - figure:
+    - img "Advanced Heading"
+    - link:
+      - /url: "#"
+  - heading "Preset Layout 2" [level=2]
+  - paragraph: Showcase your interior decor website with stunning hover effects by using Advanced Heading
+  - figure:
+    - img "Advanced Heading"
+  - figure:
+    - img "Advanced Heading"
+  - heading "Creative Essential Blocks Advanced Heading" [level=2]
+  - heading [level=6]
+  - paragraph: We have a reputation for not just making well-built furniture, but also for having an excellent design aesthetic and work ethic. And our workmanship – our mindset of striving to produce the best of anything we build–has earned us national acclaim With innovative Separator Style & Positioning, your Advanced Heading will look spectacular in every angle
+  - figure:
+    - img "Advanced Heading"
+- heading "Essential Blocks" [level=2]
+- paragraph: Advanced Blocks Library For Gutenberg To Power Up Your Site With Interactive Content
+- textbox "Enter your email here..."
+- button "Subscribe"
+- heading "Resources" [level=2]
+- navigation "Menu":
+  - list:
+    - listitem:
+      - link "Privacy Policy":
+        - /url: https://web.archive.org/web/20250711081241/https://wpdeveloper.com/privacy-policy/
+    - listitem:
+      - link "Blog":
+        - /url: https://essential-blocks.com/blog/
+    - listitem:
+      - link "Docs":
+        - /url: https://essential-blocks.com/docs/
+- heading "Get Help" [level=2]
+- navigation "Menu 2":
+  - list:
+    - listitem:
+      - link "Affiliates":
+        - /url: https://wpdeveloper.com/affiliates/
+    - listitem:
+      - link "Support":
+        - /url: https://wpdeveloper.com/support/
+    - listitem:
+      - link "Career":
+        - /url: https://wpdeveloper.com/jobs/
+- heading "Company" [level=2]
+- navigation "Menu 3":
+  - list:
+    - listitem:
+      - link "Contact":
+        - /url: https://wpdeveloper.com/contact/
+    - listitem:
+      - link "About Us":
+        - /url: https://wpdeveloper.com/about/
+    - listitem:
+      - link "Community":
+        - /url: https://www.facebook.com/groups/wpdeveloper.net/
+- list:
+  - listitem:
+    - link "social link":
+      - /url: https://twitter.com/wpdevteam
+      - text: 
+  - listitem:
+    - link "social link":
+      - /url: https://www.facebook.com/WPDeveloperNet/
+      - text: 
+  - listitem:
+    - link "social link":
+      - /url: https://www.instagram.com/wpdevelopernet/
+      - text: 
+- text: Copyright © 2025 | A
+- link "WPDeveloper":
+  - /url: https://wpdeveloper.com/
+- text: Product from
+- link "startise-logo":
+  - /url: https://startise.com/
+  - img "startise-logo"
+- text: family Hosted with
+- link "xCloud-logo":
+  - /url: https://xcloud.host/
+  - img "xCloud-logo"
+- img "Bruno A"
+- paragraph: Bruno A just purchased
+- paragraph: Essential Blocks Pro — Starter
+- paragraph:
+  - text: 14 hours ago
+  - img
+  - text: by
+  - link "NotificationX":
+    - /url: https://notificationx.com?utm_source=https://api.wpdeveloper.com&utm_medium=notificationx
+    - img "NotificationX"
+- img
+- link:
+  - /url: https://essential-blocks.com/#pricing
+- img "Gutenberg Essential Blocks – Page Builder for Gutenberg Blocks &amp; Patterns"
+- paragraph: 200K+ people are actively using
+- paragraph: Essential Blocks
+- paragraph:
+  - img
+  - text: by
+  - link "NotificationX":
+    - /url: https://notificationx.com?utm_source=https://essential-blocks.com&utm_medium=notificationx
+    - img "NotificationX"
+- img
+- link:
+  - /url: https://wordpress.org/plugins/essential-blocks
+- status

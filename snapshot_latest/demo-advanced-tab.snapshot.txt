@@ -1,0 +1,280 @@
+- text: 07 Days 00 Hours 58 Mins 55 Secs
+- figure
+- figure
+- paragraph: Season’s Best Deals
+- heading "For A Successful 2026" [level=6]
+- link "Grab Access Now":
+  - /url: https://essential-blocks.com/holiday2025-optin
+- img
+- link "Essential Blocks":
+  - /url: https://essential-blocks.com/
+  - img "Essential Blocks"
+- navigation "Primary Menu":
+  - list:
+    - listitem:
+      - link "Home":
+        - /url: https://essential-blocks.com/
+  - list:
+    - listitem:
+      - link "Blog":
+        - /url: https://essential-blocks.com/blog/
+    - listitem:
+      - link "Docs":
+        - /url: http://essential-blocks.com/docs
+    - listitem:
+      - link "All Blocks":
+        - /url: https://essential-blocks.com/demo/
+      - button "All Blocks submenu"
+    - listitem:
+      - link "Features":
+        - /url: "#"
+      - button "Features submenu"
+    - listitem:
+      - link "Get Help":
+        - /url: "#"
+      - button "Get Help submenu"
+    - listitem:
+      - link "Get The Plugin":
+        - /url: https://essential-blocks.com/pricing/
+- main:
+  - img "Advanced Tabs"
+  - heading "Advanced Tab" [level=1]
+  - paragraph: Using the Essential Blocks Advanced Tabs, you can display key information interactively with nested tabs designed for Gutenberg users. This useful block reduces scroll time and presents information in one place.
+  - link "Get Started FREE ":
+    - /url: https://wordpress.org/plugins/essential-blocks
+  - figure:
+    - img "Advanced Tabs"
+  - figure:
+    - img "Advanced Tabs"
+  - img "macbook"
+  - heading "Limitless Content Customization" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Responsive Preview Controls" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "Infinite Styling Possibilities" [level=3]
+  - paragraph
+  - img "macbook"
+  - heading "45+ Advanced Gutenberg Blocks" [level=3]
+  - paragraph
+  - heading "Quick Guide To Create Advanced Tabs" [level=2]
+  - figure:
+    - iframe
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/eb-advanced-tabs
+  - heading "Horizontal Advanced Tabs With Icon" [level=2]
+  - paragraph: Showcase necessary information with a horizontal view, add icons for each tab, images and so on to make it more lucrative & impressive for the viewers
+  - list:
+    - listitem:
+      - text: 
+      - heading "About Us" [level=6]
+    - listitem:
+      - text: 
+      - heading "Mission" [level=6]
+    - listitem:
+      - text: 
+      - heading "Vision" [level=6]
+    - listitem:
+      - text: 
+      - heading "Goals" [level=6]
+  - heading "About Us" [level=2]
+  - paragraph: Insight Research is a leading player in academic, business and market research. It has an efficient team of dexterous researchers and creative writers from diverse educational and research backgrounds. It is a large market research firm that specializes in academic, corporate, and market research. It employs a skilled team of researchers and creative writers with a variety of educational and research backgrounds.
+  - list:
+    - listitem:
+      - link "social link":
+        - /url: https://www.facebook.com/WPDeveloperNet
+        - text: 
+    - listitem:
+      - link "social link":
+        - /url: https://twitter.com/wpdevteam
+        - text: 
+    - listitem:
+      - link "social link":
+        - /url: https://www.instagram.com/wpdevelopernet/?hl=en
+        - text: 
+    - listitem:
+      - link "social link":
+        - /url: https://www.youtube.com/c/WPDeveloperNet
+        - text: 
+  - figure:
+    - img "Advanced Tabs"
+  - heading "Vertical Advanced Tabs With Icon" [level=2]
+  - paragraph: Present all the key information showing them vertically. You can change colors, add icons, etc for each tab and style to make it more appealing and interactive
+  - list:
+    - listitem:
+      - text: 
+      - heading "About Us" [level=6]
+    - listitem:
+      - text: 
+      - heading "Mission" [level=6]
+    - listitem:
+      - text: 
+      - heading "Vision" [level=6]
+    - listitem:
+      - text: 
+      - heading "Goals" [level=6]
+  - heading "Company Mission" [level=2]
+  - paragraph: We work with a mission to have a profound impact on the field of research and build our employees with skill and leadership without compromising credibility and quality. Our focus in on having a significant impact on the field of research while also developing our employees’ skills and leadership without sacrificing integrity and quality. Our objective is to have a significant impact on the field of research while also developing our employees’ skills and leadership without jeopardizing their performance.
+  - list:
+    - listitem:
+      - link "social link":
+        - /url: https://www.facebook.com/WPDeveloperNet
+        - text: 
+    - listitem:
+      - link "social link":
+        - /url: https://twitter.com/wpdevteam
+        - text: 
+    - listitem:
+      - link "social link":
+        - /url: https://www.instagram.com/wpdevelopernet/?hl=en
+        - text: 
+    - listitem:
+      - link "social link":
+        - /url: https://www.youtube.com/c/WPDeveloperNet
+        - text: 
+  - heading "Stacked Icons In Advanced Tabs" [level=2]
+  - paragraph: You can change the position of icons and design the appearance of the tabs with full customization options to highlight details stunningly.
+  - list:
+    - listitem:
+      - text: 
+      - heading "About Us" [level=6]
+    - listitem:
+      - text: 
+      - heading "Mission" [level=6]
+    - listitem:
+      - text: 
+      - heading "Vision" [level=6]
+    - listitem:
+      - text: 
+      - heading "Goals" [level=6]
+  - heading "Company Vision" [level=2]
+  - paragraph: This company’s ultimate focus is to have a positive impact on the field of research and with an aim to establish a research academy with huge resource. Our vision is to have a good impact on the field of research, with the goal of establishing a large-scale research academy. We wish to make a good impact on the field of research and to develop a impactful research academy.
+  - figure:
+    - img "Advanced Tabs"
+  - heading "Advanced Tabs Without Icons" [level=2]
+  - paragraph: Spotlight on organizational achievements, goals & more using versatile styling options to make your website standout for the visitors effortlessly without any coding.
+  - list:
+    - listitem:
+      - heading "About Us" [level=6]
+    - listitem:
+      - heading "Mission" [level=6]
+    - listitem:
+      - heading "Vision" [level=6]
+    - listitem:
+      - heading "Goals" [level=6]
+  - heading "Company Mission" [level=2]
+  - paragraph: The mission is to have a notable impact on the field of research while also developing our employees’ skills and leadership without sacrificing integrity and quality. Our mission is to have a substantial effect on the field of research while also improving the abilities and leadership of our employees without compromising honesty or quality. Our target is to have a substantial impact on the research area while also strengthening the talents and leadership of our employees without losing their integrity and quality. Our mission is to provide educational programs that enable all researchers to achieve academic success and become lifelong learners and community contributors.
+  - heading "Enable Or Disable Fill Tiles’ Wrapper" [level=2]
+  - paragraph: You can enable or disable fill tiles’ wrapper and try out different designs to showcase features, information, perks and benefits beautifully.
+  - list:
+    - listitem:
+      - text: 
+      - heading "About Us" [level=6]
+    - listitem:
+      - text: 
+      - heading "Mission" [level=6]
+    - listitem:
+      - text: 
+      - heading "Vision" [level=6]
+    - listitem:
+      - text: 
+      - heading "Goals" [level=6]
+  - heading "Company Mission" [level=2]
+  - paragraph: We work with a mission to have a profound impact on the field of research and build our employees with skill and leadership without compromising credibility and quality. Our target is to have a significant impact on the field of research while also developing our employees’ skills and leadership without sacrificing integrity and quality. The main objective is to have a significant impact on the field of research while also developing our employees’ skills and leadership without jeopardizing their significance.
+  - list:
+    - listitem:
+      - link "social link":
+        - /url: https://www.facebook.com/WPDeveloperNet
+        - text: 
+    - listitem:
+      - link "social link":
+        - /url: https://twitter.com/wpdevteam
+        - text: 
+    - listitem:
+      - link "social link":
+        - /url: https://www.instagram.com/wpdevelopernet/?hl=en
+        - text: 
+    - listitem:
+      - link "social link":
+        - /url: https://www.youtube.com/c/WPDeveloperNet
+        - text: 
+  - figure:
+    - img "Advanced Tabs"
+- heading "Essential Blocks" [level=2]
+- paragraph: Advanced Blocks Library For Gutenberg To Power Up Your Site With Interactive Content
+- textbox "Enter your email here..."
+- button "Subscribe"
+- heading "Resources" [level=2]
+- navigation "Menu":
+  - list:
+    - listitem:
+      - link "Privacy Policy":
+        - /url: https://web.archive.org/web/20250711081241/https://wpdeveloper.com/privacy-policy/
+    - listitem:
+      - link "Blog":
+        - /url: https://essential-blocks.com/blog/
+    - listitem:
+      - link "Docs":
+        - /url: https://essential-blocks.com/docs/
+- heading "Get Help" [level=2]
+- navigation "Menu 2":
+  - list:
+    - listitem:
+      - link "Affiliates":
+        - /url: https://wpdeveloper.com/affiliates/
+    - listitem:
+      - link "Support":
+        - /url: https://wpdeveloper.com/support/
+    - listitem:
+      - link "Career":
+        - /url: https://wpdeveloper.com/jobs/
+- heading "Company" [level=2]
+- navigation "Menu 3":
+  - list:
+    - listitem:
+      - link "Contact":
+        - /url: https://wpdeveloper.com/contact/
+    - listitem:
+      - link "About Us":
+        - /url: https://wpdeveloper.com/about/
+    - listitem:
+      - link "Community":
+        - /url: https://www.facebook.com/groups/wpdeveloper.net/
+- list:
+  - listitem:
+    - link "social link":
+      - /url: https://twitter.com/wpdevteam
+      - text: 
+  - listitem:
+    - link "social link":
+      - /url: https://www.facebook.com/WPDeveloperNet/
+      - text: 
+  - listitem:
+    - link "social link":
+      - /url: https://www.instagram.com/wpdevelopernet/
+      - text: 
+- text: Copyright © 2025 | A
+- link "WPDeveloper":
+  - /url: https://wpdeveloper.com/
+- text: Product from
+- link "startise-logo":
+  - /url: https://startise.com/
+  - img "startise-logo"
+- text: family Hosted with
+- link "xCloud-logo":
+  - /url: https://xcloud.host/
+  - img "xCloud-logo"
+- img "Gutenberg Essential Blocks – Page Builder for Gutenberg Blocks &amp; Patterns"
+- paragraph: 200K+ people are actively using
+- paragraph: Essential Blocks
+- paragraph:
+  - img
+  - text: by
+  - link "NotificationX":
+    - /url: https://notificationx.com?utm_source=https://essential-blocks.com&utm_medium=notificationx
+    - img "NotificationX"
+- img
+- link:
+  - /url: https://wordpress.org/plugins/essential-blocks
+- status

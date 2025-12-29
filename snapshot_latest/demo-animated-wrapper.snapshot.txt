@@ -1,0 +1,217 @@
+- text: 07 Days 00 Hours 57 Mins 40 Secs
+- figure
+- figure
+- paragraph: Season’s Best Deals
+- heading "For A Successful 2026" [level=6]
+- link "Grab Access Now":
+  - /url: https://essential-blocks.com/holiday2025-optin
+- img
+- link "Essential Blocks":
+  - /url: https://essential-blocks.com/
+  - img "Essential Blocks"
+- navigation "Primary Menu":
+  - list:
+    - listitem:
+      - link "Home":
+        - /url: https://essential-blocks.com/
+  - list:
+    - listitem:
+      - link "Blog":
+        - /url: https://essential-blocks.com/blog/
+    - listitem:
+      - link "Docs":
+        - /url: http://essential-blocks.com/docs
+    - listitem:
+      - link "All Blocks":
+        - /url: https://essential-blocks.com/demo/
+      - button "All Blocks submenu"
+    - listitem:
+      - link "Features":
+        - /url: "#"
+      - button "Features submenu"
+    - listitem:
+      - link "Get Help":
+        - /url: "#"
+      - button "Get Help submenu"
+    - listitem:
+      - link "Get The Plugin":
+        - /url: https://essential-blocks.com/pricing/
+- main:
+  - heading "Animated Wrapper" [level=2]
+  - heading "Animate Anything In Gurenberg With Silky-Smooth Transitions" [level=2]
+  - paragraph: Get wildly robust animated transitions for your website and make every section interactive with the animated wrapper block.
+  - link "Get Started ":
+    - /url: https://essential-blocks.com/#pricing
+  - link "Read Documentation ":
+    - /url: https://essential-blocks.com/docs/eb-animated-wrapper
+  - figure:
+    - img "Animated Wrapper block of Essential Blocks"
+  - heading "Mix & Match Animation Effects" [level=2]
+  - paragraph: Add multiple blocks under one wrapper and animate them with seamless slide effects; no custom coding is needed. Just click and play.
+  - img "Animated Wrapper"
+  - heading "Digital Marketing" [level=2]
+  - img "Animated Wrapper"
+  - heading "Web Development" [level=2]
+  - img "Animated Wrapper"
+  - heading "Product Design" [level=2]
+  - img "Animated Wrapper"
+  - heading "Motion Design" [level=2]
+  - heading "Slide Up & Bounce Out Stacked Cards" [level=2]
+  - paragraph: Make your static sections interactive and engaging with versatile animation effects. Design outstanding review sections, cards with innovative transitions.
+  - paragraph: Sarah L.
+  - paragraph: CEO of BrightLeaf Solutions
+  - paragraph: “5 star to GramZen agency . Their designers understood our vision and delivered a website that’s not just beautiful but also converts visitors into customers.”
+  - paragraph: Rajiv S.
+  - paragraph: Founder of EcoWear Co.
+  - paragraph: “From concept to launch, the team was professional, creative, and always on time. Their attention to detail and commitment to quality blew us away.”
+  - paragraph: Omar F.
+  - paragraph: CTO of MediaWave
+  - paragraph: “Working with this agency felt effortless. They turned our ideas into polished UI designs and stayed consistent with timelines.”
+  - paragraph: Lorence
+  - paragraph: Marketing Lead at UrbanFoods
+  - paragraph: “5 star to GramZen agency . Their designers understood our vision and delivered a website that’s not just beautiful but also converts visitors into customers.”
+  - heading "Add Advanced Scroll-Triggered Effects" [level=2]
+  - paragraph: Create immersive storytelling sections where animation speed, direction, and highlights respond naturally to user scroll, elevating engagement through dynamic motion.
+  - figure:
+    - img "Animated Wrapper"
+  - heading "Design With Modular Animation Components" [level=2]
+  - paragraph: Build complex motion sequences using modular, reusable components that adapt seamlessly to different layouts, interactions, and presentation styles without extra setup.
+  - figure:
+    - img "Animated Wrapper"
+  - heading "Smooth UX Accelerated Transformations" [level=2]
+  - paragraph: Utilize GPS-powered transforms to achieve ultra-responsive motion that feels crisp, fluid, and visually stable across all modern devices and browser environments.
+  - figure:
+    - img "Animated Wrapper"
+  - heading "Create Timeline-Driven Motion Control In Ease" [level=2]
+  - paragraph: Craft perfectly synchronized animations with timeline-based sequencing that gives you full control over pacing, easing, and transitions across every scrolling moment.
+  - figure:
+    - img "Animated Wrapper"
+  - heading "Dynamic Parallax Motion with Playful Energy" [level=2]
+  - paragraph: Make your static sections interactive and engaging with versatile animation effects. Design outstanding review sections, cards with innovative transitions.
+  - img "Animated Wrapper"
+  - heading "Luminous Ember" [level=2]
+  - heading "Awaken your senses with a warm, flickering glow" [level=3]
+  - img "Animated Wrapper"
+  - heading "Aurora Glow" [level=2]
+  - heading "Immerse in deep, mysterious scents that wrap in elegance" [level=3]
+  - img "Animated Wrapper"
+  - heading "Stardust Flicker" [level=2]
+  - heading "Tiny sparks of motion and light mimic celestial patterns" [level=3]
+  - heading "Bring Fluid Transitions In Interactive Scroll Animations" [level=2]
+  - paragraph: Effortlessly create visually stunning scroll animations that flow naturally, keeping your visitors engaged and guiding them with smooth, interactive transitions.
+  - list:
+    - listitem:
+      - img "Star 37"
+      - heading "Awards Wining Agency" [level=3]
+      - paragraph
+  - list:
+    - listitem:
+      - img "Star 37"
+      - heading "Awards Wining Agency" [level=3]
+      - paragraph
+  - list:
+    - listitem:
+      - img "Star 37"
+      - heading "Awards Wining Agency" [level=3]
+      - paragraph
+  - list:
+    - listitem:
+      - img "Star 37"
+      - heading "Awards Wining Agency" [level=3]
+      - paragraph
+  - heading "Explore Numerous Configuration Options To Customize Animated Wrapper Based On Your Needs" [level=5]
+  - paragraph: Style each wrapper item hierarchy, custom control, dynamic animation effects and smooth motion flow and create an elegant embieance on your website.
+  - figure:
+    - img "Animated Wrapper"
+  - heading "Animation Type" [level=3]
+  - figure:
+    - img "Animated Wrapper"
+  - heading "Animation Ease" [level=3]
+  - figure:
+    - img "Animated Wrapper"
+  - figure:
+    - img "Animated Wrapper"
+  - heading "Vertical Alignment" [level=3]
+  - figure:
+    - img "Animated Wrapper"
+- heading "Essential Blocks" [level=2]
+- paragraph: Advanced Blocks Library For Gutenberg To Power Up Your Site With Interactive Content
+- textbox "Enter your email here..."
+- button "Subscribe"
+- heading "Resources" [level=2]
+- navigation "Menu":
+  - list:
+    - listitem:
+      - link "Privacy Policy":
+        - /url: https://web.archive.org/web/20250711081241/https://wpdeveloper.com/privacy-policy/
+    - listitem:
+      - link "Blog":
+        - /url: https://essential-blocks.com/blog/
+    - listitem:
+      - link "Docs":
+        - /url: https://essential-blocks.com/docs/
+- heading "Get Help" [level=2]
+- navigation "Menu 2":
+  - list:
+    - listitem:
+      - link "Affiliates":
+        - /url: https://wpdeveloper.com/affiliates/
+    - listitem:
+      - link "Support":
+        - /url: https://wpdeveloper.com/support/
+    - listitem:
+      - link "Career":
+        - /url: https://wpdeveloper.com/jobs/
+- heading "Company" [level=2]
+- navigation "Menu 3":
+  - list:
+    - listitem:
+      - link "Contact":
+        - /url: https://wpdeveloper.com/contact/
+    - listitem:
+      - link "About Us":
+        - /url: https://wpdeveloper.com/about/
+    - listitem:
+      - link "Community":
+        - /url: https://www.facebook.com/groups/wpdeveloper.net/
+- list:
+  - listitem:
+    - link "social link":
+      - /url: https://twitter.com/wpdevteam
+      - text: 
+  - listitem:
+    - link "social link":
+      - /url: https://www.facebook.com/WPDeveloperNet/
+      - text: 
+  - listitem:
+    - link "social link":
+      - /url: https://www.instagram.com/wpdevelopernet/
+      - text: 
+- text: Copyright © 2025 | A
+- link "WPDeveloper":
+  - /url: https://wpdeveloper.com/
+- text: Product from
+- link "startise-logo":
+  - /url: https://startise.com/
+  - img "startise-logo"
+- text: family Hosted with
+- link "xCloud-logo":
+  - /url: https://xcloud.host/
+  - img "xCloud-logo"
+- img "Gutenberg Essential Blocks – Page Builder for Gutenberg Blocks &amp; Patterns"
+- paragraph:
+  - paragraph:
+    - strong: Essential Blocks
+- paragraph:
+  - paragraph: has been downloaded 6.7M+ times
+- paragraph:
+  - paragraph: Why Don't You?
+  - img
+  - text: by
+  - link "NotificationX":
+    - /url: https://notificationx.com?utm_source=https://essential-blocks.com&utm_medium=notificationx
+    - img "NotificationX"
+- img
+- link:
+  - /url: https://wordpress.org/plugins/essential-blocks
+- status
