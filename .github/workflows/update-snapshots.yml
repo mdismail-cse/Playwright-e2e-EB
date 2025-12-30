@@ -4,7 +4,7 @@ on:
   workflow_dispatch: # Manual trigger only
 
 env:
-  MAX_CONCURRENT: 5  # Number of parallel snapshot threads
+  MAX_CONCURRENT: 10  # Number of parallel snapshot threads
 
 jobs:
   update-snapshots:
@@ -31,7 +31,7 @@ jobs:
     - name: Update all snapshots (parallel)
       run: npm run snapshot:all
       env:
-        MAX_CONCURRENT: 5
+        MAX_CONCURRENT: 10
       
     - name: Read snapshot report
       id: snapshot_report

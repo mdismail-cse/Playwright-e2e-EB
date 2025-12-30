@@ -8,7 +8,7 @@ on:
   workflow_dispatch: # Allow manual trigger
 
 env:
-  MAX_CONCURRENT: 5  # Number of parallel snapshot threads
+  MAX_CONCURRENT: 10  # Number of parallel snapshot threads
 
 jobs:
   test:
