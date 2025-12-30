@@ -5,9 +5,6 @@ on:
     branches: [ main, master ]
   pull_request:
     branches: [ main, master ]
-  schedule:
-    # Run daily at 2 AM UTC
-    - cron: '0 2 * * *'
   workflow_dispatch: # Allow manual trigger
 
 env:
@@ -180,8 +177,8 @@ jobs:
   # Optional: Job to update snapshots automatically
   update-snapshots:
     runs-on: ubuntu-latest
-    # Only run on schedule or manual trigger
-    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    # Only run on manual trigger
+    if: github.event_name == 'workflow_dispatch'
     
     steps:
     - name: Checkout code
