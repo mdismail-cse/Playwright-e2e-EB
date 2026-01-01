@@ -11,6 +11,59 @@ const REPORT_DIR = path.join(__dirname, 'test-results');
 const MAX_CONCURRENT = parseInt(process.env.MAX_CONCURRENT || '5', 10);
 
 /**
+ * Disable Slick slider animations if present on the page
+ * @param {Page} page - Playwright page object
+ */
+async function disableSlickSlider(page) {
+    try {
+        // Check if Slick JS and CSS are loaded
+        const hasSlick = await page.evaluate(() => {
+            // Check for Slick CSS
+            const hasSlickCSS = Array.from(document.styleSheets).some(sheet => {
+                try {
+                    return sheet.href && sheet.href.includes('slick');
+                } catch (e) {
+                    return false;
+                }
+            });
+
+            // Check for Slick JS (jQuery plugin)
+            const hasSlickJS = typeof window.jQuery !== 'undefined' &&
+                typeof window.jQuery.fn.slick !== 'undefined';
+
+            return hasSlickCSS && hasSlickJS;
+        });
+
+        if (hasSlick) {
+            console.log('  🎠 Slick slider detected - disabling animations...');
+
+            // Disable Slick slider animations
+            await page.evaluate(() => {
+                const $slider = window.jQuery('.slick-slider');
+
+                if ($slider.length > 0) {
+                    // Unslick first to reset
+                    $slider.slick('unslick');
+
+                    // Re-initialize with animations disabled
+                    $slider.slick({
+                        autoplay: false,
+                        infinite: false,
+                        speed: 0
+                    });
+                }
+            });
+
+            // Wait a bit for slider to reinitialize
+            await page.waitForTimeout(1000);
+        }
+    } catch (error) {
+        // Silently fail if Slick is not present or there's an error
+        console.log('  ℹ️  Slick slider not found or error disabling:', error.message);
+    }
+}
+
+/**
  * Generate a filename from a URL
  */
 function urlToFilename(url) {
@@ -71,6 +124,9 @@ async function validateSnapshot(url) {
         // Navigate to URL and get current snapshot
         await page.goto(url, { waitUntil: 'load', timeout: 180000 });
         await page.waitForTimeout(10000);
+
+        // Disable Slick slider animations if present
+        await disableSlickSlider(page);
 
         // Get ARIA snapshot of main content area (excludes header with countdown timer)
         const contentElement = await page.locator('.eb-fullwidth-container').first();
