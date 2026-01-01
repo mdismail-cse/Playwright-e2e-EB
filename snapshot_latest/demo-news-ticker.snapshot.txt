@@ -27,26 +27,29 @@
     - /url: https://essential-blocks.com/docs/eb-news-ticker
   - heading "News Ticker Preset 1" [level=2]
   - paragraph: Display trending topics on your website with color customization and ultimate styling and show your page or post titles to attract your visitors
-  - text:  Breaking News 
-  - 'link "Introducing Our Latest Release: PRO v 1.0"':
+  - text:  Breaking News
+  - button "Previous" [disabled]
+  - link "Top Idea For Website Design":
     - /url: "#"
-  - 'link "Latest: Welcoming WordPress 6.2 ‘Dolphy"':
-    - /url: "#"
-  - text: 
+  - button "Next"
   - heading "News Ticker Preset 2" [level=2]
   - paragraph: Create a highly interactive News Ticker on your website adding soothing animation to keep your visitors engaged on your website
-  - text:  Trending Today 
-  - 'link "Introducing Our Latest Release: PRO v 1.0"':
-    - /url: "#"
-  - text: 
-  - heading "News Ticker Preset 3" [level=2]
-  - paragraph: Highlight any urgent notice or news on your website sorting from your preferred categories, tags, or authors, and take full control over the block
-  - text: Tech News 
+  - text:  Trending Today
+  - button "Previous" [disabled]
   - 'link "WordCamp Europe: 2023 Happening this June"':
     - /url: "#"
-  - text: 
+  - button "Next"
+  - heading "News Ticker Preset 3" [level=2]
+  - paragraph: Highlight any urgent notice or news on your website sorting from your preferred categories, tags, or authors, and take full control over the block
+  - text: Tech News
+  - button "Previous" [disabled]
+  - 'link "WordCamp Europe: 2023 Happening this June"':
+    - /url: "#"
+  - button "Next"
   - heading "News Ticker Custom Preset" [level=2]
   - paragraph: Customize the EB News Ticker preset according to your imagination and create your own custom preset to reuse anytime
   - text:  Trending
-  - 'link "Introducing Our Latest Release: PRO v 1.0"':
+  - button "Previous" [disabled]
+  - 'link "WordCamp Europe: 2023 Happening this June"':
     - /url: "#"
+  - button "Next"
