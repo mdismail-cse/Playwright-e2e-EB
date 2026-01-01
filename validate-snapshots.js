@@ -64,6 +64,57 @@ async function disableSlickSlider(page) {
 }
 
 /**
+ * Disable typing text animations if present on the page
+ * @param {Page} page - Playwright page object
+ */
+async function disableTypingText(page) {
+    try {
+        // Check if Typed.js is loaded and stop all typing animations
+        const hasTyping = await page.evaluate(() => {
+            // Check if Typed.js is loaded
+            return typeof window.Typed !== 'undefined' ||
+                document.querySelector('.eb-typing-text') !== null;
+        });
+
+        if (hasTyping) {
+            console.log('  ⌨️  Typing text detected - stopping animations...'); \n
+            // Stop all typing animations
+            await page.evaluate(() => {
+                // Stop Typed.js instances if they exist
+                if (typeof window.Typed !== 'undefined' && window.Typed.instances) {
+                    window.Typed.instances.forEach(instance => {
+                        if (instance && typeof instance.stop === 'function') {
+                            instance.stop();
+                        }
+                    });
+                }
+
+                // Also try to find and stop any typing elements
+                const typingElements = document.querySelectorAll('.eb-typing-text, .typed-cursor');
+                typingElements.forEach(el => {
+                    // Remove cursor
+                    if (el.classList.contains('typed-cursor')) {
+                        el.remove();
+                    }
+                    // Stop any CSS animations
+                    if (el.style) {
+                        el.style.animation = 'none';
+                        el.style.transition = 'none';
+                    }
+                });
+            });
+
+            // Wait a bit for animations to stop
+            await page.waitForTimeout(500);
+        }
+    } catch (error) {
+        // Silently fail if typing text is not present or there's an error
+        console.log('  ℹ️  Typing text not found or error disabling:', error.message);
+    }
+}
+
+
+/**
  * Generate a filename from a URL
  */
 function urlToFilename(url) {
@@ -127,6 +178,9 @@ async function validateSnapshot(url) {
 
         // Disable Slick slider animations if present
         await disableSlickSlider(page);
+
+        // Disable typing text animations if present
+        await disableTypingText(page);
 
         // Get ARIA snapshot of main content area (excludes header with countdown timer)
         const contentElement = await page.locator('.eb-fullwidth-container').first();
