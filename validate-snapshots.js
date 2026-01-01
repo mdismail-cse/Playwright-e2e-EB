@@ -77,7 +77,7 @@ async function disableTypingText(page) {
         });
 
         if (hasTyping) {
-            console.log('  ⌨️  Typing text detected - stopping animations...'); \n
+            console.log('  ⌨️  Typing text detected - stopping animations...');
             // Stop all typing animations
             await page.evaluate(() => {
                 // Stop Typed.js instances if they exist
