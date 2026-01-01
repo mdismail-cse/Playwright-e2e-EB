@@ -46,7 +46,7 @@
     - /url: https://maps.google.com/maps?ll=40.712775,-74.005973&z=10&t=m&hl=en-US&gl=US&mapclient=apiv3
     - img "Google"
   - button "Keyboard shortcuts"
-  - text: Map data ©2025 Google
+  - text: Map data ©2026 Google
   - link "Terms (opens in new tab)":
     - /url: https://www.google.com/intl/en-US_US/help/terms_maps.html
     - text: Terms

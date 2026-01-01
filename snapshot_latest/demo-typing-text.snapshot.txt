@@ -30,10 +30,10 @@
   - text: Improve Your Concentration Skills
   - heading "Change Text Position & Typography" [level=2]
   - heading "Apply interactive color pallets on the prefix, typed text & suffix. Choose any typography that suits your style" [level=3]
-  - text: Give Your Interior Modern and
+  - text: Give Your Interior Modern an
   - heading "Create Looped Typing Text" [level=2]
   - heading "Choose between 8+ interactive border styles. Articulate your box shadow with engaging color combinations with normal & hover effect" [level=3]
-  - text: Start Your Day With Soothi Music
+  - text: Start Your Day With Sooth Music
   - heading "Display Animated Text With Smart Backspace" [level=2]
   - heading "Text Animation Without Cursor attractive promo effects by creating amazing content for the audience and make your site outstanding" [level=3]
   - heading "Kickstart Your Own Startup" [level=4]

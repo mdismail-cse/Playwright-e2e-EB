@@ -27,172 +27,69 @@
     - /url: https://essential-blocks.com/docs/eb-post-carousel/
   - heading "Post Carousel Preset 1" [level=2]
   - paragraph: Showcase your posts & blogs in the carousel with thumbnail, title & excerpt texts. Enable the read more button & meta button to ease your user-experience
+  - button "Previous" [disabled]
   - tabpanel:
-    - 'link "Vote for Essential Blocks in WP Awards 2025: Nominated in the Best Block Builders (Gutenberg) Category"':
-      - /url: https://essential-blocks.com/wp-awards-2025-best-block-builders-gutenberg/
-    - img "best WordPress block Essential Blocks WP awards"
-    - link "News":
-      - /url: https://essential-blocks.com/category/announcement/news/
-    - link "WordPress":
-      - /url: https://essential-blocks.com/category/wordpress/
-    - 'heading "Vote for Essential Blocks in WP Awards 2025: Nominated in" [level=2]':
-      - 'link "Vote for Essential Blocks in WP Awards 2025: Nominated in"':
-        - /url: https://essential-blocks.com/wp-awards-2025-best-block-builders-gutenberg/
-    - link "Read More":
-      - /url: https://essential-blocks.com/wp-awards-2025-best-block-builders-gutenberg/
-    - link "Faguni":
-      - /url: https://essential-blocks.com/author/faguni/
-      - img "Faguni"
-    - text: by
-    - link "Faguni":
-      - /url: https://essential-blocks.com/author/faguni/
-    - text: on October 31, 2025
-  - tabpanel:
-    - link "How to Design Your Gutenberg Website with Liquid Glass Effect in Minutes":
-      - /url: https://essential-blocks.com/design-website-with-liquid-glass-effect/
-    - img "How to Design Your Gutenberg Website with Liquid Glass Effect in Minutes"
+    - link "How to Design Interactive Maps on Your Gutenberg Website for Easy Navigation":
+      - /url: https://essential-blocks.com/design-interactive-maps-on-gutenberg/
+    - img "design interactive map"
     - link "Guide":
       - /url: https://essential-blocks.com/category/guide/
     - link "Gutenberg":
       - /url: https://essential-blocks.com/category/gutenberg/
-    - heading "How to Design Your Gutenberg Website with Liquid Glass Effect" [level=2]:
-      - link "How to Design Your Gutenberg Website with Liquid Glass Effect":
-        - /url: https://essential-blocks.com/design-website-with-liquid-glass-effect/
+    - heading "How to Design Interactive Maps on Your Gutenberg Website for" [level=2]:
+      - link "How to Design Interactive Maps on Your Gutenberg Website for":
+        - /url: https://essential-blocks.com/design-interactive-maps-on-gutenberg/
     - link "Read More":
-      - /url: https://essential-blocks.com/design-website-with-liquid-glass-effect/
-    - link "Fatin":
-      - /url: https://essential-blocks.com/author/fatin/
-      - img "Fatin"
+      - /url: https://essential-blocks.com/design-interactive-maps-on-gutenberg/
+    - link "azreen":
+      - /url: https://essential-blocks.com/author/azreen/
+      - img "azreen"
     - text: by
-    - link "Fatin":
-      - /url: https://essential-blocks.com/author/fatin/
-    - text: on September 24, 2025
-  - tabpanel:
-    - 'link "New Milestone for Essential Blocks: Elevating Gutenberg Web Design Flow for 200k+ WordPress Websites"':
-      - /url: https://essential-blocks.com/milestone-web-design-flow-for-200k-websites/
-    - 'img "Essential Blocks New Milestone: Elevating Web Design Flow for 200k+ WordPress Websites"'
-    - link "Announcement":
-      - /url: https://essential-blocks.com/category/announcement/
-    - link "News":
-      - /url: https://essential-blocks.com/category/announcement/news/
-    - link "WordPress":
-      - /url: https://essential-blocks.com/category/wordpress/
-    - 'heading "New Milestone for Essential Blocks: Elevating Gutenberg Web Design Flow" [level=2]':
-      - 'link "New Milestone for Essential Blocks: Elevating Gutenberg Web Design Flow"':
-        - /url: https://essential-blocks.com/milestone-web-design-flow-for-200k-websites/
-    - link "Read More":
-      - /url: https://essential-blocks.com/milestone-web-design-flow-for-200k-websites/
-    - link "Faguni":
-      - /url: https://essential-blocks.com/author/faguni/
-      - img "Faguni"
-    - text: by
-    - link "Faguni":
-      - /url: https://essential-blocks.com/author/faguni/
-    - text: on September 15, 2025
-  - tablist:
-    - tab "1 of 2": • 1
-    - tab "2 of 2": • 2
-    - tab "3 of 2": • 3
-    - tab "4 of 2" [selected]: • 4
-    - tab "5 of 2": • 5
-    - tab "6 of 2": • 6
+    - link "azreen":
+      - /url: https://essential-blocks.com/author/azreen/
+    - text: on December 15, 2025
+  - button "Next"
   - heading "Post Carousel Preset 2" [level=2]
   - paragraph: Easily customize header meta & footer meta on your post carousel to make it more charming to your visitors. Add directional arrows on both sides for easy navigation
-  - text: 
+  - button "Previous" [disabled]
   - article:
-    - 'link "Vote for Essential Blocks in WP Awards 2025: Nominated in the Best Block Builders (Gutenberg) Category"':
-      - /url: https://essential-blocks.com/wp-awards-2025-best-block-builders-gutenberg/
-    - img "best WordPress block Essential Blocks WP awards"
-    - text: on October 31, 2025
-    - 'heading "Vote for Essential Blocks in WP Awards 2025: Nominated in" [level=2]':
-      - 'link "Vote for Essential Blocks in WP Awards 2025: Nominated in"':
-        - /url: https://essential-blocks.com/wp-awards-2025-best-block-builders-gutenberg/
-    - link "Faguni":
-      - /url: https://essential-blocks.com/author/faguni/
-      - img "Faguni"
+    - link "How to Design Interactive Maps on Your Gutenberg Website for Easy Navigation":
+      - /url: https://essential-blocks.com/design-interactive-maps-on-gutenberg/
+    - img "design interactive map"
+    - text: on December 15, 2025
+    - heading "How to Design Interactive Maps on Your Gutenberg Website for" [level=2]:
+      - link "How to Design Interactive Maps on Your Gutenberg Website for":
+        - /url: https://essential-blocks.com/design-interactive-maps-on-gutenberg/
+    - link "azreen":
+      - /url: https://essential-blocks.com/author/azreen/
+      - img "azreen"
     - text: by
-    - link "Faguni":
-      - /url: https://essential-blocks.com/author/faguni/
-  - article:
-    - link "How to Design Your Gutenberg Website with Liquid Glass Effect in Minutes":
-      - /url: https://essential-blocks.com/design-website-with-liquid-glass-effect/
-    - img "How to Design Your Gutenberg Website with Liquid Glass Effect in Minutes"
-    - text: on September 24, 2025
-    - heading "How to Design Your Gutenberg Website with Liquid Glass Effect" [level=2]:
-      - link "How to Design Your Gutenberg Website with Liquid Glass Effect":
-        - /url: https://essential-blocks.com/design-website-with-liquid-glass-effect/
-    - link "Fatin":
-      - /url: https://essential-blocks.com/author/fatin/
-      - img "Fatin"
-    - text: by
-    - link "Fatin":
-      - /url: https://essential-blocks.com/author/fatin/
-  - article:
-    - 'link "New Milestone for Essential Blocks: Elevating Gutenberg Web Design Flow for 200k+ WordPress Websites"':
-      - /url: https://essential-blocks.com/milestone-web-design-flow-for-200k-websites/
-    - 'img "Essential Blocks New Milestone: Elevating Web Design Flow for 200k+ WordPress Websites"'
-    - text: on September 15, 2025
-    - 'heading "New Milestone for Essential Blocks: Elevating Gutenberg Web Design Flow" [level=2]':
-      - 'link "New Milestone for Essential Blocks: Elevating Gutenberg Web Design Flow"':
-        - /url: https://essential-blocks.com/milestone-web-design-flow-for-200k-websites/
-    - link "Faguni":
-      - /url: https://essential-blocks.com/author/faguni/
-      - img "Faguni"
-    - text: by
-    - link "Faguni":
-      - /url: https://essential-blocks.com/author/faguni/
-  - text: 
+    - link "azreen":
+      - /url: https://essential-blocks.com/author/azreen/
+  - button "Next"
   - heading "Post Carousel Preset 3 List View" [level=2]
   - paragraph: Stack your posts vertically with single columns & make your text the prime focal point for your visitors. Add or exclude as many as posts you want
+  - button "Previous" [disabled]
   - tabpanel:
-    - 'link "Vote for Essential Blocks in WP Awards 2025: Nominated in the Best Block Builders (Gutenberg) Category"':
-      - /url: https://essential-blocks.com/wp-awards-2025-best-block-builders-gutenberg/
-    - img "best WordPress block Essential Blocks WP awards"
-    - text: on October 31, 2025
-    - 'heading "Vote for Essential Blocks in WP Awards 2025: Nominated in" [level=2]':
-      - 'link "Vote for Essential Blocks in WP Awards 2025: Nominated in"':
-        - /url: https://essential-blocks.com/wp-awards-2025-best-block-builders-gutenberg/
+    - link "How to Design Interactive Maps on Your Gutenberg Website for Easy Navigation":
+      - /url: https://essential-blocks.com/design-interactive-maps-on-gutenberg/
+    - img "design interactive map"
+    - text: on December 15, 2025
+    - heading "How to Design Interactive Maps on Your Gutenberg Website for" [level=2]:
+      - link "How to Design Interactive Maps on Your Gutenberg Website for":
+        - /url: https://essential-blocks.com/design-interactive-maps-on-gutenberg/
     - link "Read More":
-      - /url: https://essential-blocks.com/wp-awards-2025-best-block-builders-gutenberg/
-  - tabpanel:
-    - link "How to Design Your Gutenberg Website with Liquid Glass Effect in Minutes":
-      - /url: https://essential-blocks.com/design-website-with-liquid-glass-effect/
-    - img "How to Design Your Gutenberg Website with Liquid Glass Effect in Minutes"
-    - text: on September 24, 2025
-    - heading "How to Design Your Gutenberg Website with Liquid Glass Effect" [level=2]:
-      - link "How to Design Your Gutenberg Website with Liquid Glass Effect":
-        - /url: https://essential-blocks.com/design-website-with-liquid-glass-effect/
-    - link "Read More":
-      - /url: https://essential-blocks.com/design-website-with-liquid-glass-effect/
-  - tablist:
-    - tab "1 of 3": • 1
-    - tab "2 of 3": • 2
-    - tab "3 of 3": • 3
-    - tab "4 of 3" [selected]: • 4
-    - tab "5 of 3": • 5
-    - tab "6 of 3": • 6
+      - /url: https://essential-blocks.com/design-interactive-maps-on-gutenberg/
+  - button "Next"
   - heading "Preset 4 Overlay View" [level=2]
   - paragraph: Easily customize forms in your website with labels & personalized placeholders to make it understandable for newcomers
+  - button "Previous" [disabled]
   - tabpanel:
-    - 'link "Vote for Essential Blocks in WP Awards 2025: Nominated in the Best Block Builders (Gutenberg) Category"':
-      - /url: https://essential-blocks.com/wp-awards-2025-best-block-builders-gutenberg/
-    - img "best WordPress block Essential Blocks WP awards"
-    - text: on October 31, 2025
-    - 'heading "Vote for Essential Blocks in WP Awards 2025: Nominated in" [level=2]':
-      - 'link "Vote for Essential Blocks in WP Awards 2025: Nominated in"':
-        - /url: https://essential-blocks.com/wp-awards-2025-best-block-builders-gutenberg/
-  - tabpanel:
-    - link "How to Design Your Gutenberg Website with Liquid Glass Effect in Minutes":
-      - /url: https://essential-blocks.com/design-website-with-liquid-glass-effect/
-    - img "How to Design Your Gutenberg Website with Liquid Glass Effect in Minutes"
-    - text: on September 24, 2025
-    - heading "How to Design Your Gutenberg Website with Liquid Glass Effect" [level=2]:
-      - link "How to Design Your Gutenberg Website with Liquid Glass Effect":
-        - /url: https://essential-blocks.com/design-website-with-liquid-glass-effect/
-  - tablist:
-    - tab "1 of 3": • 1
-    - tab "2 of 3": • 2
-    - tab "3 of 3": • 3
-    - tab "4 of 3" [selected]: • 4
-    - tab "5 of 3": • 5
-    - tab "6 of 3": • 6
+    - link "How to Design Interactive Maps on Your Gutenberg Website for Easy Navigation":
+      - /url: https://essential-blocks.com/design-interactive-maps-on-gutenberg/
+    - img "design interactive map"
+    - text: on December 15, 2025
+    - heading "How to Design Interactive Maps on Your Gutenberg Website for" [level=2]:
+      - link "How to Design Interactive Maps on Your Gutenberg Website for":
+        - /url: https://essential-blocks.com/design-interactive-maps-on-gutenberg/
+  - button "Next"

@@ -82,7 +82,10 @@
     - /url: ""
   - link "Login":
     - /url: "#"
-  - text: 50% OFF Exclusive Deals going on – Exclusive Deals going on
+  - text: 50% OFF
+  - button "Previous" [disabled]
+  - text: Exclusive Deals going on – Exclusive Deals going on
+  - button "Next"
   - heading "Unfold Your Everyday Style" [level=2]
   - link "See Products":
     - /url: ""
