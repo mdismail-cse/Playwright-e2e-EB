@@ -8,16 +8,16 @@
     - img "Advanced Search"
   - figure:
     - img "Advanced Search"
-  - img "macbook"
+  - img "Advanced Search"
   - heading "Limitless Content Customization" [level=3]
   - paragraph
-  - img "macbook"
+  - img "Advanced Search"
   - heading "Responsive Preview Controls" [level=3]
   - paragraph
-  - img "macbook"
+  - img "Advanced Search"
   - heading "Infinite Styling Possibilities" [level=3]
   - paragraph
-  - img "macbook"
+  - img "Advanced Search"
   - heading "45+ Advanced Gutenberg Blocks" [level=3]
   - paragraph
   - heading "Quick Guide To Configure Advanced Search" [level=2]
@@ -40,6 +40,7 @@
     - combobox:
       - option "All Categories" [selected]
       - option "Announcement"
+      - option "Guide"
       - option "Gutenberg"
       - option "News"
       - option "Tutorial"

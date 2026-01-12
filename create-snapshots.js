@@ -65,6 +65,64 @@ async function disableSlickSlider(page) {
 }
 
 /**
+ * Disable typing text animations if present on the page
+ * @param {Page} page - Playwright page object
+ */
+async function disableTypingText(page) {
+    try {
+        // Check if Typed.js is loaded and stop all typing animations
+        const hasTyping = await page.evaluate(() => {
+            // Check if Typed.js is loaded
+            return typeof window.Typed !== 'undefined' ||
+                document.querySelector('.eb-typing-text') !== null;
+        });
+
+        if (hasTyping) {
+            console.log('  ⌨️  Typing text detected - stopping animations...');
+
+            // Stop all typing animations
+            await page.evaluate(() => {
+                // Stop Typed.js instances if they exist
+                if (typeof window.Typed !== 'undefined' && window.Typed.instances) {
+                    window.Typed.instances.forEach(instance => {
+                        if (instance && typeof instance.stop === 'function') {
+                            instance.stop();
+                        }
+                    });
+                }
+
+                // Also try to find and stop any typing elements
+                // Targeting both the wrapper (with dynamic class) and the content div
+                const typingElements = document.querySelectorAll('[class*="eb-typing-text"], .eb-typed-content');
+                typingElements.forEach(el => {
+                    // Only replace text if it's the actual content container
+                    if (el.classList.contains('eb-typed-content')) {
+                        el.textContent = 'ANIMATED TEXT';
+                    }
+
+                    // Stop any CSS animations
+                    if (el.style) {
+                        el.style.animation = 'none';
+                        el.style.transition = 'none';
+                    }
+                });
+
+                // Remove cursors
+                const cursors = document.querySelectorAll('.typed-cursor');
+                cursors.forEach(cursor => cursor.remove());
+            });
+
+            // Wait a bit for changes to apply
+            await page.waitForTimeout(500);
+        }
+    } catch (error) {
+        // Silently fail if typing text is not present or there's an error
+        console.log('  ℹ️  Typing text not found or error disabling:', error.message);
+    }
+}
+
+
+/**
  * Generate a filename from a URL
  * @param {string} url - The URL to convert
  * @returns {string} - Safe filename
@@ -98,6 +156,9 @@ async function createOrUpdateSnapshot(url, customFilename = null) {
 
         // Disable Slick slider animations if present
         await disableSlickSlider(page);
+
+        // Disable typing text animations if present
+        await disableTypingText(page);
 
         // Get ARIA snapshot of main content area (excludes header with countdown timer)
         const contentElement = await page.locator('.eb-fullwidth-container').first();

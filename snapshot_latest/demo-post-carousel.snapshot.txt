@@ -29,67 +29,69 @@
   - paragraph: Showcase your posts & blogs in the carousel with thumbnail, title & excerpt texts. Enable the read more button & meta button to ease your user-experience
   - button "Previous" [disabled]
   - tabpanel:
-    - link "How to Design Interactive Maps on Your Gutenberg Website for Easy Navigation":
-      - /url: https://essential-blocks.com/design-interactive-maps-on-gutenberg/
-    - img "design interactive map"
-    - link "Guide":
-      - /url: https://essential-blocks.com/category/guide/
+    - 'link "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for 2026"':
+      - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
+    - img "This in-depth comparison breaks down how Gutenberg block plugins (CoBlocks & Essential Blocks) perform across AI integration, block library growth, FSE compatibility, global styling and WooCommerce customization."
     - link "Gutenberg":
       - /url: https://essential-blocks.com/category/gutenberg/
-    - heading "How to Design Interactive Maps on Your Gutenberg Website for" [level=2]:
-      - link "How to Design Interactive Maps on Your Gutenberg Website for":
-        - /url: https://essential-blocks.com/design-interactive-maps-on-gutenberg/
+    - 'heading "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for" [level=2]':
+      - 'link "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for"':
+        - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
     - link "Read More":
-      - /url: https://essential-blocks.com/design-interactive-maps-on-gutenberg/
-    - link "azreen":
-      - /url: https://essential-blocks.com/author/azreen/
-      - img "azreen"
+      - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
+    - link "Faguni":
+      - /url: https://essential-blocks.com/author/faguni/
+      - img "Faguni"
     - text: by
-    - link "azreen":
-      - /url: https://essential-blocks.com/author/azreen/
-    - text: on December 15, 2025
+    - link "Faguni":
+      - /url: https://essential-blocks.com/author/faguni/
+    - text: "on"
+    - time: January 7, 2026
   - button "Next"
   - heading "Post Carousel Preset 2" [level=2]
   - paragraph: Easily customize header meta & footer meta on your post carousel to make it more charming to your visitors. Add directional arrows on both sides for easy navigation
   - button "Previous" [disabled]
   - article:
-    - link "How to Design Interactive Maps on Your Gutenberg Website for Easy Navigation":
-      - /url: https://essential-blocks.com/design-interactive-maps-on-gutenberg/
-    - img "design interactive map"
-    - text: on December 15, 2025
-    - heading "How to Design Interactive Maps on Your Gutenberg Website for" [level=2]:
-      - link "How to Design Interactive Maps on Your Gutenberg Website for":
-        - /url: https://essential-blocks.com/design-interactive-maps-on-gutenberg/
-    - link "azreen":
-      - /url: https://essential-blocks.com/author/azreen/
-      - img "azreen"
+    - 'link "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for 2026"':
+      - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
+    - img "This in-depth comparison breaks down how Gutenberg block plugins (CoBlocks & Essential Blocks) perform across AI integration, block library growth, FSE compatibility, global styling and WooCommerce customization."
+    - text: "on"
+    - time: January 7, 2026
+    - 'heading "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for" [level=2]':
+      - 'link "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for"':
+        - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
+    - link "Faguni":
+      - /url: https://essential-blocks.com/author/faguni/
+      - img "Faguni"
     - text: by
-    - link "azreen":
-      - /url: https://essential-blocks.com/author/azreen/
+    - link "Faguni":
+      - /url: https://essential-blocks.com/author/faguni/
   - button "Next"
   - heading "Post Carousel Preset 3 List View" [level=2]
   - paragraph: Stack your posts vertically with single columns & make your text the prime focal point for your visitors. Add or exclude as many as posts you want
   - button "Previous" [disabled]
   - tabpanel:
-    - link "How to Design Interactive Maps on Your Gutenberg Website for Easy Navigation":
-      - /url: https://essential-blocks.com/design-interactive-maps-on-gutenberg/
-    - img "design interactive map"
-    - text: on December 15, 2025
-    - heading "How to Design Interactive Maps on Your Gutenberg Website for" [level=2]:
-      - link "How to Design Interactive Maps on Your Gutenberg Website for":
-        - /url: https://essential-blocks.com/design-interactive-maps-on-gutenberg/
+    - 'link "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for 2026"':
+      - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
+    - img "This in-depth comparison breaks down how Gutenberg block plugins (CoBlocks & Essential Blocks) perform across AI integration, block library growth, FSE compatibility, global styling and WooCommerce customization."
+    - text: "on"
+    - time: January 7, 2026
+    - 'heading "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for" [level=2]':
+      - 'link "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for"':
+        - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
     - link "Read More":
-      - /url: https://essential-blocks.com/design-interactive-maps-on-gutenberg/
+      - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
   - button "Next"
   - heading "Preset 4 Overlay View" [level=2]
   - paragraph: Easily customize forms in your website with labels & personalized placeholders to make it understandable for newcomers
   - button "Previous" [disabled]
   - tabpanel:
-    - link "How to Design Interactive Maps on Your Gutenberg Website for Easy Navigation":
-      - /url: https://essential-blocks.com/design-interactive-maps-on-gutenberg/
-    - img "design interactive map"
-    - text: on December 15, 2025
-    - heading "How to Design Interactive Maps on Your Gutenberg Website for" [level=2]:
-      - link "How to Design Interactive Maps on Your Gutenberg Website for":
-        - /url: https://essential-blocks.com/design-interactive-maps-on-gutenberg/
+    - 'link "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for 2026"':
+      - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
+    - img "This in-depth comparison breaks down how Gutenberg block plugins (CoBlocks & Essential Blocks) perform across AI integration, block library growth, FSE compatibility, global styling and WooCommerce customization."
+    - text: "on"
+    - time: January 7, 2026
+    - 'heading "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for" [level=2]':
+      - 'link "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for"':
+        - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
   - button "Next"

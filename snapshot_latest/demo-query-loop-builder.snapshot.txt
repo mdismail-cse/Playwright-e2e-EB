@@ -15,6 +15,17 @@
   - figure:
     - img "Query Loop Builder"
   - heading "Display Your Posts With Meta Data & Custom Taxonomy With A Fluid View" [level=2]
+  - 'heading "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for 2026" [level=2]':
+    - 'link "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for 2026"':
+      - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
+  - figure:
+    - link "This in-depth comparison breaks down how Gutenberg block plugins (CoBlocks & Essential Blocks) perform across AI integration, block library growth, FSE compatibility, global styling and WooCommerce customization.":
+      - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
+      - img "This in-depth comparison breaks down how Gutenberg block plugins (CoBlocks & Essential Blocks) perform across AI integration, block library growth, FSE compatibility, global styling and WooCommerce customization."
+  - link "Gutenberg":
+    - /url: https://essential-blocks.com/category/gutenberg/
+  - paragraph: This in-depth comparison breaks down how Gutenberg block plugins (CoBlocks & Essential Blocks) perform across AI integration, block library growth,…
+  - text: On January 7, 2026
   - heading "How to Design Interactive Maps on Your Gutenberg Website for Easy Navigation" [level=2]:
     - link "How to Design Interactive Maps on Your Gutenberg Website for Easy Navigation":
       - /url: https://essential-blocks.com/design-interactive-maps-on-gutenberg/
@@ -41,35 +52,28 @@
     - /url: https://essential-blocks.com/category/gutenberg/
   - paragraph: Supercharge Black Friday workflows with WordPress plugins for website design featuring AI tools, ready templates and scalable builders to launch…
   - text: On November 27, 2025
-  - heading "How to Show Opening And Closing Hours in Gutenberg Website" [level=2]:
-    - link "How to Show Opening And Closing Hours in Gutenberg Website":
-      - /url: https://essential-blocks.com/how-to-show-opening-and-closing-hours/
-  - figure:
-    - link "How to Show Opening And Closing Hours in Gutenberg Website":
-      - /url: https://essential-blocks.com/how-to-show-opening-and-closing-hours/
-      - img "How to Show Opening And Closing Hours in Gutenberg Website"
-  - link "Announcement":
-    - /url: https://essential-blocks.com/category/announcement/
-  - link "Tutorial":
-    - /url: https://essential-blocks.com/category/tutorial/
-  - paragraph: Want to display your opening and closing hours beautifully on your WordPress site? Learn how to use the new Opening…
-  - text: On November 11, 2025
   - heading "List Or Grid, Display Your Custom Post Types As Your Design Demands" [level=2]
   - heading "Featured Post" [level=2]
   - figure:
-    - link "design interactive map":
-      - /url: https://essential-blocks.com/design-interactive-maps-on-gutenberg/
-      - img "design interactive map"
-  - heading "How to Design Interactive Maps on Your Gutenberg Website for Easy Navigation" [level=2]:
-    - link "How to Design Interactive Maps on Your Gutenberg Website for Easy Navigation":
-      - /url: https://essential-blocks.com/design-interactive-maps-on-gutenberg/
-  - link "Guide":
-    - /url: https://essential-blocks.com/category/guide/
+    - link "This in-depth comparison breaks down how Gutenberg block plugins (CoBlocks & Essential Blocks) perform across AI integration, block library growth, FSE compatibility, global styling and WooCommerce customization.":
+      - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
+      - img "This in-depth comparison breaks down how Gutenberg block plugins (CoBlocks & Essential Blocks) perform across AI integration, block library growth, FSE compatibility, global styling and WooCommerce customization."
+  - 'heading "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for 2026" [level=2]':
+    - 'link "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for 2026"':
+      - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
   - link "Gutenberg":
     - /url: https://essential-blocks.com/category/gutenberg/
-  - paragraph: Learn how to design interactive map experiences in Gutenberg using Google Maps, Essential Blocks, and smart UX tactics to elevate…
-  - text: On December 15, 2025
+  - paragraph: This in-depth comparison breaks down how Gutenberg block plugins (CoBlocks & Essential Blocks) perform across AI integration, block library growth,…
+  - text: On January 7, 2026
   - heading "Recent Post" [level=2]
+  - figure:
+    - link "This in-depth comparison breaks down how Gutenberg block plugins (CoBlocks & Essential Blocks) perform across AI integration, block library growth, FSE compatibility, global styling and WooCommerce customization.":
+      - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
+      - img "This in-depth comparison breaks down how Gutenberg block plugins (CoBlocks & Essential Blocks) perform across AI integration, block library growth, FSE compatibility, global styling and WooCommerce customization."
+  - 'heading "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for 2026" [level=2]':
+    - 'link "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for 2026"':
+      - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
+  - text: on January 7, 2026
   - figure:
     - link "design interactive map":
       - /url: https://essential-blocks.com/design-interactive-maps-on-gutenberg/
@@ -94,15 +98,17 @@
     - link "How to Show Opening And Closing Hours in Gutenberg Website":
       - /url: https://essential-blocks.com/how-to-show-opening-and-closing-hours/
   - text: on November 11, 2025
-  - figure:
-    - link "best WordPress block Essential Blocks WP awards":
-      - /url: https://essential-blocks.com/wp-awards-2025-best-block-builders-gutenberg/
-      - img "best WordPress block Essential Blocks WP awards"
-  - 'heading "Vote for Essential Blocks in WP Awards 2025: Nominated in the Best Block Builders (Gutenberg) Category" [level=2]':
-    - 'link "Vote for Essential Blocks in WP Awards 2025: Nominated in the Best Block Builders (Gutenberg) Category"':
-      - /url: https://essential-blocks.com/wp-awards-2025-best-block-builders-gutenberg/
-  - text: on October 31, 2025
   - heading "Your Blogs, Docs, Or Store Products Can Be Customized To Your Defined Layouts" [level=2]
+  - figure:
+    - link "This in-depth comparison breaks down how Gutenberg block plugins (CoBlocks & Essential Blocks) perform across AI integration, block library growth, FSE compatibility, global styling and WooCommerce customization.":
+      - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
+      - img "This in-depth comparison breaks down how Gutenberg block plugins (CoBlocks & Essential Blocks) perform across AI integration, block library growth, FSE compatibility, global styling and WooCommerce customization."
+  - 'heading "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for 2026" [level=2]':
+    - 'link "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for 2026"':
+      - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
+  - paragraph: This in-depth comparison breaks down how Gutenberg block plugins (CoBlocks & Essential Blocks) perform across AI integration, block library growth,…
+  - link "Gutenberg":
+    - /url: https://essential-blocks.com/category/gutenberg/
   - figure:
     - link "design interactive map":
       - /url: https://essential-blocks.com/design-interactive-maps-on-gutenberg/
@@ -127,20 +133,6 @@
     - /url: https://essential-blocks.com/category/wordpress/
   - link "Gutenberg":
     - /url: https://essential-blocks.com/category/gutenberg/
-  - figure:
-    - link "How to Show Opening And Closing Hours in Gutenberg Website":
-      - /url: https://essential-blocks.com/how-to-show-opening-and-closing-hours/
-      - img "How to Show Opening And Closing Hours in Gutenberg Website"
-  - heading "How to Show Opening And Closing Hours in Gutenberg Website" [level=2]:
-    - link "How to Show Opening And Closing Hours in Gutenberg Website":
-      - /url: https://essential-blocks.com/how-to-show-opening-and-closing-hours/
-  - paragraph: Want to display your opening and closing hours beautifully on your WordPress site? Learn how to use the new Opening…
-  - link "Announcement":
-    - /url: https://essential-blocks.com/category/announcement/
-  - link "Tutorial":
-    - /url: https://essential-blocks.com/category/tutorial/
-  - link "Update":
-    - /url: https://essential-blocks.com/category/announcement/update/
   - navigation "Posts pagination":
     - text: "1"
     - link "2":
@@ -154,15 +146,24 @@
       - /url: /demo/query-loop-builder/?query-3-page=2&ebTarget=eb-loop-builder-query-3
   - heading "Enhanced Query Controls Let You Display Content By Flexible Filters & Pagination" [level=2]
   - figure:
-    - link "design interactive map":
-      - /url: https://essential-blocks.com/design-interactive-maps-on-gutenberg/
-      - img "design interactive map"
-  - link "Guide":
-    - /url: https://essential-blocks.com/category/guide/
-  - heading "How to Design Interactive Maps on Your Gutenberg Website for Easy Navigation" [level=2]:
-    - link "How to Design Interactive Maps on Your Gutenberg Website for Easy Navigation":
-      - /url: https://essential-blocks.com/design-interactive-maps-on-gutenberg/
-  - paragraph: Learn how to design interactive map experiences in Gutenberg using Google Maps, Essential Blocks, and smart UX tactics to elevate…
+    - link "This in-depth comparison breaks down how Gutenberg block plugins (CoBlocks & Essential Blocks) perform across AI integration, block library growth, FSE compatibility, global styling and WooCommerce customization.":
+      - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
+      - img "This in-depth comparison breaks down how Gutenberg block plugins (CoBlocks & Essential Blocks) perform across AI integration, block library growth, FSE compatibility, global styling and WooCommerce customization."
+  - link "Gutenberg":
+    - /url: https://essential-blocks.com/category/gutenberg/
+  - 'heading "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for 2026" [level=2]':
+    - 'link "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for 2026"':
+      - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
+  - paragraph: This in-depth comparison breaks down how Gutenberg block plugins (CoBlocks & Essential Blocks) perform across AI integration, block library growth,…
+  - figure:
+    - link "This in-depth comparison breaks down how Gutenberg block plugins (CoBlocks & Essential Blocks) perform across AI integration, block library growth, FSE compatibility, global styling and WooCommerce customization.":
+      - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
+      - img "This in-depth comparison breaks down how Gutenberg block plugins (CoBlocks & Essential Blocks) perform across AI integration, block library growth, FSE compatibility, global styling and WooCommerce customization."
+  - link "Gutenberg":
+    - /url: https://essential-blocks.com/category/gutenberg/
+  - 'heading "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for 2026" [level=2]':
+    - 'link "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for 2026"':
+      - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
   - figure:
     - link "design interactive map":
       - /url: https://essential-blocks.com/design-interactive-maps-on-gutenberg/
@@ -190,15 +191,6 @@
   - heading "How to Show Opening And Closing Hours in Gutenberg Website" [level=2]:
     - link "How to Show Opening And Closing Hours in Gutenberg Website":
       - /url: https://essential-blocks.com/how-to-show-opening-and-closing-hours/
-  - figure:
-    - link "best WordPress block Essential Blocks WP awards":
-      - /url: https://essential-blocks.com/wp-awards-2025-best-block-builders-gutenberg/
-      - img "best WordPress block Essential Blocks WP awards"
-  - link "News":
-    - /url: https://essential-blocks.com/category/announcement/news/
-  - 'heading "Vote for Essential Blocks in WP Awards 2025: Nominated in the Best Block Builders (Gutenberg) Category" [level=2]':
-    - 'link "Vote for Essential Blocks in WP Awards 2025: Nominated in the Best Block Builders (Gutenberg) Category"':
-      - /url: https://essential-blocks.com/wp-awards-2025-best-block-builders-gutenberg/
   - heading "Advanced Query Loop Functionalities To Enhance Your Post Design Capabilities In Gutenberg" [level=2]
   - heading "Versatile Custom Post Type Query Support" [level=2]
   - paragraph: With Essential Blocks Loop builder, you can design stunning post view sections with your website blogs, webpages, documentations, templates, or other dynamic types.
