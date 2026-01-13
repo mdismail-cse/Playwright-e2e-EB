@@ -29,69 +29,69 @@
   - paragraph: Showcase your posts & blogs in the carousel with thumbnail, title & excerpt texts. Enable the read more button & meta button to ease your user-experience
   - button "Previous" [disabled]
   - tabpanel:
-    - 'link "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for 2026"':
-      - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
-    - img "This in-depth comparison breaks down how Gutenberg block plugins (CoBlocks & Essential Blocks) perform across AI integration, block library growth, FSE compatibility, global styling and WooCommerce customization."
-    - link "Gutenberg":
-      - /url: https://essential-blocks.com/category/gutenberg/
-    - 'heading "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for" [level=2]':
-      - 'link "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for"':
-        - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
+    - link "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)":
+      - /url: https://essential-blocks.com/design-multi-page-wordpress-forms/
+    - img "Post Carousel"
+    - link "Guide":
+      - /url: https://essential-blocks.com/category/guide/
+    - heading "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)" [level=2]:
+      - link "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)":
+        - /url: https://essential-blocks.com/design-multi-page-wordpress-forms/
     - link "Read More":
-      - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
-    - link "Faguni":
-      - /url: https://essential-blocks.com/author/faguni/
-      - img "Faguni"
+      - /url: https://essential-blocks.com/design-multi-page-wordpress-forms/
+    - link "Fatin":
+      - /url: https://essential-blocks.com/author/fatin/
+      - img "Fatin"
     - text: by
-    - link "Faguni":
-      - /url: https://essential-blocks.com/author/faguni/
+    - link "Fatin":
+      - /url: https://essential-blocks.com/author/fatin/
     - text: "on"
-    - time: January 7, 2026
+    - time: January 12, 2026
   - button "Next"
   - heading "Post Carousel Preset 2" [level=2]
   - paragraph: Easily customize header meta & footer meta on your post carousel to make it more charming to your visitors. Add directional arrows on both sides for easy navigation
   - button "Previous" [disabled]
   - article:
-    - 'link "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for 2026"':
-      - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
-    - img "This in-depth comparison breaks down how Gutenberg block plugins (CoBlocks & Essential Blocks) perform across AI integration, block library growth, FSE compatibility, global styling and WooCommerce customization."
+    - link "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)":
+      - /url: https://essential-blocks.com/design-multi-page-wordpress-forms/
+    - img "Post Carousel"
     - text: "on"
-    - time: January 7, 2026
-    - 'heading "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for" [level=2]':
-      - 'link "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for"':
-        - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
-    - link "Faguni":
-      - /url: https://essential-blocks.com/author/faguni/
-      - img "Faguni"
+    - time: January 12, 2026
+    - heading "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)" [level=2]:
+      - link "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)":
+        - /url: https://essential-blocks.com/design-multi-page-wordpress-forms/
+    - link "Fatin":
+      - /url: https://essential-blocks.com/author/fatin/
+      - img "Fatin"
     - text: by
-    - link "Faguni":
-      - /url: https://essential-blocks.com/author/faguni/
+    - link "Fatin":
+      - /url: https://essential-blocks.com/author/fatin/
   - button "Next"
   - heading "Post Carousel Preset 3 List View" [level=2]
   - paragraph: Stack your posts vertically with single columns & make your text the prime focal point for your visitors. Add or exclude as many as posts you want
   - button "Previous" [disabled]
   - tabpanel:
-    - 'link "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for 2026"':
-      - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
-    - img "This in-depth comparison breaks down how Gutenberg block plugins (CoBlocks & Essential Blocks) perform across AI integration, block library growth, FSE compatibility, global styling and WooCommerce customization."
+    - link "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)":
+      - /url: https://essential-blocks.com/design-multi-page-wordpress-forms/
+    - img "Post Carousel"
     - text: "on"
-    - time: January 7, 2026
-    - 'heading "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for" [level=2]':
-      - 'link "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for"':
-        - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
+    - time: January 12, 2026
+    - heading "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)" [level=2]:
+      - link "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)":
+        - /url: https://essential-blocks.com/design-multi-page-wordpress-forms/
     - link "Read More":
-      - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
+      - /url: https://essential-blocks.com/design-multi-page-wordpress-forms/
   - button "Next"
   - heading "Preset 4 Overlay View" [level=2]
   - paragraph: Easily customize forms in your website with labels & personalized placeholders to make it understandable for newcomers
   - button "Previous" [disabled]
   - tabpanel:
-    - 'link "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for 2026"':
-      - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
-    - img "This in-depth comparison breaks down how Gutenberg block plugins (CoBlocks & Essential Blocks) perform across AI integration, block library growth, FSE compatibility, global styling and WooCommerce customization."
+    - link "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)":
+      - /url: https://essential-blocks.com/design-multi-page-wordpress-forms/
+    - img "Post Carousel"
     - text: "on"
-    - time: January 7, 2026
-    - 'heading "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for" [level=2]':
-      - 'link "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for"':
-        - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
+    - time: January 12, 2026
+    - heading "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)" [level=2]:
+      - link "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)":
+        - /url: https://essential-blocks.com/design-multi-page-wordpress-forms/
   - button "Next"

@@ -15,6 +15,17 @@
   - figure:
     - img "Query Loop Builder"
   - heading "Display Your Posts With Meta Data & Custom Taxonomy With A Fluid View" [level=2]
+  - heading "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)" [level=2]:
+    - link "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)":
+      - /url: https://essential-blocks.com/design-multi-page-wordpress-forms/
+  - figure:
+    - link "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)":
+      - /url: https://essential-blocks.com/design-multi-page-wordpress-forms/
+      - img "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)"
+  - link "Guide":
+    - /url: https://essential-blocks.com/category/guide/
+  - paragraph: Instantly boost user engagement and reduce abandonment with 3+ ready-to-use, no-code templates designed to create high-converting multi-page WordPress forms effortlessly.
+  - text: On January 12, 2026
   - 'heading "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for 2026" [level=2]':
     - 'link "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for 2026"':
       - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
@@ -39,33 +50,28 @@
     - /url: https://essential-blocks.com/category/gutenberg/
   - paragraph: Learn how to design interactive map experiences in Gutenberg using Google Maps, Essential Blocks, and smart UX tactics to elevate…
   - text: On December 15, 2025
-  - heading "5+ WordPress Plugins for Website Design You Need for Black Friday" [level=2]:
-    - link "5+ WordPress Plugins for Website Design You Need for Black Friday":
-      - /url: https://essential-blocks.com/website-design-wordpress-plugins-bfcm/
-  - figure:
-    - link "wordpress plugins for website design":
-      - /url: https://essential-blocks.com/website-design-wordpress-plugins-bfcm/
-      - img "wordpress plugins for website design"
-  - link "WordPress":
-    - /url: https://essential-blocks.com/category/wordpress/
-  - link "Gutenberg":
-    - /url: https://essential-blocks.com/category/gutenberg/
-  - paragraph: Supercharge Black Friday workflows with WordPress plugins for website design featuring AI tools, ready templates and scalable builders to launch…
-  - text: On November 27, 2025
   - heading "List Or Grid, Display Your Custom Post Types As Your Design Demands" [level=2]
   - heading "Featured Post" [level=2]
   - figure:
-    - link "This in-depth comparison breaks down how Gutenberg block plugins (CoBlocks & Essential Blocks) perform across AI integration, block library growth, FSE compatibility, global styling and WooCommerce customization.":
-      - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
-      - img "This in-depth comparison breaks down how Gutenberg block plugins (CoBlocks & Essential Blocks) perform across AI integration, block library growth, FSE compatibility, global styling and WooCommerce customization."
-  - 'heading "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for 2026" [level=2]':
-    - 'link "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for 2026"':
-      - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
-  - link "Gutenberg":
-    - /url: https://essential-blocks.com/category/gutenberg/
-  - paragraph: This in-depth comparison breaks down how Gutenberg block plugins (CoBlocks & Essential Blocks) perform across AI integration, block library growth,…
-  - text: On January 7, 2026
+    - link "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)":
+      - /url: https://essential-blocks.com/design-multi-page-wordpress-forms/
+      - img "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)"
+  - heading "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)" [level=2]:
+    - link "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)":
+      - /url: https://essential-blocks.com/design-multi-page-wordpress-forms/
+  - link "Guide":
+    - /url: https://essential-blocks.com/category/guide/
+  - paragraph: Instantly boost user engagement and reduce abandonment with 3+ ready-to-use, no-code templates designed to create high-converting multi-page WordPress forms effortlessly.
+  - text: On January 12, 2026
   - heading "Recent Post" [level=2]
+  - figure:
+    - link "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)":
+      - /url: https://essential-blocks.com/design-multi-page-wordpress-forms/
+      - img "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)"
+  - heading "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)" [level=2]:
+    - link "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)":
+      - /url: https://essential-blocks.com/design-multi-page-wordpress-forms/
+  - text: on January 12, 2026
   - figure:
     - link "This in-depth comparison breaks down how Gutenberg block plugins (CoBlocks & Essential Blocks) perform across AI integration, block library growth, FSE compatibility, global styling and WooCommerce customization.":
       - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
@@ -90,15 +96,17 @@
     - link "5+ WordPress Plugins for Website Design You Need for Black Friday":
       - /url: https://essential-blocks.com/website-design-wordpress-plugins-bfcm/
   - text: on November 27, 2025
-  - figure:
-    - link "How to Show Opening And Closing Hours in Gutenberg Website":
-      - /url: https://essential-blocks.com/how-to-show-opening-and-closing-hours/
-      - img "How to Show Opening And Closing Hours in Gutenberg Website"
-  - heading "How to Show Opening And Closing Hours in Gutenberg Website" [level=2]:
-    - link "How to Show Opening And Closing Hours in Gutenberg Website":
-      - /url: https://essential-blocks.com/how-to-show-opening-and-closing-hours/
-  - text: on November 11, 2025
   - heading "Your Blogs, Docs, Or Store Products Can Be Customized To Your Defined Layouts" [level=2]
+  - figure:
+    - link "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)":
+      - /url: https://essential-blocks.com/design-multi-page-wordpress-forms/
+      - img "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)"
+  - heading "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)" [level=2]:
+    - link "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)":
+      - /url: https://essential-blocks.com/design-multi-page-wordpress-forms/
+  - paragraph: Instantly boost user engagement and reduce abandonment with 3+ ready-to-use, no-code templates designed to create high-converting multi-page WordPress forms effortlessly.
+  - link "Guide":
+    - /url: https://essential-blocks.com/category/guide/
   - figure:
     - link "This in-depth comparison breaks down how Gutenberg block plugins (CoBlocks & Essential Blocks) perform across AI integration, block library growth, FSE compatibility, global styling and WooCommerce customization.":
       - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
@@ -121,18 +129,6 @@
     - /url: https://essential-blocks.com/category/guide/
   - link "Gutenberg":
     - /url: https://essential-blocks.com/category/gutenberg/
-  - figure:
-    - link "wordpress plugins for website design":
-      - /url: https://essential-blocks.com/website-design-wordpress-plugins-bfcm/
-      - img "wordpress plugins for website design"
-  - heading "5+ WordPress Plugins for Website Design You Need for Black Friday" [level=2]:
-    - link "5+ WordPress Plugins for Website Design You Need for Black Friday":
-      - /url: https://essential-blocks.com/website-design-wordpress-plugins-bfcm/
-  - paragraph: Supercharge Black Friday workflows with WordPress plugins for website design featuring AI tools, ready templates and scalable builders to launch…
-  - link "WordPress":
-    - /url: https://essential-blocks.com/category/wordpress/
-  - link "Gutenberg":
-    - /url: https://essential-blocks.com/category/gutenberg/
   - navigation "Posts pagination":
     - text: "1"
     - link "2":
@@ -140,21 +136,30 @@
     - link "3":
       - /url: /demo/query-loop-builder/?query-3-page=3&ebTarget=eb-loop-builder-query-3
     - text: …
-    - link "59":
-      - /url: /demo/query-loop-builder/?query-3-page=59&ebTarget=eb-loop-builder-query-3
+    - link "60":
+      - /url: /demo/query-loop-builder/?query-3-page=60&ebTarget=eb-loop-builder-query-3
     - link "Next":
       - /url: /demo/query-loop-builder/?query-3-page=2&ebTarget=eb-loop-builder-query-3
   - heading "Enhanced Query Controls Let You Display Content By Flexible Filters & Pagination" [level=2]
   - figure:
-    - link "This in-depth comparison breaks down how Gutenberg block plugins (CoBlocks & Essential Blocks) perform across AI integration, block library growth, FSE compatibility, global styling and WooCommerce customization.":
-      - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
-      - img "This in-depth comparison breaks down how Gutenberg block plugins (CoBlocks & Essential Blocks) perform across AI integration, block library growth, FSE compatibility, global styling and WooCommerce customization."
-  - link "Gutenberg":
-    - /url: https://essential-blocks.com/category/gutenberg/
-  - 'heading "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for 2026" [level=2]':
-    - 'link "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for 2026"':
-      - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
-  - paragraph: This in-depth comparison breaks down how Gutenberg block plugins (CoBlocks & Essential Blocks) perform across AI integration, block library growth,…
+    - link "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)":
+      - /url: https://essential-blocks.com/design-multi-page-wordpress-forms/
+      - img "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)"
+  - link "Guide":
+    - /url: https://essential-blocks.com/category/guide/
+  - heading "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)" [level=2]:
+    - link "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)":
+      - /url: https://essential-blocks.com/design-multi-page-wordpress-forms/
+  - paragraph: Instantly boost user engagement and reduce abandonment with 3+ ready-to-use, no-code templates designed to create high-converting multi-page WordPress forms effortlessly.
+  - figure:
+    - link "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)":
+      - /url: https://essential-blocks.com/design-multi-page-wordpress-forms/
+      - img "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)"
+  - link "Guide":
+    - /url: https://essential-blocks.com/category/guide/
+  - heading "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)" [level=2]:
+    - link "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)":
+      - /url: https://essential-blocks.com/design-multi-page-wordpress-forms/
   - figure:
     - link "This in-depth comparison breaks down how Gutenberg block plugins (CoBlocks & Essential Blocks) perform across AI integration, block library growth, FSE compatibility, global styling and WooCommerce customization.":
       - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
@@ -182,15 +187,6 @@
   - heading "5+ WordPress Plugins for Website Design You Need for Black Friday" [level=2]:
     - link "5+ WordPress Plugins for Website Design You Need for Black Friday":
       - /url: https://essential-blocks.com/website-design-wordpress-plugins-bfcm/
-  - figure:
-    - link "How to Show Opening And Closing Hours in Gutenberg Website":
-      - /url: https://essential-blocks.com/how-to-show-opening-and-closing-hours/
-      - img "How to Show Opening And Closing Hours in Gutenberg Website"
-  - link "Announcement":
-    - /url: https://essential-blocks.com/category/announcement/
-  - heading "How to Show Opening And Closing Hours in Gutenberg Website" [level=2]:
-    - link "How to Show Opening And Closing Hours in Gutenberg Website":
-      - /url: https://essential-blocks.com/how-to-show-opening-and-closing-hours/
   - heading "Advanced Query Loop Functionalities To Enhance Your Post Design Capabilities In Gutenberg" [level=2]
   - heading "Versatile Custom Post Type Query Support" [level=2]
   - paragraph: With Essential Blocks Loop builder, you can design stunning post view sections with your website blogs, webpages, documentations, templates, or other dynamic types.

@@ -29,6 +29,22 @@
     - strong: Display Post Grid With Default Layout Style 1
   - paragraph: Showcase your latest blogs with an interactive post grid showing category, author name, and author image on the website landing page
   - article:
+    - link "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)":
+      - /url: https://essential-blocks.com/design-multi-page-wordpress-forms/
+    - img "Post Grid"
+    - heading "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)" [level=2]:
+      - link "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)":
+        - /url: https://essential-blocks.com/design-multi-page-wordpress-forms/
+    - link "Guide":
+      - /url: https://essential-blocks.com/category/guide/
+    - paragraph: Instantly boost user engagement and reduce abandonment with 3+ ready-to-use, no-code templates designed to create
+    - link "Fatin":
+      - /url: https://essential-blocks.com/author/fatin/
+      - img "Fatin"
+    - text: by
+    - link "Fatin":
+      - /url: https://essential-blocks.com/author/fatin/
+  - article:
     - 'link "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for 2026"':
       - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
     - img "This in-depth comparison breaks down how Gutenberg block plugins (CoBlocks & Essential Blocks) perform across AI integration, block library growth, FSE compatibility, global styling and WooCommerce customization."
@@ -118,24 +134,6 @@
     - text: by
     - link "Faguni":
       - /url: https://essential-blocks.com/author/faguni/
-  - article:
-    - link "How to Design Your Gutenberg Website with Liquid Glass Effect in Minutes":
-      - /url: https://essential-blocks.com/design-website-with-liquid-glass-effect/
-    - img "How to Design Your Gutenberg Website with Liquid Glass Effect in Minutes"
-    - heading "How to Design Your Gutenberg Website with Liquid Glass Effect in Minutes" [level=2]:
-      - link "How to Design Your Gutenberg Website with Liquid Glass Effect in Minutes":
-        - /url: https://essential-blocks.com/design-website-with-liquid-glass-effect/
-    - link "Guide":
-      - /url: https://essential-blocks.com/category/guide/
-    - link "Gutenberg":
-      - /url: https://essential-blocks.com/category/gutenberg/
-    - paragraph: Learn how to design your Gutenberg website with liquid glass Effect quickly and easily using
-    - link "Fatin":
-      - /url: https://essential-blocks.com/author/fatin/
-      - img "Fatin"
-    - text: by
-    - link "Fatin":
-      - /url: https://essential-blocks.com/author/fatin/
   - heading "Highlight Taxonomy In Post Grid" [level=2]:
     - strong: Highlight Taxonomy In Post Grid
   - paragraph: Showcase your post and pages categories, post types, tags, keywords, etc Taxonomies filter to feature important ones on your website with absolute ease
@@ -145,6 +143,17 @@
     - listitem: Tutorial
     - listitem: News
     - listitem: WordPress
+  - article:
+    - link "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)":
+      - /url: https://essential-blocks.com/design-multi-page-wordpress-forms/
+    - img "Post Grid"
+    - heading "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)" [level=2]:
+      - link "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)":
+        - /url: https://essential-blocks.com/design-multi-page-wordpress-forms/
+    - text: "on"
+    - time: January 12, 2026
+    - text:  11 minutes read
+    - paragraph: Instantly boost user engagement and reduce abandonment with 3+ ready-to-use, no-code templates designed to create high-converting multi-page WordPress forms effortlessly.
   - article:
     - 'link "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for 2026"':
       - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
@@ -167,6 +176,9 @@
     - time: December 15, 2025
     - text:  10 minutes read
     - paragraph: Learn how to design interactive map experiences in Gutenberg using Google Maps, Essential Blocks, and smart UX tactics to elevate
+  - heading "Showcase Preset 2 & Customize General Settings" [level=2]:
+    - strong: Showcase Preset 2 & Customize General Settings
+  - paragraph: Configure the post grid and showcase it on your website landing page with the date, also customize the excerpt size accordingly
   - article:
     - link "5+ WordPress Plugins for Website Design You Need for Black Friday":
       - /url: https://essential-blocks.com/website-design-wordpress-plugins-bfcm/
@@ -176,11 +188,13 @@
         - /url: https://essential-blocks.com/website-design-wordpress-plugins-bfcm/
     - text: "on"
     - time: November 27, 2025
-    - text:  6 minutes read
     - paragraph: Supercharge Black Friday workflows with WordPress plugins for website design featuring AI tools, ready templates and scalable builders to launch
-  - heading "Showcase Preset 2 & Customize General Settings" [level=2]:
-    - strong: Showcase Preset 2 & Customize General Settings
-  - paragraph: Configure the post grid and showcase it on your website landing page with the date, also customize the excerpt size accordingly
+    - link "azreen":
+      - /url: https://essential-blocks.com/author/azreen/
+      - img "azreen"
+    - text: by
+    - link "azreen":
+      - /url: https://essential-blocks.com/author/azreen/
   - article:
     - link "How to Show Opening And Closing Hours in Gutenberg Website":
       - /url: https://essential-blocks.com/how-to-show-opening-and-closing-hours/
@@ -213,32 +227,32 @@
     - text: by
     - link "Faguni":
       - /url: https://essential-blocks.com/author/faguni/
-  - article:
-    - link "How to Design Your Gutenberg Website with Liquid Glass Effect in Minutes":
-      - /url: https://essential-blocks.com/design-website-with-liquid-glass-effect/
-    - img "How to Design Your Gutenberg Website with Liquid Glass Effect in Minutes"
-    - heading "How to Design Your Gutenberg Website with Liquid Glass Effect in Minutes" [level=2]:
-      - link "How to Design Your Gutenberg Website with Liquid Glass Effect in Minutes":
-        - /url: https://essential-blocks.com/design-website-with-liquid-glass-effect/
-    - text: "on"
-    - time: September 24, 2025
-    - paragraph: Learn how to design your Gutenberg website with liquid glass Effect quickly and easily using Essential Blocks.
-    - link "Fatin":
-      - /url: https://essential-blocks.com/author/fatin/
-      - img "Fatin"
-    - text: by
-    - link "Fatin":
-      - /url: https://essential-blocks.com/author/fatin/
   - button "<" [disabled]
   - button "1"
   - button "2"
   - button "3"
   - button "..."
-  - button "59"
+  - button "60"
   - button ">"
   - heading "Create Post Grid With Layout Style 3" [level=2]:
     - strong: Create Post Grid With Layout Style 3
   - paragraph: Style Post Grid by showcasing date, author name, and author image, also add a ‘Load More’ button to give a CTA to the audience
+  - article:
+    - 'link "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for 2026"':
+      - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
+    - img "This in-depth comparison breaks down how Gutenberg block plugins (CoBlocks & Essential Blocks) perform across AI integration, block library growth, FSE compatibility, global styling and WooCommerce customization."
+    - 'heading "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for 2026" [level=2]':
+      - 'link "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for 2026"':
+        - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
+    - text: "on"
+    - time: January 7, 2026
+    - paragraph: This in-depth comparison breaks down how Gutenberg block plugins (CoBlocks & Essential Blocks) perform across
+    - link "Faguni":
+      - /url: https://essential-blocks.com/author/faguni/
+      - img "Faguni"
+    - text: by
+    - link "Faguni":
+      - /url: https://essential-blocks.com/author/faguni/
   - article:
     - link "How to Design Interactive Maps on Your Gutenberg Website for Easy Navigation":
       - /url: https://essential-blocks.com/design-interactive-maps-on-gutenberg/
@@ -271,27 +285,21 @@
     - text: by
     - link "azreen":
       - /url: https://essential-blocks.com/author/azreen/
-  - article:
-    - link "How to Show Opening And Closing Hours in Gutenberg Website":
-      - /url: https://essential-blocks.com/how-to-show-opening-and-closing-hours/
-    - img "How to Show Opening And Closing Hours in Gutenberg Website"
-    - heading "How to Show Opening And Closing Hours in Gutenberg Website" [level=2]:
-      - link "How to Show Opening And Closing Hours in Gutenberg Website":
-        - /url: https://essential-blocks.com/how-to-show-opening-and-closing-hours/
-    - text: "on"
-    - time: November 11, 2025
-    - paragraph: Want to display your opening and closing hours beautifully on your WordPress site? Learn how
-    - link "Maahi":
-      - /url: https://essential-blocks.com/author/maahi/
-      - img "Maahi"
-    - text: by
-    - link "Maahi":
-      - /url: https://essential-blocks.com/author/maahi/
   - button "Load More"
   - heading "Display A List View Post Grid With Style 4" [level=2]:
     - strong:
       - strong: Display A List View Post Grid With Style 4
   - paragraph: Pick Preset 4 Layout for displaying a list view Post Grid to create an elegant look on your site so that audience can easily choose one
+  - article:
+    - link "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)":
+      - /url: https://essential-blocks.com/design-multi-page-wordpress-forms/
+    - img "Post Grid"
+    - heading "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)" [level=2]:
+      - link "3+ Stunning Templates to Design Multi-Page WordPress Forms (No Code)":
+        - /url: https://essential-blocks.com/design-multi-page-wordpress-forms/
+    - text: "on"
+    - time: January 12, 2026
+    - paragraph: Instantly boost user engagement and reduce abandonment with 3+ ready-to-use, no-code templates designed to create
   - article:
     - 'link "CoBlocks vs Essential Blocks: Best Gutenberg Editor Plugins Compared for 2026"':
       - /url: https://essential-blocks.com/coblocks-vs-essential-blocks-editor-plugins/
@@ -312,6 +320,9 @@
     - text: "on"
     - time: December 15, 2025
     - paragraph: Learn how to design interactive map experiences in Gutenberg using Google Maps, Essential Blocks, and
+  - heading "Showcase Style 5 With Content Overlay" [level=2]:
+    - strong: Showcase Style 5 With Content Overlay
+  - paragraph: Display Post Grid on your website with content overlay, date, load more button, etc, and create a stunning section to showcase an exclusive CTA for your blogs
   - article:
     - link "5+ WordPress Plugins for Website Design You Need for Black Friday":
       - /url: https://essential-blocks.com/website-design-wordpress-plugins-bfcm/
@@ -321,10 +332,6 @@
         - /url: https://essential-blocks.com/website-design-wordpress-plugins-bfcm/
     - text: "on"
     - time: November 27, 2025
-    - paragraph: Supercharge Black Friday workflows with WordPress plugins for website design featuring AI tools, ready templates
-  - heading "Showcase Style 5 With Content Overlay" [level=2]:
-    - strong: Showcase Style 5 With Content Overlay
-  - paragraph: Display Post Grid on your website with content overlay, date, load more button, etc, and create a stunning section to showcase an exclusive CTA for your blogs
   - article:
     - link "How to Show Opening And Closing Hours in Gutenberg Website":
       - /url: https://essential-blocks.com/how-to-show-opening-and-closing-hours/
@@ -343,13 +350,4 @@
         - /url: https://essential-blocks.com/wp-awards-2025-best-block-builders-gutenberg/
     - text: "on"
     - time: October 31, 2025
-  - article:
-    - link "How to Design Your Gutenberg Website with Liquid Glass Effect in Minutes":
-      - /url: https://essential-blocks.com/design-website-with-liquid-glass-effect/
-    - img "How to Design Your Gutenberg Website with Liquid Glass Effect in Minutes"
-    - heading "How to Design Your Gutenberg Website with Liquid Glass Effect in Minutes" [level=2]:
-      - link "How to Design Your Gutenberg Website with Liquid Glass Effect in Minutes":
-        - /url: https://essential-blocks.com/design-website-with-liquid-glass-effect/
-    - text: "on"
-    - time: September 24, 2025
   - button "Load More"
