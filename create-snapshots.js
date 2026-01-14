@@ -123,6 +123,37 @@ async function disableTypingText(page) {
 
 
 /**
+ * Hides dynamic global elements that cause layout shifts and snapshot mismatches
+ * @param {Page} page - Playwright page object
+ */
+async function stabilizePage(page) {
+    try {
+        console.log('  🛡️  Stabilizing page (hiding global dynamic elements)...');
+        await page.evaluate(() => {
+            const selectors = [
+                '#nx-bar-top',                      // Holiday/Promo banner
+                '[class*="nx-v2"]',                // NotificationX popups
+                '[class*="notificationx"]',        // More NotificationX
+                '.e-chat-bubble',                  // Chat widget
+                '.wp-chat-bubble',                 // Alternative chat widget
+                '#wp-live-chat-by-3CX',            // Alternative chat widget
+                '.e-con-inner > .elementor-widget-wp-widget-nav_menu' // Prevent some header shifts
+            ];
+
+            selectors.forEach(selector => {
+                const elements = document.querySelectorAll(selector);
+                elements.forEach(el => {
+                    if (el) el.style.display = 'none';
+                });
+            });
+        });
+    } catch (error) {
+        console.log('  ⚠️  Error during stabilization:', error.message);
+    }
+}
+
+
+/**
  * Generate a filename from a URL
  * @param {string} url - The URL to convert
  * @returns {string} - Safe filename
@@ -159,6 +190,9 @@ async function createOrUpdateSnapshot(url, customFilename = null) {
 
         // Disable typing text animations if present
         await disableTypingText(page);
+
+        // Stabilize page by hiding dynamic global elements
+        await stabilizePage(page);
 
         // Get ARIA snapshot of main content area (excludes header with countdown timer)
         const contentElement = await page.locator('.eb-fullwidth-container').first();
