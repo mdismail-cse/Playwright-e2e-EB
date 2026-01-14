@@ -429,7 +429,8 @@ async function updateSpecificSnapshot(inputPattern) {
 
     const results = {
         success: [],
-        failed: []
+        failed: [],
+        startTime: new Date(startTimestamp).toISOString()
     };
 
     // Process matching URLs
@@ -448,12 +449,18 @@ async function updateSpecificSnapshot(inputPattern) {
         console.log('');
     }
 
+    results.endTime = new Date().toISOString();
+    results.duration = ((Date.now() - startTimestamp) / 1000).toFixed(2);
+
     // Summary
     console.log('\n' + '='.repeat(60));
     console.log('📊 SUMMARY');
     console.log('='.repeat(60));
     console.log(`✅ Successful: ${results.success.length}`);
     console.log(`❌ Failed: ${results.failed.length}`);
+
+    // Generate report
+    await generateReport(results, matchingUrls.length);
 
     return results;
 }
@@ -506,7 +513,16 @@ Examples:
                 process.exit(1);
             }
 
-            await createOrUpdateSnapshot(url);
+            const startTimestamp = Date.now();
+            const result = await createOrUpdateSnapshot(url);
+
+            const results = {
+                success: result.success ? [result] : [],
+                failed: result.success ? [] : [result],
+                duration: ((Date.now() - startTimestamp) / 1000).toFixed(2)
+            };
+
+            await generateReport(results, 1);
         } else if (args.includes('--update')) {
             const patternIndex = args.indexOf('--update') + 1;
             const pattern = args[patternIndex];
