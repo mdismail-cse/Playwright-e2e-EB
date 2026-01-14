@@ -382,32 +382,41 @@ async function generateReport(results, totalUrls) {
 
 /**
  * Update snapshot for specific URL(s) matching a pattern
- * @param {string} pattern - URL pattern to match (can be exact URL or substring)
+ * @param {string} inputPattern - URL pattern to match (can be exact URL, substring, or comma-separated list)
  */
-async function updateSpecificSnapshot(pattern) {
-    console.log(`🔍 Searching for URLs matching: "${pattern}"\n`);
+async function updateSpecificSnapshot(inputPattern) {
+    // Support multiple patterns separated by commas
+    const patterns = inputPattern.split(',').map(p => p.trim()).filter(p => p);
+
+    console.log(`🔍 Searching for URLs matching: ${patterns.map(p => `"${p}"`).join(', ')}\n`);
 
     const urls = await readUrlsFromFile();
 
     // Find matching URLs
-    const matchingUrls = urls.filter(url => {
-        // Try exact match first
-        if (url === pattern) return true;
+    const matchingUrlsSet = new Set();
 
-        // Try substring match
-        if (url.includes(pattern)) return true;
-
-        // Try regex match (if pattern looks like a regex)
-        try {
-            const regex = new RegExp(pattern, 'i');
-            return regex.test(url);
-        } catch {
-            return false;
-        }
+    patterns.forEach(pattern => {
+        urls.forEach(url => {
+            // Try exact match
+            if (url === pattern) matchingUrlsSet.add(url);
+            // Try substring match
+            else if (url.includes(pattern)) matchingUrlsSet.add(url);
+            // Try regex match
+            else {
+                try {
+                    const regex = new RegExp(pattern, 'i');
+                    if (regex.test(url)) matchingUrlsSet.add(url);
+                } catch {
+                    // Ignore invalid regex
+                }
+            }
+        });
     });
 
+    const matchingUrls = Array.from(matchingUrlsSet);
+
     if (matchingUrls.length === 0) {
-        console.log(`❌ No URLs found matching: "${pattern}"`);
+        console.log(`❌ No URLs found matching: ${patterns.map(p => `"${p}"`).join(', ')}`);
         console.log('\n💡 Tip: Try using a substring like "accordion" or "advanced-heading"');
         return { success: [], failed: [] };
     }

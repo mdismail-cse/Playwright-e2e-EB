@@ -1,7 +1,12 @@
 name: Update Snapshots
 
 on:
-  workflow_dispatch: # Manual trigger only
+  workflow_dispatch:
+    inputs:
+      url_pattern:
+        description: 'URL pattern to update (e.g., "accordion", "data-table", or comma-separated list "search,grid"). Leave empty for all.'
+        required: false
+        default: ''
 
 env:
   MAX_CONCURRENT: 10  # Number of parallel snapshot threads
@@ -28,8 +33,15 @@ jobs:
     - name: Install Playwright browsers
       run: npx playwright install --with-deps chromium
       
-    - name: Update all snapshots (parallel)
-      run: npm run snapshot:all
+    - name: Update snapshots
+      run: |
+        if [ -n "${{ github.event.inputs.url_pattern }}" ]; then
+          echo "🔄 Updating snapshots matching: ${{ github.event.inputs.url_pattern }}"
+          node create-snapshots.js --update "${{ github.event.inputs.url_pattern }}"
+        else
+          echo "🔄 Updating all snapshots"
+          npm run snapshot:all
+        fi
       env:
         MAX_CONCURRENT: 10
       
