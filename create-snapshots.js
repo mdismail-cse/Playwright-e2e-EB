@@ -385,6 +385,7 @@ async function generateReport(results, totalUrls) {
  * @param {string} inputPattern - URL pattern to match (can be exact URL, substring, or comma-separated list)
  */
 async function updateSpecificSnapshot(inputPattern) {
+    const startTimestamp = Date.now();
     // Support multiple patterns separated by commas
     const patterns = inputPattern.split(',').map(p => p.trim()).filter(p => p);
 
