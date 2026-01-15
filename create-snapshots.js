@@ -132,8 +132,8 @@ async function stabilizePage(page) {
         await page.evaluate(() => {
             const selectors = [
                 '#nx-bar-top',                      // Holiday/Promo banner
-                '[class*="nx-v2"]',                // NotificationX popups
-                '[class*="notificationx"]',        // More NotificationX
+                'div[class*="nx-v2"]',             // NotificationX popups (specific to div)
+                'div[class*="notificationx"]',     // More NotificationX (specific to div)
                 '.e-chat-bubble',                  // Chat widget
                 '.wp-chat-bubble',                 // Alternative chat widget
                 '#wp-live-chat-by-3CX',            // Alternative chat widget
@@ -197,6 +197,10 @@ async function createOrUpdateSnapshot(url, customFilename = null) {
         // Get ARIA snapshot of main content area (excludes header with countdown timer)
         const contentElement = await page.locator('.eb-fullwidth-container').first();
         const snapshot = await contentElement.ariaSnapshot();
+
+        if (!snapshot || snapshot.trim().length === 0) {
+            throw new Error('Captured snapshot is empty');
+        }
 
         // Determine filename
         const filename = customFilename || urlToFilename(url);
