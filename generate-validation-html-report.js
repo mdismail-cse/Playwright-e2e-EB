@@ -7,7 +7,7 @@ const path = require('path');
  * Generate HTML report from validation JSON
  */
 async function generateValidationHTMLReport(reportData) {
-    const totalIssues = reportData.failedValidations + reportData.missingSnapshots + reportData.errors;
+    const totalIssues = reportData.failedValidations + reportData.missingSnapshots + reportData.errorsCount;
     const statusClass = totalIssues === 0 ? 'success' : 'failed';
 
     const html = `
@@ -184,7 +184,7 @@ async function generateValidationHTMLReport(reportData) {
         <div class="metric-label">📄 Missing</div>
       </div>
       <div class="metric">
-        <div class="metric-value failed-color">${reportData.errors}</div>
+        <div class="metric-value failed-color">${reportData.errorsCount}</div>
         <div class="metric-label">⚠️ Errors</div>
       </div>
       <div class="metric">

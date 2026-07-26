@@ -57,7 +57,7 @@ jobs:
           PASSED=$(jq -r '.passedValidations' "$REPORT_FILE")
           FAILED=$(jq -r '.failedValidations' "$REPORT_FILE")
           MISSING=$(jq -r '.missingSnapshots' "$REPORT_FILE")
-          ERRORS=$(jq -r '.errors' "$REPORT_FILE")
+          ERRORS=$(jq -r '.errorsCount' "$REPORT_FILE")
           TOTAL=$(jq -r '.totalUrls' "$REPORT_FILE")
           SUCCESS_RATE=$(jq -r '.successRate' "$REPORT_FILE")
           DURATION=$(jq -r '.durationSeconds' "$REPORT_FILE")
@@ -136,7 +136,7 @@ jobs:
           const reportFile = '${{ steps.validation_report.outputs.report_file }}';
           const report = JSON.parse(fs.readFileSync(reportFile, 'utf8'));
           
-          const totalIssues = report.failedValidations + report.missingSnapshots + report.errors;
+          const totalIssues = report.failedValidations + report.missingSnapshots + report.errorsCount;
           
           let comment = `## 🧪 Snapshot Validation Results\n\n`;
           comment += `| Metric | Value |\n`;
@@ -144,7 +144,7 @@ jobs:
           comment += `| ✅ Passed | ${report.passedValidations} |\n`;
           comment += `| ❌ Failed | ${report.failedValidations} |\n`;
           comment += `| 📄 Missing | ${report.missingSnapshots} |\n`;
-          comment += `| ⚠️ Errors | ${report.errors} |\n`;
+          comment += `| ⚠️ Errors | ${report.errorsCount} |\n`;
           comment += `| 📁 Total URLs | ${report.totalUrls} |\n`;
           comment += `| 📈 Success Rate | ${report.successRate}% |\n`;
           comment += `| ⏱️ Duration | ${report.durationSeconds}s |\n\n`;

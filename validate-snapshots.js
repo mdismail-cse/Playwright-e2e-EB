@@ -425,7 +425,7 @@ async function generateReport(results, totalUrls) {
         passedValidations: results.passed.length,
         failedValidations: results.failed.length,
         missingSnapshots: results.missing.length,
-        errors: results.errors.length,
+        errorsCount: results.errors.length,
         durationSeconds: parseFloat(results.duration),
         successRate: ((results.passed.length / totalUrls) * 100).toFixed(2),
         speedValidationsPerSecond: (totalUrls / parseFloat(results.duration)).toFixed(2),
